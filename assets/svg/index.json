@@ -1,0 +1,7170 @@
+{
+  "a-arrow-down": {
+    "file": "assets/svg/a-arrow-down.svg",
+    "name": "a-arrow-down"
+  },
+  "a-arrow-up": {
+    "file": "assets/svg/a-arrow-up.svg",
+    "name": "a-arrow-up"
+  },
+  "a-large-small": {
+    "file": "assets/svg/a-large-small.svg",
+    "name": "a-large-small"
+  },
+  "accessibility": {
+    "file": "assets/svg/accessibility.svg",
+    "name": "accessibility"
+  },
+  "activity": {
+    "file": "assets/svg/activity.svg",
+    "name": "activity"
+  },
+  "ad": {
+    "file": "assets/svg/ad.svg",
+    "name": "ad"
+  },
+  "air-vent": {
+    "file": "assets/svg/air-vent.svg",
+    "name": "air-vent"
+  },
+  "airplay": {
+    "file": "assets/svg/airplay.svg",
+    "name": "airplay"
+  },
+  "alarm-clock-check": {
+    "file": "assets/svg/alarm-clock-check.svg",
+    "name": "alarm-clock-check"
+  },
+  "alarm-clock-minus": {
+    "file": "assets/svg/alarm-clock-minus.svg",
+    "name": "alarm-clock-minus"
+  },
+  "alarm-clock-off": {
+    "file": "assets/svg/alarm-clock-off.svg",
+    "name": "alarm-clock-off"
+  },
+  "alarm-clock-plus": {
+    "file": "assets/svg/alarm-clock-plus.svg",
+    "name": "alarm-clock-plus"
+  },
+  "alarm-clock": {
+    "file": "assets/svg/alarm-clock.svg",
+    "name": "alarm-clock"
+  },
+  "alarm-smoke": {
+    "file": "assets/svg/alarm-smoke.svg",
+    "name": "alarm-smoke"
+  },
+  "album": {
+    "file": "assets/svg/album.svg",
+    "name": "album"
+  },
+  "align-center-horizontal": {
+    "file": "assets/svg/align-center-horizontal.svg",
+    "name": "align-center-horizontal"
+  },
+  "align-center-vertical": {
+    "file": "assets/svg/align-center-vertical.svg",
+    "name": "align-center-vertical"
+  },
+  "align-end-horizontal": {
+    "file": "assets/svg/align-end-horizontal.svg",
+    "name": "align-end-horizontal"
+  },
+  "align-end-vertical": {
+    "file": "assets/svg/align-end-vertical.svg",
+    "name": "align-end-vertical"
+  },
+  "align-horizontal-distribute-center": {
+    "file": "assets/svg/align-horizontal-distribute-center.svg",
+    "name": "align-horizontal-distribute-center"
+  },
+  "align-horizontal-distribute-end": {
+    "file": "assets/svg/align-horizontal-distribute-end.svg",
+    "name": "align-horizontal-distribute-end"
+  },
+  "align-horizontal-distribute-start": {
+    "file": "assets/svg/align-horizontal-distribute-start.svg",
+    "name": "align-horizontal-distribute-start"
+  },
+  "align-horizontal-justify-center": {
+    "file": "assets/svg/align-horizontal-justify-center.svg",
+    "name": "align-horizontal-justify-center"
+  },
+  "align-horizontal-justify-end": {
+    "file": "assets/svg/align-horizontal-justify-end.svg",
+    "name": "align-horizontal-justify-end"
+  },
+  "align-horizontal-justify-start": {
+    "file": "assets/svg/align-horizontal-justify-start.svg",
+    "name": "align-horizontal-justify-start"
+  },
+  "align-horizontal-space-around": {
+    "file": "assets/svg/align-horizontal-space-around.svg",
+    "name": "align-horizontal-space-around"
+  },
+  "align-horizontal-space-between": {
+    "file": "assets/svg/align-horizontal-space-between.svg",
+    "name": "align-horizontal-space-between"
+  },
+  "align-start-horizontal": {
+    "file": "assets/svg/align-start-horizontal.svg",
+    "name": "align-start-horizontal"
+  },
+  "align-start-vertical": {
+    "file": "assets/svg/align-start-vertical.svg",
+    "name": "align-start-vertical"
+  },
+  "align-vertical-distribute-center": {
+    "file": "assets/svg/align-vertical-distribute-center.svg",
+    "name": "align-vertical-distribute-center"
+  },
+  "align-vertical-distribute-end": {
+    "file": "assets/svg/align-vertical-distribute-end.svg",
+    "name": "align-vertical-distribute-end"
+  },
+  "align-vertical-distribute-start": {
+    "file": "assets/svg/align-vertical-distribute-start.svg",
+    "name": "align-vertical-distribute-start"
+  },
+  "align-vertical-justify-center": {
+    "file": "assets/svg/align-vertical-justify-center.svg",
+    "name": "align-vertical-justify-center"
+  },
+  "align-vertical-justify-end": {
+    "file": "assets/svg/align-vertical-justify-end.svg",
+    "name": "align-vertical-justify-end"
+  },
+  "align-vertical-justify-start": {
+    "file": "assets/svg/align-vertical-justify-start.svg",
+    "name": "align-vertical-justify-start"
+  },
+  "align-vertical-space-around": {
+    "file": "assets/svg/align-vertical-space-around.svg",
+    "name": "align-vertical-space-around"
+  },
+  "align-vertical-space-between": {
+    "file": "assets/svg/align-vertical-space-between.svg",
+    "name": "align-vertical-space-between"
+  },
+  "ambulance": {
+    "file": "assets/svg/ambulance.svg",
+    "name": "ambulance"
+  },
+  "ampersand": {
+    "file": "assets/svg/ampersand.svg",
+    "name": "ampersand"
+  },
+  "ampersands": {
+    "file": "assets/svg/ampersands.svg",
+    "name": "ampersands"
+  },
+  "amphora": {
+    "file": "assets/svg/amphora.svg",
+    "name": "amphora"
+  },
+  "anchor": {
+    "file": "assets/svg/anchor.svg",
+    "name": "anchor"
+  },
+  "angle": {
+    "file": "assets/svg/angle.svg",
+    "name": "angle"
+  },
+  "antenna": {
+    "file": "assets/svg/antenna.svg",
+    "name": "antenna"
+  },
+  "anvil": {
+    "file": "assets/svg/anvil.svg",
+    "name": "anvil"
+  },
+  "aperture": {
+    "file": "assets/svg/aperture.svg",
+    "name": "aperture"
+  },
+  "app-window-mac": {
+    "file": "assets/svg/app-window-mac.svg",
+    "name": "app-window-mac"
+  },
+  "app-window": {
+    "file": "assets/svg/app-window.svg",
+    "name": "app-window"
+  },
+  "apple": {
+    "file": "assets/svg/apple.svg",
+    "name": "apple"
+  },
+  "archive-restore": {
+    "file": "assets/svg/archive-restore.svg",
+    "name": "archive-restore"
+  },
+  "archive-x": {
+    "file": "assets/svg/archive-x.svg",
+    "name": "archive-x"
+  },
+  "archive": {
+    "file": "assets/svg/archive.svg",
+    "name": "archive"
+  },
+  "armchair": {
+    "file": "assets/svg/armchair.svg",
+    "name": "armchair"
+  },
+  "arrow-big-down-dash": {
+    "file": "assets/svg/arrow-big-down-dash.svg",
+    "name": "arrow-big-down-dash"
+  },
+  "arrow-big-down": {
+    "file": "assets/svg/arrow-big-down.svg",
+    "name": "arrow-big-down"
+  },
+  "arrow-big-left-dash": {
+    "file": "assets/svg/arrow-big-left-dash.svg",
+    "name": "arrow-big-left-dash"
+  },
+  "arrow-big-left": {
+    "file": "assets/svg/arrow-big-left.svg",
+    "name": "arrow-big-left"
+  },
+  "arrow-big-right-dash": {
+    "file": "assets/svg/arrow-big-right-dash.svg",
+    "name": "arrow-big-right-dash"
+  },
+  "arrow-big-right": {
+    "file": "assets/svg/arrow-big-right.svg",
+    "name": "arrow-big-right"
+  },
+  "arrow-big-up-dash": {
+    "file": "assets/svg/arrow-big-up-dash.svg",
+    "name": "arrow-big-up-dash"
+  },
+  "arrow-big-up": {
+    "file": "assets/svg/arrow-big-up.svg",
+    "name": "arrow-big-up"
+  },
+  "arrow-down-0-1": {
+    "file": "assets/svg/arrow-down-0-1.svg",
+    "name": "arrow-down-0-1"
+  },
+  "arrow-down-1-0": {
+    "file": "assets/svg/arrow-down-1-0.svg",
+    "name": "arrow-down-1-0"
+  },
+  "arrow-down-a-z": {
+    "file": "assets/svg/arrow-down-a-z.svg",
+    "name": "arrow-down-a-z"
+  },
+  "arrow-down-from-line": {
+    "file": "assets/svg/arrow-down-from-line.svg",
+    "name": "arrow-down-from-line"
+  },
+  "arrow-down-left": {
+    "file": "assets/svg/arrow-down-left.svg",
+    "name": "arrow-down-left"
+  },
+  "arrow-down-narrow-wide": {
+    "file": "assets/svg/arrow-down-narrow-wide.svg",
+    "name": "arrow-down-narrow-wide"
+  },
+  "arrow-down-right": {
+    "file": "assets/svg/arrow-down-right.svg",
+    "name": "arrow-down-right"
+  },
+  "arrow-down-to-dot": {
+    "file": "assets/svg/arrow-down-to-dot.svg",
+    "name": "arrow-down-to-dot"
+  },
+  "arrow-down-to-line": {
+    "file": "assets/svg/arrow-down-to-line.svg",
+    "name": "arrow-down-to-line"
+  },
+  "arrow-down-up": {
+    "file": "assets/svg/arrow-down-up.svg",
+    "name": "arrow-down-up"
+  },
+  "arrow-down-wide-narrow": {
+    "file": "assets/svg/arrow-down-wide-narrow.svg",
+    "name": "arrow-down-wide-narrow"
+  },
+  "arrow-down-z-a": {
+    "file": "assets/svg/arrow-down-z-a.svg",
+    "name": "arrow-down-z-a"
+  },
+  "arrow-down": {
+    "file": "assets/svg/arrow-down.svg",
+    "name": "arrow-down"
+  },
+  "arrow-left-from-line": {
+    "file": "assets/svg/arrow-left-from-line.svg",
+    "name": "arrow-left-from-line"
+  },
+  "arrow-left-right": {
+    "file": "assets/svg/arrow-left-right.svg",
+    "name": "arrow-left-right"
+  },
+  "arrow-left-to-line": {
+    "file": "assets/svg/arrow-left-to-line.svg",
+    "name": "arrow-left-to-line"
+  },
+  "arrow-left": {
+    "file": "assets/svg/arrow-left.svg",
+    "name": "arrow-left"
+  },
+  "arrow-right-from-line": {
+    "file": "assets/svg/arrow-right-from-line.svg",
+    "name": "arrow-right-from-line"
+  },
+  "arrow-right-left": {
+    "file": "assets/svg/arrow-right-left.svg",
+    "name": "arrow-right-left"
+  },
+  "arrow-right-to-line": {
+    "file": "assets/svg/arrow-right-to-line.svg",
+    "name": "arrow-right-to-line"
+  },
+  "arrow-right": {
+    "file": "assets/svg/arrow-right.svg",
+    "name": "arrow-right"
+  },
+  "arrow-up-0-1": {
+    "file": "assets/svg/arrow-up-0-1.svg",
+    "name": "arrow-up-0-1"
+  },
+  "arrow-up-1-0": {
+    "file": "assets/svg/arrow-up-1-0.svg",
+    "name": "arrow-up-1-0"
+  },
+  "arrow-up-a-z": {
+    "file": "assets/svg/arrow-up-a-z.svg",
+    "name": "arrow-up-a-z"
+  },
+  "arrow-up-down": {
+    "file": "assets/svg/arrow-up-down.svg",
+    "name": "arrow-up-down"
+  },
+  "arrow-up-from-dot": {
+    "file": "assets/svg/arrow-up-from-dot.svg",
+    "name": "arrow-up-from-dot"
+  },
+  "arrow-up-from-line": {
+    "file": "assets/svg/arrow-up-from-line.svg",
+    "name": "arrow-up-from-line"
+  },
+  "arrow-up-left": {
+    "file": "assets/svg/arrow-up-left.svg",
+    "name": "arrow-up-left"
+  },
+  "arrow-up-narrow-wide": {
+    "file": "assets/svg/arrow-up-narrow-wide.svg",
+    "name": "arrow-up-narrow-wide"
+  },
+  "arrow-up-right": {
+    "file": "assets/svg/arrow-up-right.svg",
+    "name": "arrow-up-right"
+  },
+  "arrow-up-to-line": {
+    "file": "assets/svg/arrow-up-to-line.svg",
+    "name": "arrow-up-to-line"
+  },
+  "arrow-up-wide-narrow": {
+    "file": "assets/svg/arrow-up-wide-narrow.svg",
+    "name": "arrow-up-wide-narrow"
+  },
+  "arrow-up-z-a": {
+    "file": "assets/svg/arrow-up-z-a.svg",
+    "name": "arrow-up-z-a"
+  },
+  "arrow-up": {
+    "file": "assets/svg/arrow-up.svg",
+    "name": "arrow-up"
+  },
+  "arrows-up-from-line": {
+    "file": "assets/svg/arrows-up-from-line.svg",
+    "name": "arrows-up-from-line"
+  },
+  "asterisk": {
+    "file": "assets/svg/asterisk.svg",
+    "name": "asterisk"
+  },
+  "astroid": {
+    "file": "assets/svg/astroid.svg",
+    "name": "astroid"
+  },
+  "at-sign": {
+    "file": "assets/svg/at-sign.svg",
+    "name": "at-sign"
+  },
+  "atom": {
+    "file": "assets/svg/atom.svg",
+    "name": "atom"
+  },
+  "audio-lines-off": {
+    "file": "assets/svg/audio-lines-off.svg",
+    "name": "audio-lines-off"
+  },
+  "audio-lines-x": {
+    "file": "assets/svg/audio-lines-x.svg",
+    "name": "audio-lines-x"
+  },
+  "audio-lines": {
+    "file": "assets/svg/audio-lines.svg",
+    "name": "audio-lines"
+  },
+  "audio-waveform": {
+    "file": "assets/svg/audio-waveform.svg",
+    "name": "audio-waveform"
+  },
+  "award": {
+    "file": "assets/svg/award.svg",
+    "name": "award"
+  },
+  "axe": {
+    "file": "assets/svg/axe.svg",
+    "name": "axe"
+  },
+  "axis-3d": {
+    "file": "assets/svg/axis-3d.svg",
+    "name": "axis-3d"
+  },
+  "baby": {
+    "file": "assets/svg/baby.svg",
+    "name": "baby"
+  },
+  "backpack": {
+    "file": "assets/svg/backpack.svg",
+    "name": "backpack"
+  },
+  "badge-alert": {
+    "file": "assets/svg/badge-alert.svg",
+    "name": "badge-alert"
+  },
+  "badge-cent": {
+    "file": "assets/svg/badge-cent.svg",
+    "name": "badge-cent"
+  },
+  "badge-check": {
+    "file": "assets/svg/badge-check.svg",
+    "name": "badge-check"
+  },
+  "badge-dollar-sign": {
+    "file": "assets/svg/badge-dollar-sign.svg",
+    "name": "badge-dollar-sign"
+  },
+  "badge-euro": {
+    "file": "assets/svg/badge-euro.svg",
+    "name": "badge-euro"
+  },
+  "badge-indian-rupee": {
+    "file": "assets/svg/badge-indian-rupee.svg",
+    "name": "badge-indian-rupee"
+  },
+  "badge-info": {
+    "file": "assets/svg/badge-info.svg",
+    "name": "badge-info"
+  },
+  "badge-japanese-yen": {
+    "file": "assets/svg/badge-japanese-yen.svg",
+    "name": "badge-japanese-yen"
+  },
+  "badge-minus": {
+    "file": "assets/svg/badge-minus.svg",
+    "name": "badge-minus"
+  },
+  "badge-percent": {
+    "file": "assets/svg/badge-percent.svg",
+    "name": "badge-percent"
+  },
+  "badge-plus": {
+    "file": "assets/svg/badge-plus.svg",
+    "name": "badge-plus"
+  },
+  "badge-pound-sterling": {
+    "file": "assets/svg/badge-pound-sterling.svg",
+    "name": "badge-pound-sterling"
+  },
+  "badge-question-mark": {
+    "file": "assets/svg/badge-question-mark.svg",
+    "name": "badge-question-mark"
+  },
+  "badge-russian-ruble": {
+    "file": "assets/svg/badge-russian-ruble.svg",
+    "name": "badge-russian-ruble"
+  },
+  "badge-swiss-franc": {
+    "file": "assets/svg/badge-swiss-franc.svg",
+    "name": "badge-swiss-franc"
+  },
+  "badge-turkish-lira": {
+    "file": "assets/svg/badge-turkish-lira.svg",
+    "name": "badge-turkish-lira"
+  },
+  "badge-x": {
+    "file": "assets/svg/badge-x.svg",
+    "name": "badge-x"
+  },
+  "badge": {
+    "file": "assets/svg/badge.svg",
+    "name": "badge"
+  },
+  "baggage-claim": {
+    "file": "assets/svg/baggage-claim.svg",
+    "name": "baggage-claim"
+  },
+  "balloon": {
+    "file": "assets/svg/balloon.svg",
+    "name": "balloon"
+  },
+  "ban": {
+    "file": "assets/svg/ban.svg",
+    "name": "ban"
+  },
+  "banana": {
+    "file": "assets/svg/banana.svg",
+    "name": "banana"
+  },
+  "bandage": {
+    "file": "assets/svg/bandage.svg",
+    "name": "bandage"
+  },
+  "banknote-arrow-down": {
+    "file": "assets/svg/banknote-arrow-down.svg",
+    "name": "banknote-arrow-down"
+  },
+  "banknote-arrow-up": {
+    "file": "assets/svg/banknote-arrow-up.svg",
+    "name": "banknote-arrow-up"
+  },
+  "banknote-check": {
+    "file": "assets/svg/banknote-check.svg",
+    "name": "banknote-check"
+  },
+  "banknote-x": {
+    "file": "assets/svg/banknote-x.svg",
+    "name": "banknote-x"
+  },
+  "banknote": {
+    "file": "assets/svg/banknote.svg",
+    "name": "banknote"
+  },
+  "barcode": {
+    "file": "assets/svg/barcode.svg",
+    "name": "barcode"
+  },
+  "barrel": {
+    "file": "assets/svg/barrel.svg",
+    "name": "barrel"
+  },
+  "baseline": {
+    "file": "assets/svg/baseline.svg",
+    "name": "baseline"
+  },
+  "bath": {
+    "file": "assets/svg/bath.svg",
+    "name": "bath"
+  },
+  "battery-charging": {
+    "file": "assets/svg/battery-charging.svg",
+    "name": "battery-charging"
+  },
+  "battery-full": {
+    "file": "assets/svg/battery-full.svg",
+    "name": "battery-full"
+  },
+  "battery-low": {
+    "file": "assets/svg/battery-low.svg",
+    "name": "battery-low"
+  },
+  "battery-medium": {
+    "file": "assets/svg/battery-medium.svg",
+    "name": "battery-medium"
+  },
+  "battery-plus": {
+    "file": "assets/svg/battery-plus.svg",
+    "name": "battery-plus"
+  },
+  "battery-warning": {
+    "file": "assets/svg/battery-warning.svg",
+    "name": "battery-warning"
+  },
+  "battery": {
+    "file": "assets/svg/battery.svg",
+    "name": "battery"
+  },
+  "beaker": {
+    "file": "assets/svg/beaker.svg",
+    "name": "beaker"
+  },
+  "bean-off": {
+    "file": "assets/svg/bean-off.svg",
+    "name": "bean-off"
+  },
+  "bean": {
+    "file": "assets/svg/bean.svg",
+    "name": "bean"
+  },
+  "bed-double": {
+    "file": "assets/svg/bed-double.svg",
+    "name": "bed-double"
+  },
+  "bed-single": {
+    "file": "assets/svg/bed-single.svg",
+    "name": "bed-single"
+  },
+  "bed": {
+    "file": "assets/svg/bed.svg",
+    "name": "bed"
+  },
+  "beef-off": {
+    "file": "assets/svg/beef-off.svg",
+    "name": "beef-off"
+  },
+  "beef": {
+    "file": "assets/svg/beef.svg",
+    "name": "beef"
+  },
+  "beer-off": {
+    "file": "assets/svg/beer-off.svg",
+    "name": "beer-off"
+  },
+  "beer": {
+    "file": "assets/svg/beer.svg",
+    "name": "beer"
+  },
+  "bell-check": {
+    "file": "assets/svg/bell-check.svg",
+    "name": "bell-check"
+  },
+  "bell-dot": {
+    "file": "assets/svg/bell-dot.svg",
+    "name": "bell-dot"
+  },
+  "bell-electric": {
+    "file": "assets/svg/bell-electric.svg",
+    "name": "bell-electric"
+  },
+  "bell-minus": {
+    "file": "assets/svg/bell-minus.svg",
+    "name": "bell-minus"
+  },
+  "bell-off": {
+    "file": "assets/svg/bell-off.svg",
+    "name": "bell-off"
+  },
+  "bell-plus": {
+    "file": "assets/svg/bell-plus.svg",
+    "name": "bell-plus"
+  },
+  "bell-ring": {
+    "file": "assets/svg/bell-ring.svg",
+    "name": "bell-ring"
+  },
+  "bell": {
+    "file": "assets/svg/bell.svg",
+    "name": "bell"
+  },
+  "between-horizontal-end": {
+    "file": "assets/svg/between-horizontal-end.svg",
+    "name": "between-horizontal-end"
+  },
+  "between-horizontal-start": {
+    "file": "assets/svg/between-horizontal-start.svg",
+    "name": "between-horizontal-start"
+  },
+  "between-vertical-end": {
+    "file": "assets/svg/between-vertical-end.svg",
+    "name": "between-vertical-end"
+  },
+  "between-vertical-start": {
+    "file": "assets/svg/between-vertical-start.svg",
+    "name": "between-vertical-start"
+  },
+  "biceps-flexed": {
+    "file": "assets/svg/biceps-flexed.svg",
+    "name": "biceps-flexed"
+  },
+  "bike": {
+    "file": "assets/svg/bike.svg",
+    "name": "bike"
+  },
+  "binary": {
+    "file": "assets/svg/binary.svg",
+    "name": "binary"
+  },
+  "binoculars": {
+    "file": "assets/svg/binoculars.svg",
+    "name": "binoculars"
+  },
+  "biohazard": {
+    "file": "assets/svg/biohazard.svg",
+    "name": "biohazard"
+  },
+  "bird": {
+    "file": "assets/svg/bird.svg",
+    "name": "bird"
+  },
+  "birdhouse": {
+    "file": "assets/svg/birdhouse.svg",
+    "name": "birdhouse"
+  },
+  "bitcoin": {
+    "file": "assets/svg/bitcoin.svg",
+    "name": "bitcoin"
+  },
+  "blend": {
+    "file": "assets/svg/blend.svg",
+    "name": "blend"
+  },
+  "blender": {
+    "file": "assets/svg/blender.svg",
+    "name": "blender"
+  },
+  "blinds": {
+    "file": "assets/svg/blinds.svg",
+    "name": "blinds"
+  },
+  "blocks": {
+    "file": "assets/svg/blocks.svg",
+    "name": "blocks"
+  },
+  "bluetooth-connected": {
+    "file": "assets/svg/bluetooth-connected.svg",
+    "name": "bluetooth-connected"
+  },
+  "bluetooth-off": {
+    "file": "assets/svg/bluetooth-off.svg",
+    "name": "bluetooth-off"
+  },
+  "bluetooth-searching": {
+    "file": "assets/svg/bluetooth-searching.svg",
+    "name": "bluetooth-searching"
+  },
+  "bluetooth": {
+    "file": "assets/svg/bluetooth.svg",
+    "name": "bluetooth"
+  },
+  "bold": {
+    "file": "assets/svg/bold.svg",
+    "name": "bold"
+  },
+  "bolt": {
+    "file": "assets/svg/bolt.svg",
+    "name": "bolt"
+  },
+  "bomb": {
+    "file": "assets/svg/bomb.svg",
+    "name": "bomb"
+  },
+  "bone-fracture": {
+    "file": "assets/svg/bone-fracture.svg",
+    "name": "bone-fracture"
+  },
+  "bone": {
+    "file": "assets/svg/bone.svg",
+    "name": "bone"
+  },
+  "book-a": {
+    "file": "assets/svg/book-a.svg",
+    "name": "book-a"
+  },
+  "book-alert": {
+    "file": "assets/svg/book-alert.svg",
+    "name": "book-alert"
+  },
+  "book-audio": {
+    "file": "assets/svg/book-audio.svg",
+    "name": "book-audio"
+  },
+  "book-check": {
+    "file": "assets/svg/book-check.svg",
+    "name": "book-check"
+  },
+  "book-copy": {
+    "file": "assets/svg/book-copy.svg",
+    "name": "book-copy"
+  },
+  "book-dashed": {
+    "file": "assets/svg/book-dashed.svg",
+    "name": "book-dashed"
+  },
+  "book-down": {
+    "file": "assets/svg/book-down.svg",
+    "name": "book-down"
+  },
+  "book-headphones": {
+    "file": "assets/svg/book-headphones.svg",
+    "name": "book-headphones"
+  },
+  "book-heart": {
+    "file": "assets/svg/book-heart.svg",
+    "name": "book-heart"
+  },
+  "book-image": {
+    "file": "assets/svg/book-image.svg",
+    "name": "book-image"
+  },
+  "book-key": {
+    "file": "assets/svg/book-key.svg",
+    "name": "book-key"
+  },
+  "book-lock": {
+    "file": "assets/svg/book-lock.svg",
+    "name": "book-lock"
+  },
+  "book-marked": {
+    "file": "assets/svg/book-marked.svg",
+    "name": "book-marked"
+  },
+  "book-minus": {
+    "file": "assets/svg/book-minus.svg",
+    "name": "book-minus"
+  },
+  "book-open-check": {
+    "file": "assets/svg/book-open-check.svg",
+    "name": "book-open-check"
+  },
+  "book-open-text": {
+    "file": "assets/svg/book-open-text.svg",
+    "name": "book-open-text"
+  },
+  "book-open": {
+    "file": "assets/svg/book-open.svg",
+    "name": "book-open"
+  },
+  "book-plus": {
+    "file": "assets/svg/book-plus.svg",
+    "name": "book-plus"
+  },
+  "book-search": {
+    "file": "assets/svg/book-search.svg",
+    "name": "book-search"
+  },
+  "book-text": {
+    "file": "assets/svg/book-text.svg",
+    "name": "book-text"
+  },
+  "book-type": {
+    "file": "assets/svg/book-type.svg",
+    "name": "book-type"
+  },
+  "book-up-2": {
+    "file": "assets/svg/book-up-2.svg",
+    "name": "book-up-2"
+  },
+  "book-up": {
+    "file": "assets/svg/book-up.svg",
+    "name": "book-up"
+  },
+  "book-user": {
+    "file": "assets/svg/book-user.svg",
+    "name": "book-user"
+  },
+  "book-x": {
+    "file": "assets/svg/book-x.svg",
+    "name": "book-x"
+  },
+  "book": {
+    "file": "assets/svg/book.svg",
+    "name": "book"
+  },
+  "bookmark-check": {
+    "file": "assets/svg/bookmark-check.svg",
+    "name": "bookmark-check"
+  },
+  "bookmark-minus": {
+    "file": "assets/svg/bookmark-minus.svg",
+    "name": "bookmark-minus"
+  },
+  "bookmark-off": {
+    "file": "assets/svg/bookmark-off.svg",
+    "name": "bookmark-off"
+  },
+  "bookmark-plus": {
+    "file": "assets/svg/bookmark-plus.svg",
+    "name": "bookmark-plus"
+  },
+  "bookmark-x": {
+    "file": "assets/svg/bookmark-x.svg",
+    "name": "bookmark-x"
+  },
+  "bookmark": {
+    "file": "assets/svg/bookmark.svg",
+    "name": "bookmark"
+  },
+  "boom-box": {
+    "file": "assets/svg/boom-box.svg",
+    "name": "boom-box"
+  },
+  "bot-message-square": {
+    "file": "assets/svg/bot-message-square.svg",
+    "name": "bot-message-square"
+  },
+  "bot-off": {
+    "file": "assets/svg/bot-off.svg",
+    "name": "bot-off"
+  },
+  "bot": {
+    "file": "assets/svg/bot.svg",
+    "name": "bot"
+  },
+  "bottle-wine": {
+    "file": "assets/svg/bottle-wine.svg",
+    "name": "bottle-wine"
+  },
+  "bow-arrow": {
+    "file": "assets/svg/bow-arrow.svg",
+    "name": "bow-arrow"
+  },
+  "box": {
+    "file": "assets/svg/box.svg",
+    "name": "box"
+  },
+  "boxes": {
+    "file": "assets/svg/boxes.svg",
+    "name": "boxes"
+  },
+  "braces": {
+    "file": "assets/svg/braces.svg",
+    "name": "braces"
+  },
+  "brackets": {
+    "file": "assets/svg/brackets.svg",
+    "name": "brackets"
+  },
+  "brain-circuit": {
+    "file": "assets/svg/brain-circuit.svg",
+    "name": "brain-circuit"
+  },
+  "brain-cog": {
+    "file": "assets/svg/brain-cog.svg",
+    "name": "brain-cog"
+  },
+  "brain": {
+    "file": "assets/svg/brain.svg",
+    "name": "brain"
+  },
+  "brick-wall-fire": {
+    "file": "assets/svg/brick-wall-fire.svg",
+    "name": "brick-wall-fire"
+  },
+  "brick-wall-shield": {
+    "file": "assets/svg/brick-wall-shield.svg",
+    "name": "brick-wall-shield"
+  },
+  "brick-wall": {
+    "file": "assets/svg/brick-wall.svg",
+    "name": "brick-wall"
+  },
+  "briefcase-business": {
+    "file": "assets/svg/briefcase-business.svg",
+    "name": "briefcase-business"
+  },
+  "briefcase-conveyor-belt": {
+    "file": "assets/svg/briefcase-conveyor-belt.svg",
+    "name": "briefcase-conveyor-belt"
+  },
+  "briefcase-medical": {
+    "file": "assets/svg/briefcase-medical.svg",
+    "name": "briefcase-medical"
+  },
+  "briefcase": {
+    "file": "assets/svg/briefcase.svg",
+    "name": "briefcase"
+  },
+  "bring-to-front": {
+    "file": "assets/svg/bring-to-front.svg",
+    "name": "bring-to-front"
+  },
+  "broccoli": {
+    "file": "assets/svg/broccoli.svg",
+    "name": "broccoli"
+  },
+  "broom-sparkles": {
+    "file": "assets/svg/broom-sparkles.svg",
+    "name": "broom-sparkles"
+  },
+  "broom": {
+    "file": "assets/svg/broom.svg",
+    "name": "broom"
+  },
+  "brush-cleaning": {
+    "file": "assets/svg/brush-cleaning.svg",
+    "name": "brush-cleaning"
+  },
+  "brush": {
+    "file": "assets/svg/brush.svg",
+    "name": "brush"
+  },
+  "bubbles": {
+    "file": "assets/svg/bubbles.svg",
+    "name": "bubbles"
+  },
+  "bug-off": {
+    "file": "assets/svg/bug-off.svg",
+    "name": "bug-off"
+  },
+  "bug-play": {
+    "file": "assets/svg/bug-play.svg",
+    "name": "bug-play"
+  },
+  "bug": {
+    "file": "assets/svg/bug.svg",
+    "name": "bug"
+  },
+  "building-2": {
+    "file": "assets/svg/building-2.svg",
+    "name": "building-2"
+  },
+  "building": {
+    "file": "assets/svg/building.svg",
+    "name": "building"
+  },
+  "bus-front": {
+    "file": "assets/svg/bus-front.svg",
+    "name": "bus-front"
+  },
+  "bus": {
+    "file": "assets/svg/bus.svg",
+    "name": "bus"
+  },
+  "cable-car": {
+    "file": "assets/svg/cable-car.svg",
+    "name": "cable-car"
+  },
+  "cable": {
+    "file": "assets/svg/cable.svg",
+    "name": "cable"
+  },
+  "cake-slice": {
+    "file": "assets/svg/cake-slice.svg",
+    "name": "cake-slice"
+  },
+  "cake": {
+    "file": "assets/svg/cake.svg",
+    "name": "cake"
+  },
+  "calculator": {
+    "file": "assets/svg/calculator.svg",
+    "name": "calculator"
+  },
+  "calendar-1": {
+    "file": "assets/svg/calendar-1.svg",
+    "name": "calendar-1"
+  },
+  "calendar-arrow-down": {
+    "file": "assets/svg/calendar-arrow-down.svg",
+    "name": "calendar-arrow-down"
+  },
+  "calendar-arrow-up": {
+    "file": "assets/svg/calendar-arrow-up.svg",
+    "name": "calendar-arrow-up"
+  },
+  "calendar-check-2": {
+    "file": "assets/svg/calendar-check-2.svg",
+    "name": "calendar-check-2"
+  },
+  "calendar-check": {
+    "file": "assets/svg/calendar-check.svg",
+    "name": "calendar-check"
+  },
+  "calendar-clock": {
+    "file": "assets/svg/calendar-clock.svg",
+    "name": "calendar-clock"
+  },
+  "calendar-cog": {
+    "file": "assets/svg/calendar-cog.svg",
+    "name": "calendar-cog"
+  },
+  "calendar-days": {
+    "file": "assets/svg/calendar-days.svg",
+    "name": "calendar-days"
+  },
+  "calendar-fold": {
+    "file": "assets/svg/calendar-fold.svg",
+    "name": "calendar-fold"
+  },
+  "calendar-heart": {
+    "file": "assets/svg/calendar-heart.svg",
+    "name": "calendar-heart"
+  },
+  "calendar-minus-2": {
+    "file": "assets/svg/calendar-minus-2.svg",
+    "name": "calendar-minus-2"
+  },
+  "calendar-minus": {
+    "file": "assets/svg/calendar-minus.svg",
+    "name": "calendar-minus"
+  },
+  "calendar-off": {
+    "file": "assets/svg/calendar-off.svg",
+    "name": "calendar-off"
+  },
+  "calendar-plus-2": {
+    "file": "assets/svg/calendar-plus-2.svg",
+    "name": "calendar-plus-2"
+  },
+  "calendar-plus": {
+    "file": "assets/svg/calendar-plus.svg",
+    "name": "calendar-plus"
+  },
+  "calendar-range": {
+    "file": "assets/svg/calendar-range.svg",
+    "name": "calendar-range"
+  },
+  "calendar-search": {
+    "file": "assets/svg/calendar-search.svg",
+    "name": "calendar-search"
+  },
+  "calendar-sync": {
+    "file": "assets/svg/calendar-sync.svg",
+    "name": "calendar-sync"
+  },
+  "calendar-x-2": {
+    "file": "assets/svg/calendar-x-2.svg",
+    "name": "calendar-x-2"
+  },
+  "calendar-x": {
+    "file": "assets/svg/calendar-x.svg",
+    "name": "calendar-x"
+  },
+  "calendar": {
+    "file": "assets/svg/calendar.svg",
+    "name": "calendar"
+  },
+  "calendars": {
+    "file": "assets/svg/calendars.svg",
+    "name": "calendars"
+  },
+  "camera-off": {
+    "file": "assets/svg/camera-off.svg",
+    "name": "camera-off"
+  },
+  "camera": {
+    "file": "assets/svg/camera.svg",
+    "name": "camera"
+  },
+  "candy-cane": {
+    "file": "assets/svg/candy-cane.svg",
+    "name": "candy-cane"
+  },
+  "candy-off": {
+    "file": "assets/svg/candy-off.svg",
+    "name": "candy-off"
+  },
+  "candy": {
+    "file": "assets/svg/candy.svg",
+    "name": "candy"
+  },
+  "cannabis-off": {
+    "file": "assets/svg/cannabis-off.svg",
+    "name": "cannabis-off"
+  },
+  "cannabis": {
+    "file": "assets/svg/cannabis.svg",
+    "name": "cannabis"
+  },
+  "captions-off": {
+    "file": "assets/svg/captions-off.svg",
+    "name": "captions-off"
+  },
+  "captions": {
+    "file": "assets/svg/captions.svg",
+    "name": "captions"
+  },
+  "car-battery": {
+    "file": "assets/svg/car-battery.svg",
+    "name": "car-battery"
+  },
+  "car-front": {
+    "file": "assets/svg/car-front.svg",
+    "name": "car-front"
+  },
+  "car-taxi-front": {
+    "file": "assets/svg/car-taxi-front.svg",
+    "name": "car-taxi-front"
+  },
+  "car": {
+    "file": "assets/svg/car.svg",
+    "name": "car"
+  },
+  "caravan": {
+    "file": "assets/svg/caravan.svg",
+    "name": "caravan"
+  },
+  "card-sim": {
+    "file": "assets/svg/card-sim.svg",
+    "name": "card-sim"
+  },
+  "carrot": {
+    "file": "assets/svg/carrot.svg",
+    "name": "carrot"
+  },
+  "case-lower": {
+    "file": "assets/svg/case-lower.svg",
+    "name": "case-lower"
+  },
+  "case-sensitive": {
+    "file": "assets/svg/case-sensitive.svg",
+    "name": "case-sensitive"
+  },
+  "case-upper": {
+    "file": "assets/svg/case-upper.svg",
+    "name": "case-upper"
+  },
+  "cassette-tape": {
+    "file": "assets/svg/cassette-tape.svg",
+    "name": "cassette-tape"
+  },
+  "cast": {
+    "file": "assets/svg/cast.svg",
+    "name": "cast"
+  },
+  "castle": {
+    "file": "assets/svg/castle.svg",
+    "name": "castle"
+  },
+  "cat": {
+    "file": "assets/svg/cat.svg",
+    "name": "cat"
+  },
+  "cctv-off": {
+    "file": "assets/svg/cctv-off.svg",
+    "name": "cctv-off"
+  },
+  "cctv": {
+    "file": "assets/svg/cctv.svg",
+    "name": "cctv"
+  },
+  "chart-area": {
+    "file": "assets/svg/chart-area.svg",
+    "name": "chart-area"
+  },
+  "chart-bar-big": {
+    "file": "assets/svg/chart-bar-big.svg",
+    "name": "chart-bar-big"
+  },
+  "chart-bar-decreasing": {
+    "file": "assets/svg/chart-bar-decreasing.svg",
+    "name": "chart-bar-decreasing"
+  },
+  "chart-bar-increasing": {
+    "file": "assets/svg/chart-bar-increasing.svg",
+    "name": "chart-bar-increasing"
+  },
+  "chart-bar-stacked": {
+    "file": "assets/svg/chart-bar-stacked.svg",
+    "name": "chart-bar-stacked"
+  },
+  "chart-bar": {
+    "file": "assets/svg/chart-bar.svg",
+    "name": "chart-bar"
+  },
+  "chart-candlestick": {
+    "file": "assets/svg/chart-candlestick.svg",
+    "name": "chart-candlestick"
+  },
+  "chart-column-big": {
+    "file": "assets/svg/chart-column-big.svg",
+    "name": "chart-column-big"
+  },
+  "chart-column-decreasing": {
+    "file": "assets/svg/chart-column-decreasing.svg",
+    "name": "chart-column-decreasing"
+  },
+  "chart-column-increasing": {
+    "file": "assets/svg/chart-column-increasing.svg",
+    "name": "chart-column-increasing"
+  },
+  "chart-column-stacked": {
+    "file": "assets/svg/chart-column-stacked.svg",
+    "name": "chart-column-stacked"
+  },
+  "chart-column": {
+    "file": "assets/svg/chart-column.svg",
+    "name": "chart-column"
+  },
+  "chart-gantt": {
+    "file": "assets/svg/chart-gantt.svg",
+    "name": "chart-gantt"
+  },
+  "chart-line": {
+    "file": "assets/svg/chart-line.svg",
+    "name": "chart-line"
+  },
+  "chart-network": {
+    "file": "assets/svg/chart-network.svg",
+    "name": "chart-network"
+  },
+  "chart-no-axes-column-decreasing": {
+    "file": "assets/svg/chart-no-axes-column-decreasing.svg",
+    "name": "chart-no-axes-column-decreasing"
+  },
+  "chart-no-axes-column-increasing": {
+    "file": "assets/svg/chart-no-axes-column-increasing.svg",
+    "name": "chart-no-axes-column-increasing"
+  },
+  "chart-no-axes-column": {
+    "file": "assets/svg/chart-no-axes-column.svg",
+    "name": "chart-no-axes-column"
+  },
+  "chart-no-axes-combined": {
+    "file": "assets/svg/chart-no-axes-combined.svg",
+    "name": "chart-no-axes-combined"
+  },
+  "chart-no-axes-gantt": {
+    "file": "assets/svg/chart-no-axes-gantt.svg",
+    "name": "chart-no-axes-gantt"
+  },
+  "chart-pie": {
+    "file": "assets/svg/chart-pie.svg",
+    "name": "chart-pie"
+  },
+  "chart-scatter": {
+    "file": "assets/svg/chart-scatter.svg",
+    "name": "chart-scatter"
+  },
+  "chart-spline": {
+    "file": "assets/svg/chart-spline.svg",
+    "name": "chart-spline"
+  },
+  "check-check": {
+    "file": "assets/svg/check-check.svg",
+    "name": "check-check"
+  },
+  "check-line": {
+    "file": "assets/svg/check-line.svg",
+    "name": "check-line"
+  },
+  "check": {
+    "file": "assets/svg/check.svg",
+    "name": "check"
+  },
+  "chef-hat": {
+    "file": "assets/svg/chef-hat.svg",
+    "name": "chef-hat"
+  },
+  "cherry": {
+    "file": "assets/svg/cherry.svg",
+    "name": "cherry"
+  },
+  "chess-bishop": {
+    "file": "assets/svg/chess-bishop.svg",
+    "name": "chess-bishop"
+  },
+  "chess-king": {
+    "file": "assets/svg/chess-king.svg",
+    "name": "chess-king"
+  },
+  "chess-knight": {
+    "file": "assets/svg/chess-knight.svg",
+    "name": "chess-knight"
+  },
+  "chess-pawn": {
+    "file": "assets/svg/chess-pawn.svg",
+    "name": "chess-pawn"
+  },
+  "chess-queen": {
+    "file": "assets/svg/chess-queen.svg",
+    "name": "chess-queen"
+  },
+  "chess-rook": {
+    "file": "assets/svg/chess-rook.svg",
+    "name": "chess-rook"
+  },
+  "chevron-down": {
+    "file": "assets/svg/chevron-down.svg",
+    "name": "chevron-down"
+  },
+  "chevron-first": {
+    "file": "assets/svg/chevron-first.svg",
+    "name": "chevron-first"
+  },
+  "chevron-last": {
+    "file": "assets/svg/chevron-last.svg",
+    "name": "chevron-last"
+  },
+  "chevron-left": {
+    "file": "assets/svg/chevron-left.svg",
+    "name": "chevron-left"
+  },
+  "chevron-right": {
+    "file": "assets/svg/chevron-right.svg",
+    "name": "chevron-right"
+  },
+  "chevron-up": {
+    "file": "assets/svg/chevron-up.svg",
+    "name": "chevron-up"
+  },
+  "chevrons-down-up": {
+    "file": "assets/svg/chevrons-down-up.svg",
+    "name": "chevrons-down-up"
+  },
+  "chevrons-down": {
+    "file": "assets/svg/chevrons-down.svg",
+    "name": "chevrons-down"
+  },
+  "chevrons-left-right-ellipsis": {
+    "file": "assets/svg/chevrons-left-right-ellipsis.svg",
+    "name": "chevrons-left-right-ellipsis"
+  },
+  "chevrons-left-right": {
+    "file": "assets/svg/chevrons-left-right.svg",
+    "name": "chevrons-left-right"
+  },
+  "chevrons-left": {
+    "file": "assets/svg/chevrons-left.svg",
+    "name": "chevrons-left"
+  },
+  "chevrons-right-left": {
+    "file": "assets/svg/chevrons-right-left.svg",
+    "name": "chevrons-right-left"
+  },
+  "chevrons-right": {
+    "file": "assets/svg/chevrons-right.svg",
+    "name": "chevrons-right"
+  },
+  "chevrons-up-down": {
+    "file": "assets/svg/chevrons-up-down.svg",
+    "name": "chevrons-up-down"
+  },
+  "chevrons-up": {
+    "file": "assets/svg/chevrons-up.svg",
+    "name": "chevrons-up"
+  },
+  "church": {
+    "file": "assets/svg/church.svg",
+    "name": "church"
+  },
+  "cigarette-off": {
+    "file": "assets/svg/cigarette-off.svg",
+    "name": "cigarette-off"
+  },
+  "cigarette": {
+    "file": "assets/svg/cigarette.svg",
+    "name": "cigarette"
+  },
+  "circle-alert": {
+    "file": "assets/svg/circle-alert.svg",
+    "name": "circle-alert"
+  },
+  "circle-arrow-down": {
+    "file": "assets/svg/circle-arrow-down.svg",
+    "name": "circle-arrow-down"
+  },
+  "circle-arrow-left": {
+    "file": "assets/svg/circle-arrow-left.svg",
+    "name": "circle-arrow-left"
+  },
+  "circle-arrow-out-down-left": {
+    "file": "assets/svg/circle-arrow-out-down-left.svg",
+    "name": "circle-arrow-out-down-left"
+  },
+  "circle-arrow-out-down-right": {
+    "file": "assets/svg/circle-arrow-out-down-right.svg",
+    "name": "circle-arrow-out-down-right"
+  },
+  "circle-arrow-out-up-left": {
+    "file": "assets/svg/circle-arrow-out-up-left.svg",
+    "name": "circle-arrow-out-up-left"
+  },
+  "circle-arrow-out-up-right": {
+    "file": "assets/svg/circle-arrow-out-up-right.svg",
+    "name": "circle-arrow-out-up-right"
+  },
+  "circle-arrow-right": {
+    "file": "assets/svg/circle-arrow-right.svg",
+    "name": "circle-arrow-right"
+  },
+  "circle-arrow-up": {
+    "file": "assets/svg/circle-arrow-up.svg",
+    "name": "circle-arrow-up"
+  },
+  "circle-check-big": {
+    "file": "assets/svg/circle-check-big.svg",
+    "name": "circle-check-big"
+  },
+  "circle-check": {
+    "file": "assets/svg/circle-check.svg",
+    "name": "circle-check"
+  },
+  "circle-chevron-down": {
+    "file": "assets/svg/circle-chevron-down.svg",
+    "name": "circle-chevron-down"
+  },
+  "circle-chevron-left": {
+    "file": "assets/svg/circle-chevron-left.svg",
+    "name": "circle-chevron-left"
+  },
+  "circle-chevron-right": {
+    "file": "assets/svg/circle-chevron-right.svg",
+    "name": "circle-chevron-right"
+  },
+  "circle-chevron-up": {
+    "file": "assets/svg/circle-chevron-up.svg",
+    "name": "circle-chevron-up"
+  },
+  "circle-dashed": {
+    "file": "assets/svg/circle-dashed.svg",
+    "name": "circle-dashed"
+  },
+  "circle-divide": {
+    "file": "assets/svg/circle-divide.svg",
+    "name": "circle-divide"
+  },
+  "circle-dollar-sign": {
+    "file": "assets/svg/circle-dollar-sign.svg",
+    "name": "circle-dollar-sign"
+  },
+  "circle-dot-dashed": {
+    "file": "assets/svg/circle-dot-dashed.svg",
+    "name": "circle-dot-dashed"
+  },
+  "circle-dot": {
+    "file": "assets/svg/circle-dot.svg",
+    "name": "circle-dot"
+  },
+  "circle-ellipsis": {
+    "file": "assets/svg/circle-ellipsis.svg",
+    "name": "circle-ellipsis"
+  },
+  "circle-equal": {
+    "file": "assets/svg/circle-equal.svg",
+    "name": "circle-equal"
+  },
+  "circle-euro": {
+    "file": "assets/svg/circle-euro.svg",
+    "name": "circle-euro"
+  },
+  "circle-fading-arrow-up": {
+    "file": "assets/svg/circle-fading-arrow-up.svg",
+    "name": "circle-fading-arrow-up"
+  },
+  "circle-fading-plus": {
+    "file": "assets/svg/circle-fading-plus.svg",
+    "name": "circle-fading-plus"
+  },
+  "circle-gauge": {
+    "file": "assets/svg/circle-gauge.svg",
+    "name": "circle-gauge"
+  },
+  "circle-minus": {
+    "file": "assets/svg/circle-minus.svg",
+    "name": "circle-minus"
+  },
+  "circle-off": {
+    "file": "assets/svg/circle-off.svg",
+    "name": "circle-off"
+  },
+  "circle-parking-off": {
+    "file": "assets/svg/circle-parking-off.svg",
+    "name": "circle-parking-off"
+  },
+  "circle-parking": {
+    "file": "assets/svg/circle-parking.svg",
+    "name": "circle-parking"
+  },
+  "circle-pause": {
+    "file": "assets/svg/circle-pause.svg",
+    "name": "circle-pause"
+  },
+  "circle-percent": {
+    "file": "assets/svg/circle-percent.svg",
+    "name": "circle-percent"
+  },
+  "circle-pile": {
+    "file": "assets/svg/circle-pile.svg",
+    "name": "circle-pile"
+  },
+  "circle-play": {
+    "file": "assets/svg/circle-play.svg",
+    "name": "circle-play"
+  },
+  "circle-plus": {
+    "file": "assets/svg/circle-plus.svg",
+    "name": "circle-plus"
+  },
+  "circle-pound-sterling": {
+    "file": "assets/svg/circle-pound-sterling.svg",
+    "name": "circle-pound-sterling"
+  },
+  "circle-power": {
+    "file": "assets/svg/circle-power.svg",
+    "name": "circle-power"
+  },
+  "circle-question-mark": {
+    "file": "assets/svg/circle-question-mark.svg",
+    "name": "circle-question-mark"
+  },
+  "circle-slash-2": {
+    "file": "assets/svg/circle-slash-2.svg",
+    "name": "circle-slash-2"
+  },
+  "circle-slash": {
+    "file": "assets/svg/circle-slash.svg",
+    "name": "circle-slash"
+  },
+  "circle-small": {
+    "file": "assets/svg/circle-small.svg",
+    "name": "circle-small"
+  },
+  "circle-star": {
+    "file": "assets/svg/circle-star.svg",
+    "name": "circle-star"
+  },
+  "circle-stop": {
+    "file": "assets/svg/circle-stop.svg",
+    "name": "circle-stop"
+  },
+  "circle-user-round": {
+    "file": "assets/svg/circle-user-round.svg",
+    "name": "circle-user-round"
+  },
+  "circle-user": {
+    "file": "assets/svg/circle-user.svg",
+    "name": "circle-user"
+  },
+  "circle-x": {
+    "file": "assets/svg/circle-x.svg",
+    "name": "circle-x"
+  },
+  "circle": {
+    "file": "assets/svg/circle.svg",
+    "name": "circle"
+  },
+  "circuit-board": {
+    "file": "assets/svg/circuit-board.svg",
+    "name": "circuit-board"
+  },
+  "citrus": {
+    "file": "assets/svg/citrus.svg",
+    "name": "citrus"
+  },
+  "clapperboard": {
+    "file": "assets/svg/clapperboard.svg",
+    "name": "clapperboard"
+  },
+  "clipboard-check": {
+    "file": "assets/svg/clipboard-check.svg",
+    "name": "clipboard-check"
+  },
+  "clipboard-clock": {
+    "file": "assets/svg/clipboard-clock.svg",
+    "name": "clipboard-clock"
+  },
+  "clipboard-copy": {
+    "file": "assets/svg/clipboard-copy.svg",
+    "name": "clipboard-copy"
+  },
+  "clipboard-list": {
+    "file": "assets/svg/clipboard-list.svg",
+    "name": "clipboard-list"
+  },
+  "clipboard-minus": {
+    "file": "assets/svg/clipboard-minus.svg",
+    "name": "clipboard-minus"
+  },
+  "clipboard-paste": {
+    "file": "assets/svg/clipboard-paste.svg",
+    "name": "clipboard-paste"
+  },
+  "clipboard-pen-line": {
+    "file": "assets/svg/clipboard-pen-line.svg",
+    "name": "clipboard-pen-line"
+  },
+  "clipboard-pen": {
+    "file": "assets/svg/clipboard-pen.svg",
+    "name": "clipboard-pen"
+  },
+  "clipboard-plus": {
+    "file": "assets/svg/clipboard-plus.svg",
+    "name": "clipboard-plus"
+  },
+  "clipboard-type": {
+    "file": "assets/svg/clipboard-type.svg",
+    "name": "clipboard-type"
+  },
+  "clipboard-x": {
+    "file": "assets/svg/clipboard-x.svg",
+    "name": "clipboard-x"
+  },
+  "clipboard": {
+    "file": "assets/svg/clipboard.svg",
+    "name": "clipboard"
+  },
+  "clock-1": {
+    "file": "assets/svg/clock-1.svg",
+    "name": "clock-1"
+  },
+  "clock-10": {
+    "file": "assets/svg/clock-10.svg",
+    "name": "clock-10"
+  },
+  "clock-11": {
+    "file": "assets/svg/clock-11.svg",
+    "name": "clock-11"
+  },
+  "clock-12": {
+    "file": "assets/svg/clock-12.svg",
+    "name": "clock-12"
+  },
+  "clock-2": {
+    "file": "assets/svg/clock-2.svg",
+    "name": "clock-2"
+  },
+  "clock-3": {
+    "file": "assets/svg/clock-3.svg",
+    "name": "clock-3"
+  },
+  "clock-4": {
+    "file": "assets/svg/clock-4.svg",
+    "name": "clock-4"
+  },
+  "clock-5": {
+    "file": "assets/svg/clock-5.svg",
+    "name": "clock-5"
+  },
+  "clock-6": {
+    "file": "assets/svg/clock-6.svg",
+    "name": "clock-6"
+  },
+  "clock-7": {
+    "file": "assets/svg/clock-7.svg",
+    "name": "clock-7"
+  },
+  "clock-8": {
+    "file": "assets/svg/clock-8.svg",
+    "name": "clock-8"
+  },
+  "clock-9": {
+    "file": "assets/svg/clock-9.svg",
+    "name": "clock-9"
+  },
+  "clock-alert": {
+    "file": "assets/svg/clock-alert.svg",
+    "name": "clock-alert"
+  },
+  "clock-arrow-down": {
+    "file": "assets/svg/clock-arrow-down.svg",
+    "name": "clock-arrow-down"
+  },
+  "clock-arrow-left": {
+    "file": "assets/svg/clock-arrow-left.svg",
+    "name": "clock-arrow-left"
+  },
+  "clock-arrow-right": {
+    "file": "assets/svg/clock-arrow-right.svg",
+    "name": "clock-arrow-right"
+  },
+  "clock-arrow-up": {
+    "file": "assets/svg/clock-arrow-up.svg",
+    "name": "clock-arrow-up"
+  },
+  "clock-check": {
+    "file": "assets/svg/clock-check.svg",
+    "name": "clock-check"
+  },
+  "clock-fading": {
+    "file": "assets/svg/clock-fading.svg",
+    "name": "clock-fading"
+  },
+  "clock-plus": {
+    "file": "assets/svg/clock-plus.svg",
+    "name": "clock-plus"
+  },
+  "clock": {
+    "file": "assets/svg/clock.svg",
+    "name": "clock"
+  },
+  "closed-caption": {
+    "file": "assets/svg/closed-caption.svg",
+    "name": "closed-caption"
+  },
+  "cloud-alert": {
+    "file": "assets/svg/cloud-alert.svg",
+    "name": "cloud-alert"
+  },
+  "cloud-backup": {
+    "file": "assets/svg/cloud-backup.svg",
+    "name": "cloud-backup"
+  },
+  "cloud-check": {
+    "file": "assets/svg/cloud-check.svg",
+    "name": "cloud-check"
+  },
+  "cloud-cog": {
+    "file": "assets/svg/cloud-cog.svg",
+    "name": "cloud-cog"
+  },
+  "cloud-download": {
+    "file": "assets/svg/cloud-download.svg",
+    "name": "cloud-download"
+  },
+  "cloud-drizzle": {
+    "file": "assets/svg/cloud-drizzle.svg",
+    "name": "cloud-drizzle"
+  },
+  "cloud-fog": {
+    "file": "assets/svg/cloud-fog.svg",
+    "name": "cloud-fog"
+  },
+  "cloud-hail": {
+    "file": "assets/svg/cloud-hail.svg",
+    "name": "cloud-hail"
+  },
+  "cloud-lightning": {
+    "file": "assets/svg/cloud-lightning.svg",
+    "name": "cloud-lightning"
+  },
+  "cloud-moon-rain": {
+    "file": "assets/svg/cloud-moon-rain.svg",
+    "name": "cloud-moon-rain"
+  },
+  "cloud-moon": {
+    "file": "assets/svg/cloud-moon.svg",
+    "name": "cloud-moon"
+  },
+  "cloud-off": {
+    "file": "assets/svg/cloud-off.svg",
+    "name": "cloud-off"
+  },
+  "cloud-rain-wind": {
+    "file": "assets/svg/cloud-rain-wind.svg",
+    "name": "cloud-rain-wind"
+  },
+  "cloud-rain": {
+    "file": "assets/svg/cloud-rain.svg",
+    "name": "cloud-rain"
+  },
+  "cloud-snow": {
+    "file": "assets/svg/cloud-snow.svg",
+    "name": "cloud-snow"
+  },
+  "cloud-sun-rain": {
+    "file": "assets/svg/cloud-sun-rain.svg",
+    "name": "cloud-sun-rain"
+  },
+  "cloud-sun": {
+    "file": "assets/svg/cloud-sun.svg",
+    "name": "cloud-sun"
+  },
+  "cloud-sync": {
+    "file": "assets/svg/cloud-sync.svg",
+    "name": "cloud-sync"
+  },
+  "cloud-upload": {
+    "file": "assets/svg/cloud-upload.svg",
+    "name": "cloud-upload"
+  },
+  "cloud": {
+    "file": "assets/svg/cloud.svg",
+    "name": "cloud"
+  },
+  "cloudy": {
+    "file": "assets/svg/cloudy.svg",
+    "name": "cloudy"
+  },
+  "clover": {
+    "file": "assets/svg/clover.svg",
+    "name": "clover"
+  },
+  "club": {
+    "file": "assets/svg/club.svg",
+    "name": "club"
+  },
+  "code-xml": {
+    "file": "assets/svg/code-xml.svg",
+    "name": "code-xml"
+  },
+  "code": {
+    "file": "assets/svg/code.svg",
+    "name": "code"
+  },
+  "coffee": {
+    "file": "assets/svg/coffee.svg",
+    "name": "coffee"
+  },
+  "cog": {
+    "file": "assets/svg/cog.svg",
+    "name": "cog"
+  },
+  "coins": {
+    "file": "assets/svg/coins.svg",
+    "name": "coins"
+  },
+  "columns-2": {
+    "file": "assets/svg/columns-2.svg",
+    "name": "columns-2"
+  },
+  "columns-3-cog": {
+    "file": "assets/svg/columns-3-cog.svg",
+    "name": "columns-3-cog"
+  },
+  "columns-3": {
+    "file": "assets/svg/columns-3.svg",
+    "name": "columns-3"
+  },
+  "columns-4": {
+    "file": "assets/svg/columns-4.svg",
+    "name": "columns-4"
+  },
+  "combine": {
+    "file": "assets/svg/combine.svg",
+    "name": "combine"
+  },
+  "command": {
+    "file": "assets/svg/command.svg",
+    "name": "command"
+  },
+  "compass": {
+    "file": "assets/svg/compass.svg",
+    "name": "compass"
+  },
+  "component": {
+    "file": "assets/svg/component.svg",
+    "name": "component"
+  },
+  "computer": {
+    "file": "assets/svg/computer.svg",
+    "name": "computer"
+  },
+  "concierge-bell": {
+    "file": "assets/svg/concierge-bell.svg",
+    "name": "concierge-bell"
+  },
+  "cone": {
+    "file": "assets/svg/cone.svg",
+    "name": "cone"
+  },
+  "construction": {
+    "file": "assets/svg/construction.svg",
+    "name": "construction"
+  },
+  "contact-round": {
+    "file": "assets/svg/contact-round.svg",
+    "name": "contact-round"
+  },
+  "contact": {
+    "file": "assets/svg/contact.svg",
+    "name": "contact"
+  },
+  "container": {
+    "file": "assets/svg/container.svg",
+    "name": "container"
+  },
+  "contrast": {
+    "file": "assets/svg/contrast.svg",
+    "name": "contrast"
+  },
+  "cookie": {
+    "file": "assets/svg/cookie.svg",
+    "name": "cookie"
+  },
+  "cooking-pot": {
+    "file": "assets/svg/cooking-pot.svg",
+    "name": "cooking-pot"
+  },
+  "copy-check": {
+    "file": "assets/svg/copy-check.svg",
+    "name": "copy-check"
+  },
+  "copy-minus": {
+    "file": "assets/svg/copy-minus.svg",
+    "name": "copy-minus"
+  },
+  "copy-plus": {
+    "file": "assets/svg/copy-plus.svg",
+    "name": "copy-plus"
+  },
+  "copy-slash": {
+    "file": "assets/svg/copy-slash.svg",
+    "name": "copy-slash"
+  },
+  "copy-x": {
+    "file": "assets/svg/copy-x.svg",
+    "name": "copy-x"
+  },
+  "copy": {
+    "file": "assets/svg/copy.svg",
+    "name": "copy"
+  },
+  "copyleft": {
+    "file": "assets/svg/copyleft.svg",
+    "name": "copyleft"
+  },
+  "copyright": {
+    "file": "assets/svg/copyright.svg",
+    "name": "copyright"
+  },
+  "corner-down-left": {
+    "file": "assets/svg/corner-down-left.svg",
+    "name": "corner-down-left"
+  },
+  "corner-down-right": {
+    "file": "assets/svg/corner-down-right.svg",
+    "name": "corner-down-right"
+  },
+  "corner-left-down": {
+    "file": "assets/svg/corner-left-down.svg",
+    "name": "corner-left-down"
+  },
+  "corner-left-up": {
+    "file": "assets/svg/corner-left-up.svg",
+    "name": "corner-left-up"
+  },
+  "corner-right-down": {
+    "file": "assets/svg/corner-right-down.svg",
+    "name": "corner-right-down"
+  },
+  "corner-right-up": {
+    "file": "assets/svg/corner-right-up.svg",
+    "name": "corner-right-up"
+  },
+  "corner-up-left": {
+    "file": "assets/svg/corner-up-left.svg",
+    "name": "corner-up-left"
+  },
+  "corner-up-right": {
+    "file": "assets/svg/corner-up-right.svg",
+    "name": "corner-up-right"
+  },
+  "cpu": {
+    "file": "assets/svg/cpu.svg",
+    "name": "cpu"
+  },
+  "creative-commons": {
+    "file": "assets/svg/creative-commons.svg",
+    "name": "creative-commons"
+  },
+  "credit-card-check": {
+    "file": "assets/svg/credit-card-check.svg",
+    "name": "credit-card-check"
+  },
+  "credit-card-minus": {
+    "file": "assets/svg/credit-card-minus.svg",
+    "name": "credit-card-minus"
+  },
+  "credit-card-plus": {
+    "file": "assets/svg/credit-card-plus.svg",
+    "name": "credit-card-plus"
+  },
+  "credit-card-x": {
+    "file": "assets/svg/credit-card-x.svg",
+    "name": "credit-card-x"
+  },
+  "credit-card": {
+    "file": "assets/svg/credit-card.svg",
+    "name": "credit-card"
+  },
+  "croissant": {
+    "file": "assets/svg/croissant.svg",
+    "name": "croissant"
+  },
+  "crop": {
+    "file": "assets/svg/crop.svg",
+    "name": "crop"
+  },
+  "cross": {
+    "file": "assets/svg/cross.svg",
+    "name": "cross"
+  },
+  "crosshair": {
+    "file": "assets/svg/crosshair.svg",
+    "name": "crosshair"
+  },
+  "crown": {
+    "file": "assets/svg/crown.svg",
+    "name": "crown"
+  },
+  "cuboid": {
+    "file": "assets/svg/cuboid.svg",
+    "name": "cuboid"
+  },
+  "cup-soda": {
+    "file": "assets/svg/cup-soda.svg",
+    "name": "cup-soda"
+  },
+  "currency": {
+    "file": "assets/svg/currency.svg",
+    "name": "currency"
+  },
+  "cylinder": {
+    "file": "assets/svg/cylinder.svg",
+    "name": "cylinder"
+  },
+  "dam": {
+    "file": "assets/svg/dam.svg",
+    "name": "dam"
+  },
+  "database-arrow-down": {
+    "file": "assets/svg/database-arrow-down.svg",
+    "name": "database-arrow-down"
+  },
+  "database-arrow-up": {
+    "file": "assets/svg/database-arrow-up.svg",
+    "name": "database-arrow-up"
+  },
+  "database-backup": {
+    "file": "assets/svg/database-backup.svg",
+    "name": "database-backup"
+  },
+  "database-check": {
+    "file": "assets/svg/database-check.svg",
+    "name": "database-check"
+  },
+  "database-minus": {
+    "file": "assets/svg/database-minus.svg",
+    "name": "database-minus"
+  },
+  "database-plus": {
+    "file": "assets/svg/database-plus.svg",
+    "name": "database-plus"
+  },
+  "database-search": {
+    "file": "assets/svg/database-search.svg",
+    "name": "database-search"
+  },
+  "database-x": {
+    "file": "assets/svg/database-x.svg",
+    "name": "database-x"
+  },
+  "database-zap": {
+    "file": "assets/svg/database-zap.svg",
+    "name": "database-zap"
+  },
+  "database": {
+    "file": "assets/svg/database.svg",
+    "name": "database"
+  },
+  "decimals-arrow-left": {
+    "file": "assets/svg/decimals-arrow-left.svg",
+    "name": "decimals-arrow-left"
+  },
+  "decimals-arrow-right": {
+    "file": "assets/svg/decimals-arrow-right.svg",
+    "name": "decimals-arrow-right"
+  },
+  "delete": {
+    "file": "assets/svg/delete.svg",
+    "name": "delete"
+  },
+  "dessert": {
+    "file": "assets/svg/dessert.svg",
+    "name": "dessert"
+  },
+  "diameter": {
+    "file": "assets/svg/diameter.svg",
+    "name": "diameter"
+  },
+  "diamond-minus": {
+    "file": "assets/svg/diamond-minus.svg",
+    "name": "diamond-minus"
+  },
+  "diamond-percent": {
+    "file": "assets/svg/diamond-percent.svg",
+    "name": "diamond-percent"
+  },
+  "diamond-plus": {
+    "file": "assets/svg/diamond-plus.svg",
+    "name": "diamond-plus"
+  },
+  "diamond": {
+    "file": "assets/svg/diamond.svg",
+    "name": "diamond"
+  },
+  "dice-1": {
+    "file": "assets/svg/dice-1.svg",
+    "name": "dice-1"
+  },
+  "dice-2": {
+    "file": "assets/svg/dice-2.svg",
+    "name": "dice-2"
+  },
+  "dice-3": {
+    "file": "assets/svg/dice-3.svg",
+    "name": "dice-3"
+  },
+  "dice-4": {
+    "file": "assets/svg/dice-4.svg",
+    "name": "dice-4"
+  },
+  "dice-5": {
+    "file": "assets/svg/dice-5.svg",
+    "name": "dice-5"
+  },
+  "dice-6": {
+    "file": "assets/svg/dice-6.svg",
+    "name": "dice-6"
+  },
+  "dices": {
+    "file": "assets/svg/dices.svg",
+    "name": "dices"
+  },
+  "diff": {
+    "file": "assets/svg/diff.svg",
+    "name": "diff"
+  },
+  "disc-2": {
+    "file": "assets/svg/disc-2.svg",
+    "name": "disc-2"
+  },
+  "disc-3": {
+    "file": "assets/svg/disc-3.svg",
+    "name": "disc-3"
+  },
+  "disc-album": {
+    "file": "assets/svg/disc-album.svg",
+    "name": "disc-album"
+  },
+  "disc": {
+    "file": "assets/svg/disc.svg",
+    "name": "disc"
+  },
+  "divide": {
+    "file": "assets/svg/divide.svg",
+    "name": "divide"
+  },
+  "dna-off": {
+    "file": "assets/svg/dna-off.svg",
+    "name": "dna-off"
+  },
+  "dna": {
+    "file": "assets/svg/dna.svg",
+    "name": "dna"
+  },
+  "dock": {
+    "file": "assets/svg/dock.svg",
+    "name": "dock"
+  },
+  "dog": {
+    "file": "assets/svg/dog.svg",
+    "name": "dog"
+  },
+  "dollar-sign": {
+    "file": "assets/svg/dollar-sign.svg",
+    "name": "dollar-sign"
+  },
+  "donut": {
+    "file": "assets/svg/donut.svg",
+    "name": "donut"
+  },
+  "door-closed-locked": {
+    "file": "assets/svg/door-closed-locked.svg",
+    "name": "door-closed-locked"
+  },
+  "door-closed": {
+    "file": "assets/svg/door-closed.svg",
+    "name": "door-closed"
+  },
+  "door-open": {
+    "file": "assets/svg/door-open.svg",
+    "name": "door-open"
+  },
+  "dot": {
+    "file": "assets/svg/dot.svg",
+    "name": "dot"
+  },
+  "download": {
+    "file": "assets/svg/download.svg",
+    "name": "download"
+  },
+  "drafting-compass": {
+    "file": "assets/svg/drafting-compass.svg",
+    "name": "drafting-compass"
+  },
+  "drama": {
+    "file": "assets/svg/drama.svg",
+    "name": "drama"
+  },
+  "drill": {
+    "file": "assets/svg/drill.svg",
+    "name": "drill"
+  },
+  "drone": {
+    "file": "assets/svg/drone.svg",
+    "name": "drone"
+  },
+  "droplet-off": {
+    "file": "assets/svg/droplet-off.svg",
+    "name": "droplet-off"
+  },
+  "droplet": {
+    "file": "assets/svg/droplet.svg",
+    "name": "droplet"
+  },
+  "droplets": {
+    "file": "assets/svg/droplets.svg",
+    "name": "droplets"
+  },
+  "drum": {
+    "file": "assets/svg/drum.svg",
+    "name": "drum"
+  },
+  "drumstick": {
+    "file": "assets/svg/drumstick.svg",
+    "name": "drumstick"
+  },
+  "dumbbell": {
+    "file": "assets/svg/dumbbell.svg",
+    "name": "dumbbell"
+  },
+  "ear-off": {
+    "file": "assets/svg/ear-off.svg",
+    "name": "ear-off"
+  },
+  "ear": {
+    "file": "assets/svg/ear.svg",
+    "name": "ear"
+  },
+  "earth-lock": {
+    "file": "assets/svg/earth-lock.svg",
+    "name": "earth-lock"
+  },
+  "earth": {
+    "file": "assets/svg/earth.svg",
+    "name": "earth"
+  },
+  "eclipse": {
+    "file": "assets/svg/eclipse.svg",
+    "name": "eclipse"
+  },
+  "egg-fried": {
+    "file": "assets/svg/egg-fried.svg",
+    "name": "egg-fried"
+  },
+  "egg-off": {
+    "file": "assets/svg/egg-off.svg",
+    "name": "egg-off"
+  },
+  "egg": {
+    "file": "assets/svg/egg.svg",
+    "name": "egg"
+  },
+  "eject": {
+    "file": "assets/svg/eject.svg",
+    "name": "eject"
+  },
+  "ellipse": {
+    "file": "assets/svg/ellipse.svg",
+    "name": "ellipse"
+  },
+  "ellipsis-vertical": {
+    "file": "assets/svg/ellipsis-vertical.svg",
+    "name": "ellipsis-vertical"
+  },
+  "ellipsis": {
+    "file": "assets/svg/ellipsis.svg",
+    "name": "ellipsis"
+  },
+  "equal-approximately": {
+    "file": "assets/svg/equal-approximately.svg",
+    "name": "equal-approximately"
+  },
+  "equal-not": {
+    "file": "assets/svg/equal-not.svg",
+    "name": "equal-not"
+  },
+  "equal": {
+    "file": "assets/svg/equal.svg",
+    "name": "equal"
+  },
+  "eraser": {
+    "file": "assets/svg/eraser.svg",
+    "name": "eraser"
+  },
+  "ethernet-port": {
+    "file": "assets/svg/ethernet-port.svg",
+    "name": "ethernet-port"
+  },
+  "euro": {
+    "file": "assets/svg/euro.svg",
+    "name": "euro"
+  },
+  "ev-charger": {
+    "file": "assets/svg/ev-charger.svg",
+    "name": "ev-charger"
+  },
+  "expand": {
+    "file": "assets/svg/expand.svg",
+    "name": "expand"
+  },
+  "external-link": {
+    "file": "assets/svg/external-link.svg",
+    "name": "external-link"
+  },
+  "eye-closed": {
+    "file": "assets/svg/eye-closed.svg",
+    "name": "eye-closed"
+  },
+  "eye-dashed": {
+    "file": "assets/svg/eye-dashed.svg",
+    "name": "eye-dashed"
+  },
+  "eye-off": {
+    "file": "assets/svg/eye-off.svg",
+    "name": "eye-off"
+  },
+  "eye": {
+    "file": "assets/svg/eye.svg",
+    "name": "eye"
+  },
+  "face-angry": {
+    "file": "assets/svg/face-angry.svg",
+    "name": "face-angry"
+  },
+  "face-expressionless": {
+    "file": "assets/svg/face-expressionless.svg",
+    "name": "face-expressionless"
+  },
+  "face-grinning": {
+    "file": "assets/svg/face-grinning.svg",
+    "name": "face-grinning"
+  },
+  "face-neutral": {
+    "file": "assets/svg/face-neutral.svg",
+    "name": "face-neutral"
+  },
+  "face-slightly-frowning": {
+    "file": "assets/svg/face-slightly-frowning.svg",
+    "name": "face-slightly-frowning"
+  },
+  "face-slightly-smiling-plus": {
+    "file": "assets/svg/face-slightly-smiling-plus.svg",
+    "name": "face-slightly-smiling-plus"
+  },
+  "face-slightly-smiling": {
+    "file": "assets/svg/face-slightly-smiling.svg",
+    "name": "face-slightly-smiling"
+  },
+  "factory": {
+    "file": "assets/svg/factory.svg",
+    "name": "factory"
+  },
+  "fan": {
+    "file": "assets/svg/fan.svg",
+    "name": "fan"
+  },
+  "fast-forward": {
+    "file": "assets/svg/fast-forward.svg",
+    "name": "fast-forward"
+  },
+  "feather": {
+    "file": "assets/svg/feather.svg",
+    "name": "feather"
+  },
+  "fence": {
+    "file": "assets/svg/fence.svg",
+    "name": "fence"
+  },
+  "ferris-wheel": {
+    "file": "assets/svg/ferris-wheel.svg",
+    "name": "ferris-wheel"
+  },
+  "file-archive": {
+    "file": "assets/svg/file-archive.svg",
+    "name": "file-archive"
+  },
+  "file-axis-3d": {
+    "file": "assets/svg/file-axis-3d.svg",
+    "name": "file-axis-3d"
+  },
+  "file-badge": {
+    "file": "assets/svg/file-badge.svg",
+    "name": "file-badge"
+  },
+  "file-box": {
+    "file": "assets/svg/file-box.svg",
+    "name": "file-box"
+  },
+  "file-braces-corner": {
+    "file": "assets/svg/file-braces-corner.svg",
+    "name": "file-braces-corner"
+  },
+  "file-braces": {
+    "file": "assets/svg/file-braces.svg",
+    "name": "file-braces"
+  },
+  "file-chart-column-increasing": {
+    "file": "assets/svg/file-chart-column-increasing.svg",
+    "name": "file-chart-column-increasing"
+  },
+  "file-chart-column": {
+    "file": "assets/svg/file-chart-column.svg",
+    "name": "file-chart-column"
+  },
+  "file-chart-line": {
+    "file": "assets/svg/file-chart-line.svg",
+    "name": "file-chart-line"
+  },
+  "file-chart-pie": {
+    "file": "assets/svg/file-chart-pie.svg",
+    "name": "file-chart-pie"
+  },
+  "file-check-corner": {
+    "file": "assets/svg/file-check-corner.svg",
+    "name": "file-check-corner"
+  },
+  "file-check": {
+    "file": "assets/svg/file-check.svg",
+    "name": "file-check"
+  },
+  "file-clock": {
+    "file": "assets/svg/file-clock.svg",
+    "name": "file-clock"
+  },
+  "file-code-corner": {
+    "file": "assets/svg/file-code-corner.svg",
+    "name": "file-code-corner"
+  },
+  "file-code": {
+    "file": "assets/svg/file-code.svg",
+    "name": "file-code"
+  },
+  "file-cog": {
+    "file": "assets/svg/file-cog.svg",
+    "name": "file-cog"
+  },
+  "file-diff": {
+    "file": "assets/svg/file-diff.svg",
+    "name": "file-diff"
+  },
+  "file-digit": {
+    "file": "assets/svg/file-digit.svg",
+    "name": "file-digit"
+  },
+  "file-down": {
+    "file": "assets/svg/file-down.svg",
+    "name": "file-down"
+  },
+  "file-exclamation-point": {
+    "file": "assets/svg/file-exclamation-point.svg",
+    "name": "file-exclamation-point"
+  },
+  "file-headphone": {
+    "file": "assets/svg/file-headphone.svg",
+    "name": "file-headphone"
+  },
+  "file-heart": {
+    "file": "assets/svg/file-heart.svg",
+    "name": "file-heart"
+  },
+  "file-image": {
+    "file": "assets/svg/file-image.svg",
+    "name": "file-image"
+  },
+  "file-input": {
+    "file": "assets/svg/file-input.svg",
+    "name": "file-input"
+  },
+  "file-key": {
+    "file": "assets/svg/file-key.svg",
+    "name": "file-key"
+  },
+  "file-lock": {
+    "file": "assets/svg/file-lock.svg",
+    "name": "file-lock"
+  },
+  "file-minus-corner": {
+    "file": "assets/svg/file-minus-corner.svg",
+    "name": "file-minus-corner"
+  },
+  "file-minus": {
+    "file": "assets/svg/file-minus.svg",
+    "name": "file-minus"
+  },
+  "file-music": {
+    "file": "assets/svg/file-music.svg",
+    "name": "file-music"
+  },
+  "file-output": {
+    "file": "assets/svg/file-output.svg",
+    "name": "file-output"
+  },
+  "file-pen-line": {
+    "file": "assets/svg/file-pen-line.svg",
+    "name": "file-pen-line"
+  },
+  "file-pen": {
+    "file": "assets/svg/file-pen.svg",
+    "name": "file-pen"
+  },
+  "file-play": {
+    "file": "assets/svg/file-play.svg",
+    "name": "file-play"
+  },
+  "file-plus-corner": {
+    "file": "assets/svg/file-plus-corner.svg",
+    "name": "file-plus-corner"
+  },
+  "file-plus": {
+    "file": "assets/svg/file-plus.svg",
+    "name": "file-plus"
+  },
+  "file-question-mark": {
+    "file": "assets/svg/file-question-mark.svg",
+    "name": "file-question-mark"
+  },
+  "file-scan": {
+    "file": "assets/svg/file-scan.svg",
+    "name": "file-scan"
+  },
+  "file-search-corner": {
+    "file": "assets/svg/file-search-corner.svg",
+    "name": "file-search-corner"
+  },
+  "file-search": {
+    "file": "assets/svg/file-search.svg",
+    "name": "file-search"
+  },
+  "file-signal": {
+    "file": "assets/svg/file-signal.svg",
+    "name": "file-signal"
+  },
+  "file-sliders": {
+    "file": "assets/svg/file-sliders.svg",
+    "name": "file-sliders"
+  },
+  "file-spreadsheet": {
+    "file": "assets/svg/file-spreadsheet.svg",
+    "name": "file-spreadsheet"
+  },
+  "file-stack": {
+    "file": "assets/svg/file-stack.svg",
+    "name": "file-stack"
+  },
+  "file-symlink": {
+    "file": "assets/svg/file-symlink.svg",
+    "name": "file-symlink"
+  },
+  "file-terminal": {
+    "file": "assets/svg/file-terminal.svg",
+    "name": "file-terminal"
+  },
+  "file-text": {
+    "file": "assets/svg/file-text.svg",
+    "name": "file-text"
+  },
+  "file-type-corner": {
+    "file": "assets/svg/file-type-corner.svg",
+    "name": "file-type-corner"
+  },
+  "file-type": {
+    "file": "assets/svg/file-type.svg",
+    "name": "file-type"
+  },
+  "file-up": {
+    "file": "assets/svg/file-up.svg",
+    "name": "file-up"
+  },
+  "file-user": {
+    "file": "assets/svg/file-user.svg",
+    "name": "file-user"
+  },
+  "file-video-camera": {
+    "file": "assets/svg/file-video-camera.svg",
+    "name": "file-video-camera"
+  },
+  "file-volume": {
+    "file": "assets/svg/file-volume.svg",
+    "name": "file-volume"
+  },
+  "file-x-corner": {
+    "file": "assets/svg/file-x-corner.svg",
+    "name": "file-x-corner"
+  },
+  "file-x": {
+    "file": "assets/svg/file-x.svg",
+    "name": "file-x"
+  },
+  "file": {
+    "file": "assets/svg/file.svg",
+    "name": "file"
+  },
+  "files": {
+    "file": "assets/svg/files.svg",
+    "name": "files"
+  },
+  "film": {
+    "file": "assets/svg/film.svg",
+    "name": "film"
+  },
+  "fingerprint-pattern": {
+    "file": "assets/svg/fingerprint-pattern.svg",
+    "name": "fingerprint-pattern"
+  },
+  "fire-extinguisher": {
+    "file": "assets/svg/fire-extinguisher.svg",
+    "name": "fire-extinguisher"
+  },
+  "fish-off": {
+    "file": "assets/svg/fish-off.svg",
+    "name": "fish-off"
+  },
+  "fish-symbol": {
+    "file": "assets/svg/fish-symbol.svg",
+    "name": "fish-symbol"
+  },
+  "fish": {
+    "file": "assets/svg/fish.svg",
+    "name": "fish"
+  },
+  "fishing-hook": {
+    "file": "assets/svg/fishing-hook.svg",
+    "name": "fishing-hook"
+  },
+  "fishing-rod": {
+    "file": "assets/svg/fishing-rod.svg",
+    "name": "fishing-rod"
+  },
+  "flag-off": {
+    "file": "assets/svg/flag-off.svg",
+    "name": "flag-off"
+  },
+  "flag-triangle-left": {
+    "file": "assets/svg/flag-triangle-left.svg",
+    "name": "flag-triangle-left"
+  },
+  "flag-triangle-right": {
+    "file": "assets/svg/flag-triangle-right.svg",
+    "name": "flag-triangle-right"
+  },
+  "flag": {
+    "file": "assets/svg/flag.svg",
+    "name": "flag"
+  },
+  "flame-kindling": {
+    "file": "assets/svg/flame-kindling.svg",
+    "name": "flame-kindling"
+  },
+  "flame": {
+    "file": "assets/svg/flame.svg",
+    "name": "flame"
+  },
+  "flashlight-off": {
+    "file": "assets/svg/flashlight-off.svg",
+    "name": "flashlight-off"
+  },
+  "flashlight": {
+    "file": "assets/svg/flashlight.svg",
+    "name": "flashlight"
+  },
+  "flask-conical-off": {
+    "file": "assets/svg/flask-conical-off.svg",
+    "name": "flask-conical-off"
+  },
+  "flask-conical": {
+    "file": "assets/svg/flask-conical.svg",
+    "name": "flask-conical"
+  },
+  "flask-round": {
+    "file": "assets/svg/flask-round.svg",
+    "name": "flask-round"
+  },
+  "flip-horizontal-2": {
+    "file": "assets/svg/flip-horizontal-2.svg",
+    "name": "flip-horizontal-2"
+  },
+  "flip-vertical-2": {
+    "file": "assets/svg/flip-vertical-2.svg",
+    "name": "flip-vertical-2"
+  },
+  "flower-2": {
+    "file": "assets/svg/flower-2.svg",
+    "name": "flower-2"
+  },
+  "flower": {
+    "file": "assets/svg/flower.svg",
+    "name": "flower"
+  },
+  "focus": {
+    "file": "assets/svg/focus.svg",
+    "name": "focus"
+  },
+  "fold-horizontal": {
+    "file": "assets/svg/fold-horizontal.svg",
+    "name": "fold-horizontal"
+  },
+  "fold-vertical": {
+    "file": "assets/svg/fold-vertical.svg",
+    "name": "fold-vertical"
+  },
+  "folder-archive": {
+    "file": "assets/svg/folder-archive.svg",
+    "name": "folder-archive"
+  },
+  "folder-bookmark": {
+    "file": "assets/svg/folder-bookmark.svg",
+    "name": "folder-bookmark"
+  },
+  "folder-check": {
+    "file": "assets/svg/folder-check.svg",
+    "name": "folder-check"
+  },
+  "folder-clock": {
+    "file": "assets/svg/folder-clock.svg",
+    "name": "folder-clock"
+  },
+  "folder-closed": {
+    "file": "assets/svg/folder-closed.svg",
+    "name": "folder-closed"
+  },
+  "folder-code": {
+    "file": "assets/svg/folder-code.svg",
+    "name": "folder-code"
+  },
+  "folder-cog": {
+    "file": "assets/svg/folder-cog.svg",
+    "name": "folder-cog"
+  },
+  "folder-dot": {
+    "file": "assets/svg/folder-dot.svg",
+    "name": "folder-dot"
+  },
+  "folder-down": {
+    "file": "assets/svg/folder-down.svg",
+    "name": "folder-down"
+  },
+  "folder-git-2": {
+    "file": "assets/svg/folder-git-2.svg",
+    "name": "folder-git-2"
+  },
+  "folder-git": {
+    "file": "assets/svg/folder-git.svg",
+    "name": "folder-git"
+  },
+  "folder-heart": {
+    "file": "assets/svg/folder-heart.svg",
+    "name": "folder-heart"
+  },
+  "folder-input": {
+    "file": "assets/svg/folder-input.svg",
+    "name": "folder-input"
+  },
+  "folder-kanban": {
+    "file": "assets/svg/folder-kanban.svg",
+    "name": "folder-kanban"
+  },
+  "folder-key": {
+    "file": "assets/svg/folder-key.svg",
+    "name": "folder-key"
+  },
+  "folder-lock": {
+    "file": "assets/svg/folder-lock.svg",
+    "name": "folder-lock"
+  },
+  "folder-minus": {
+    "file": "assets/svg/folder-minus.svg",
+    "name": "folder-minus"
+  },
+  "folder-open-dot": {
+    "file": "assets/svg/folder-open-dot.svg",
+    "name": "folder-open-dot"
+  },
+  "folder-open": {
+    "file": "assets/svg/folder-open.svg",
+    "name": "folder-open"
+  },
+  "folder-output": {
+    "file": "assets/svg/folder-output.svg",
+    "name": "folder-output"
+  },
+  "folder-pen": {
+    "file": "assets/svg/folder-pen.svg",
+    "name": "folder-pen"
+  },
+  "folder-plus": {
+    "file": "assets/svg/folder-plus.svg",
+    "name": "folder-plus"
+  },
+  "folder-root": {
+    "file": "assets/svg/folder-root.svg",
+    "name": "folder-root"
+  },
+  "folder-search-2": {
+    "file": "assets/svg/folder-search-2.svg",
+    "name": "folder-search-2"
+  },
+  "folder-search": {
+    "file": "assets/svg/folder-search.svg",
+    "name": "folder-search"
+  },
+  "folder-symlink": {
+    "file": "assets/svg/folder-symlink.svg",
+    "name": "folder-symlink"
+  },
+  "folder-sync": {
+    "file": "assets/svg/folder-sync.svg",
+    "name": "folder-sync"
+  },
+  "folder-tree": {
+    "file": "assets/svg/folder-tree.svg",
+    "name": "folder-tree"
+  },
+  "folder-up": {
+    "file": "assets/svg/folder-up.svg",
+    "name": "folder-up"
+  },
+  "folder-x": {
+    "file": "assets/svg/folder-x.svg",
+    "name": "folder-x"
+  },
+  "folder": {
+    "file": "assets/svg/folder.svg",
+    "name": "folder"
+  },
+  "folders": {
+    "file": "assets/svg/folders.svg",
+    "name": "folders"
+  },
+  "footprints": {
+    "file": "assets/svg/footprints.svg",
+    "name": "footprints"
+  },
+  "forklift": {
+    "file": "assets/svg/forklift.svg",
+    "name": "forklift"
+  },
+  "form": {
+    "file": "assets/svg/form.svg",
+    "name": "form"
+  },
+  "forward": {
+    "file": "assets/svg/forward.svg",
+    "name": "forward"
+  },
+  "frame": {
+    "file": "assets/svg/frame.svg",
+    "name": "frame"
+  },
+  "fuel": {
+    "file": "assets/svg/fuel.svg",
+    "name": "fuel"
+  },
+  "fullscreen": {
+    "file": "assets/svg/fullscreen.svg",
+    "name": "fullscreen"
+  },
+  "funnel-plus": {
+    "file": "assets/svg/funnel-plus.svg",
+    "name": "funnel-plus"
+  },
+  "funnel-x": {
+    "file": "assets/svg/funnel-x.svg",
+    "name": "funnel-x"
+  },
+  "funnel": {
+    "file": "assets/svg/funnel.svg",
+    "name": "funnel"
+  },
+  "galaxy": {
+    "file": "assets/svg/galaxy.svg",
+    "name": "galaxy"
+  },
+  "gallery-horizontal-end": {
+    "file": "assets/svg/gallery-horizontal-end.svg",
+    "name": "gallery-horizontal-end"
+  },
+  "gallery-horizontal": {
+    "file": "assets/svg/gallery-horizontal.svg",
+    "name": "gallery-horizontal"
+  },
+  "gallery-thumbnails": {
+    "file": "assets/svg/gallery-thumbnails.svg",
+    "name": "gallery-thumbnails"
+  },
+  "gallery-vertical-end": {
+    "file": "assets/svg/gallery-vertical-end.svg",
+    "name": "gallery-vertical-end"
+  },
+  "gallery-vertical": {
+    "file": "assets/svg/gallery-vertical.svg",
+    "name": "gallery-vertical"
+  },
+  "gamepad-2": {
+    "file": "assets/svg/gamepad-2.svg",
+    "name": "gamepad-2"
+  },
+  "gamepad-directional": {
+    "file": "assets/svg/gamepad-directional.svg",
+    "name": "gamepad-directional"
+  },
+  "gamepad": {
+    "file": "assets/svg/gamepad.svg",
+    "name": "gamepad"
+  },
+  "gauge": {
+    "file": "assets/svg/gauge.svg",
+    "name": "gauge"
+  },
+  "gavel": {
+    "file": "assets/svg/gavel.svg",
+    "name": "gavel"
+  },
+  "gem": {
+    "file": "assets/svg/gem.svg",
+    "name": "gem"
+  },
+  "georgian-lari": {
+    "file": "assets/svg/georgian-lari.svg",
+    "name": "georgian-lari"
+  },
+  "ghost": {
+    "file": "assets/svg/ghost.svg",
+    "name": "ghost"
+  },
+  "gift": {
+    "file": "assets/svg/gift.svg",
+    "name": "gift"
+  },
+  "git-branch-minus": {
+    "file": "assets/svg/git-branch-minus.svg",
+    "name": "git-branch-minus"
+  },
+  "git-branch-plus": {
+    "file": "assets/svg/git-branch-plus.svg",
+    "name": "git-branch-plus"
+  },
+  "git-branch": {
+    "file": "assets/svg/git-branch.svg",
+    "name": "git-branch"
+  },
+  "git-commit-horizontal": {
+    "file": "assets/svg/git-commit-horizontal.svg",
+    "name": "git-commit-horizontal"
+  },
+  "git-commit-vertical": {
+    "file": "assets/svg/git-commit-vertical.svg",
+    "name": "git-commit-vertical"
+  },
+  "git-compare-arrows": {
+    "file": "assets/svg/git-compare-arrows.svg",
+    "name": "git-compare-arrows"
+  },
+  "git-compare": {
+    "file": "assets/svg/git-compare.svg",
+    "name": "git-compare"
+  },
+  "git-fork": {
+    "file": "assets/svg/git-fork.svg",
+    "name": "git-fork"
+  },
+  "git-graph": {
+    "file": "assets/svg/git-graph.svg",
+    "name": "git-graph"
+  },
+  "git-merge-conflict": {
+    "file": "assets/svg/git-merge-conflict.svg",
+    "name": "git-merge-conflict"
+  },
+  "git-merge": {
+    "file": "assets/svg/git-merge.svg",
+    "name": "git-merge"
+  },
+  "git-pull-request-arrow": {
+    "file": "assets/svg/git-pull-request-arrow.svg",
+    "name": "git-pull-request-arrow"
+  },
+  "git-pull-request-closed": {
+    "file": "assets/svg/git-pull-request-closed.svg",
+    "name": "git-pull-request-closed"
+  },
+  "git-pull-request-create-arrow": {
+    "file": "assets/svg/git-pull-request-create-arrow.svg",
+    "name": "git-pull-request-create-arrow"
+  },
+  "git-pull-request-create": {
+    "file": "assets/svg/git-pull-request-create.svg",
+    "name": "git-pull-request-create"
+  },
+  "git-pull-request-draft": {
+    "file": "assets/svg/git-pull-request-draft.svg",
+    "name": "git-pull-request-draft"
+  },
+  "git-pull-request": {
+    "file": "assets/svg/git-pull-request.svg",
+    "name": "git-pull-request"
+  },
+  "glass-water": {
+    "file": "assets/svg/glass-water.svg",
+    "name": "glass-water"
+  },
+  "glasses": {
+    "file": "assets/svg/glasses.svg",
+    "name": "glasses"
+  },
+  "globe-check": {
+    "file": "assets/svg/globe-check.svg",
+    "name": "globe-check"
+  },
+  "globe-lock": {
+    "file": "assets/svg/globe-lock.svg",
+    "name": "globe-lock"
+  },
+  "globe-off": {
+    "file": "assets/svg/globe-off.svg",
+    "name": "globe-off"
+  },
+  "globe-x": {
+    "file": "assets/svg/globe-x.svg",
+    "name": "globe-x"
+  },
+  "globe": {
+    "file": "assets/svg/globe.svg",
+    "name": "globe"
+  },
+  "goal": {
+    "file": "assets/svg/goal.svg",
+    "name": "goal"
+  },
+  "gpu": {
+    "file": "assets/svg/gpu.svg",
+    "name": "gpu"
+  },
+  "graduation-cap": {
+    "file": "assets/svg/graduation-cap.svg",
+    "name": "graduation-cap"
+  },
+  "grape": {
+    "file": "assets/svg/grape.svg",
+    "name": "grape"
+  },
+  "grid-2x2-check": {
+    "file": "assets/svg/grid-2x2-check.svg",
+    "name": "grid-2x2-check"
+  },
+  "grid-2x2-plus": {
+    "file": "assets/svg/grid-2x2-plus.svg",
+    "name": "grid-2x2-plus"
+  },
+  "grid-2x2-x": {
+    "file": "assets/svg/grid-2x2-x.svg",
+    "name": "grid-2x2-x"
+  },
+  "grid-2x2": {
+    "file": "assets/svg/grid-2x2.svg",
+    "name": "grid-2x2"
+  },
+  "grid-3x2": {
+    "file": "assets/svg/grid-3x2.svg",
+    "name": "grid-3x2"
+  },
+  "grid-3x3": {
+    "file": "assets/svg/grid-3x3.svg",
+    "name": "grid-3x3"
+  },
+  "grip-horizontal": {
+    "file": "assets/svg/grip-horizontal.svg",
+    "name": "grip-horizontal"
+  },
+  "grip-vertical": {
+    "file": "assets/svg/grip-vertical.svg",
+    "name": "grip-vertical"
+  },
+  "grip": {
+    "file": "assets/svg/grip.svg",
+    "name": "grip"
+  },
+  "group": {
+    "file": "assets/svg/group.svg",
+    "name": "group"
+  },
+  "guitar": {
+    "file": "assets/svg/guitar.svg",
+    "name": "guitar"
+  },
+  "ham": {
+    "file": "assets/svg/ham.svg",
+    "name": "ham"
+  },
+  "hamburger": {
+    "file": "assets/svg/hamburger.svg",
+    "name": "hamburger"
+  },
+  "hammer": {
+    "file": "assets/svg/hammer.svg",
+    "name": "hammer"
+  },
+  "hand-coins": {
+    "file": "assets/svg/hand-coins.svg",
+    "name": "hand-coins"
+  },
+  "hand-fist": {
+    "file": "assets/svg/hand-fist.svg",
+    "name": "hand-fist"
+  },
+  "hand-grab": {
+    "file": "assets/svg/hand-grab.svg",
+    "name": "hand-grab"
+  },
+  "hand-heart": {
+    "file": "assets/svg/hand-heart.svg",
+    "name": "hand-heart"
+  },
+  "hand-helping": {
+    "file": "assets/svg/hand-helping.svg",
+    "name": "hand-helping"
+  },
+  "hand-metal": {
+    "file": "assets/svg/hand-metal.svg",
+    "name": "hand-metal"
+  },
+  "hand-platter": {
+    "file": "assets/svg/hand-platter.svg",
+    "name": "hand-platter"
+  },
+  "hand": {
+    "file": "assets/svg/hand.svg",
+    "name": "hand"
+  },
+  "handbag": {
+    "file": "assets/svg/handbag.svg",
+    "name": "handbag"
+  },
+  "handshake": {
+    "file": "assets/svg/handshake.svg",
+    "name": "handshake"
+  },
+  "hard-drive-download": {
+    "file": "assets/svg/hard-drive-download.svg",
+    "name": "hard-drive-download"
+  },
+  "hard-drive-upload": {
+    "file": "assets/svg/hard-drive-upload.svg",
+    "name": "hard-drive-upload"
+  },
+  "hard-drive": {
+    "file": "assets/svg/hard-drive.svg",
+    "name": "hard-drive"
+  },
+  "hard-hat": {
+    "file": "assets/svg/hard-hat.svg",
+    "name": "hard-hat"
+  },
+  "hash": {
+    "file": "assets/svg/hash.svg",
+    "name": "hash"
+  },
+  "hat-glasses": {
+    "file": "assets/svg/hat-glasses.svg",
+    "name": "hat-glasses"
+  },
+  "haze": {
+    "file": "assets/svg/haze.svg",
+    "name": "haze"
+  },
+  "hd": {
+    "file": "assets/svg/hd.svg",
+    "name": "hd"
+  },
+  "hdmi-port": {
+    "file": "assets/svg/hdmi-port.svg",
+    "name": "hdmi-port"
+  },
+  "heading-1": {
+    "file": "assets/svg/heading-1.svg",
+    "name": "heading-1"
+  },
+  "heading-2": {
+    "file": "assets/svg/heading-2.svg",
+    "name": "heading-2"
+  },
+  "heading-3": {
+    "file": "assets/svg/heading-3.svg",
+    "name": "heading-3"
+  },
+  "heading-4": {
+    "file": "assets/svg/heading-4.svg",
+    "name": "heading-4"
+  },
+  "heading-5": {
+    "file": "assets/svg/heading-5.svg",
+    "name": "heading-5"
+  },
+  "heading-6": {
+    "file": "assets/svg/heading-6.svg",
+    "name": "heading-6"
+  },
+  "heading": {
+    "file": "assets/svg/heading.svg",
+    "name": "heading"
+  },
+  "headphone-off": {
+    "file": "assets/svg/headphone-off.svg",
+    "name": "headphone-off"
+  },
+  "headphones": {
+    "file": "assets/svg/headphones.svg",
+    "name": "headphones"
+  },
+  "headset": {
+    "file": "assets/svg/headset.svg",
+    "name": "headset"
+  },
+  "heart-crack": {
+    "file": "assets/svg/heart-crack.svg",
+    "name": "heart-crack"
+  },
+  "heart-handshake": {
+    "file": "assets/svg/heart-handshake.svg",
+    "name": "heart-handshake"
+  },
+  "heart-minus": {
+    "file": "assets/svg/heart-minus.svg",
+    "name": "heart-minus"
+  },
+  "heart-off": {
+    "file": "assets/svg/heart-off.svg",
+    "name": "heart-off"
+  },
+  "heart-plus": {
+    "file": "assets/svg/heart-plus.svg",
+    "name": "heart-plus"
+  },
+  "heart-pulse": {
+    "file": "assets/svg/heart-pulse.svg",
+    "name": "heart-pulse"
+  },
+  "heart-x": {
+    "file": "assets/svg/heart-x.svg",
+    "name": "heart-x"
+  },
+  "heart": {
+    "file": "assets/svg/heart.svg",
+    "name": "heart"
+  },
+  "heater": {
+    "file": "assets/svg/heater.svg",
+    "name": "heater"
+  },
+  "helicopter": {
+    "file": "assets/svg/helicopter.svg",
+    "name": "helicopter"
+  },
+  "hexagon": {
+    "file": "assets/svg/hexagon.svg",
+    "name": "hexagon"
+  },
+  "highlighter": {
+    "file": "assets/svg/highlighter.svg",
+    "name": "highlighter"
+  },
+  "hop-off": {
+    "file": "assets/svg/hop-off.svg",
+    "name": "hop-off"
+  },
+  "hop": {
+    "file": "assets/svg/hop.svg",
+    "name": "hop"
+  },
+  "hospital": {
+    "file": "assets/svg/hospital.svg",
+    "name": "hospital"
+  },
+  "hotel": {
+    "file": "assets/svg/hotel.svg",
+    "name": "hotel"
+  },
+  "hourglass": {
+    "file": "assets/svg/hourglass.svg",
+    "name": "hourglass"
+  },
+  "house-heart": {
+    "file": "assets/svg/house-heart.svg",
+    "name": "house-heart"
+  },
+  "house-plug": {
+    "file": "assets/svg/house-plug.svg",
+    "name": "house-plug"
+  },
+  "house-plus": {
+    "file": "assets/svg/house-plus.svg",
+    "name": "house-plus"
+  },
+  "house-wifi": {
+    "file": "assets/svg/house-wifi.svg",
+    "name": "house-wifi"
+  },
+  "house": {
+    "file": "assets/svg/house.svg",
+    "name": "house"
+  },
+  "ice-cream-bowl": {
+    "file": "assets/svg/ice-cream-bowl.svg",
+    "name": "ice-cream-bowl"
+  },
+  "ice-cream-cone": {
+    "file": "assets/svg/ice-cream-cone.svg",
+    "name": "ice-cream-cone"
+  },
+  "id-card-lanyard": {
+    "file": "assets/svg/id-card-lanyard.svg",
+    "name": "id-card-lanyard"
+  },
+  "id-card": {
+    "file": "assets/svg/id-card.svg",
+    "name": "id-card"
+  },
+  "image-down": {
+    "file": "assets/svg/image-down.svg",
+    "name": "image-down"
+  },
+  "image-minus": {
+    "file": "assets/svg/image-minus.svg",
+    "name": "image-minus"
+  },
+  "image-off": {
+    "file": "assets/svg/image-off.svg",
+    "name": "image-off"
+  },
+  "image-play": {
+    "file": "assets/svg/image-play.svg",
+    "name": "image-play"
+  },
+  "image-plus": {
+    "file": "assets/svg/image-plus.svg",
+    "name": "image-plus"
+  },
+  "image-up": {
+    "file": "assets/svg/image-up.svg",
+    "name": "image-up"
+  },
+  "image-upscale": {
+    "file": "assets/svg/image-upscale.svg",
+    "name": "image-upscale"
+  },
+  "image": {
+    "file": "assets/svg/image.svg",
+    "name": "image"
+  },
+  "images": {
+    "file": "assets/svg/images.svg",
+    "name": "images"
+  },
+  "import": {
+    "file": "assets/svg/import.svg",
+    "name": "import"
+  },
+  "inbox": {
+    "file": "assets/svg/inbox.svg",
+    "name": "inbox"
+  },
+  "indian-rupee": {
+    "file": "assets/svg/indian-rupee.svg",
+    "name": "indian-rupee"
+  },
+  "infinity": {
+    "file": "assets/svg/infinity.svg",
+    "name": "infinity"
+  },
+  "info": {
+    "file": "assets/svg/info.svg",
+    "name": "info"
+  },
+  "inspection-panel": {
+    "file": "assets/svg/inspection-panel.svg",
+    "name": "inspection-panel"
+  },
+  "italic": {
+    "file": "assets/svg/italic.svg",
+    "name": "italic"
+  },
+  "iteration-ccw": {
+    "file": "assets/svg/iteration-ccw.svg",
+    "name": "iteration-ccw"
+  },
+  "iteration-cw": {
+    "file": "assets/svg/iteration-cw.svg",
+    "name": "iteration-cw"
+  },
+  "japanese-yen": {
+    "file": "assets/svg/japanese-yen.svg",
+    "name": "japanese-yen"
+  },
+  "joystick": {
+    "file": "assets/svg/joystick.svg",
+    "name": "joystick"
+  },
+  "kanban": {
+    "file": "assets/svg/kanban.svg",
+    "name": "kanban"
+  },
+  "kayak": {
+    "file": "assets/svg/kayak.svg",
+    "name": "kayak"
+  },
+  "key-round": {
+    "file": "assets/svg/key-round.svg",
+    "name": "key-round"
+  },
+  "key-square": {
+    "file": "assets/svg/key-square.svg",
+    "name": "key-square"
+  },
+  "key": {
+    "file": "assets/svg/key.svg",
+    "name": "key"
+  },
+  "keyboard-music": {
+    "file": "assets/svg/keyboard-music.svg",
+    "name": "keyboard-music"
+  },
+  "keyboard-off": {
+    "file": "assets/svg/keyboard-off.svg",
+    "name": "keyboard-off"
+  },
+  "keyboard": {
+    "file": "assets/svg/keyboard.svg",
+    "name": "keyboard"
+  },
+  "lamp-ceiling": {
+    "file": "assets/svg/lamp-ceiling.svg",
+    "name": "lamp-ceiling"
+  },
+  "lamp-desk": {
+    "file": "assets/svg/lamp-desk.svg",
+    "name": "lamp-desk"
+  },
+  "lamp-floor": {
+    "file": "assets/svg/lamp-floor.svg",
+    "name": "lamp-floor"
+  },
+  "lamp-wall-down": {
+    "file": "assets/svg/lamp-wall-down.svg",
+    "name": "lamp-wall-down"
+  },
+  "lamp-wall-up": {
+    "file": "assets/svg/lamp-wall-up.svg",
+    "name": "lamp-wall-up"
+  },
+  "lamp": {
+    "file": "assets/svg/lamp.svg",
+    "name": "lamp"
+  },
+  "land-plot": {
+    "file": "assets/svg/land-plot.svg",
+    "name": "land-plot"
+  },
+  "landmark": {
+    "file": "assets/svg/landmark.svg",
+    "name": "landmark"
+  },
+  "languages": {
+    "file": "assets/svg/languages.svg",
+    "name": "languages"
+  },
+  "laptop-minimal-check": {
+    "file": "assets/svg/laptop-minimal-check.svg",
+    "name": "laptop-minimal-check"
+  },
+  "laptop-minimal": {
+    "file": "assets/svg/laptop-minimal.svg",
+    "name": "laptop-minimal"
+  },
+  "laptop": {
+    "file": "assets/svg/laptop.svg",
+    "name": "laptop"
+  },
+  "lasso-select": {
+    "file": "assets/svg/lasso-select.svg",
+    "name": "lasso-select"
+  },
+  "lasso": {
+    "file": "assets/svg/lasso.svg",
+    "name": "lasso"
+  },
+  "layer-arrow-down": {
+    "file": "assets/svg/layer-arrow-down.svg",
+    "name": "layer-arrow-down"
+  },
+  "layer-arrow-up": {
+    "file": "assets/svg/layer-arrow-up.svg",
+    "name": "layer-arrow-up"
+  },
+  "layers-2": {
+    "file": "assets/svg/layers-2.svg",
+    "name": "layers-2"
+  },
+  "layers-arrow-down": {
+    "file": "assets/svg/layers-arrow-down.svg",
+    "name": "layers-arrow-down"
+  },
+  "layers-arrow-up": {
+    "file": "assets/svg/layers-arrow-up.svg",
+    "name": "layers-arrow-up"
+  },
+  "layers-minus": {
+    "file": "assets/svg/layers-minus.svg",
+    "name": "layers-minus"
+  },
+  "layers-plus": {
+    "file": "assets/svg/layers-plus.svg",
+    "name": "layers-plus"
+  },
+  "layers": {
+    "file": "assets/svg/layers.svg",
+    "name": "layers"
+  },
+  "layout-dashboard": {
+    "file": "assets/svg/layout-dashboard.svg",
+    "name": "layout-dashboard"
+  },
+  "layout-freeform": {
+    "file": "assets/svg/layout-freeform.svg",
+    "name": "layout-freeform"
+  },
+  "layout-grid": {
+    "file": "assets/svg/layout-grid.svg",
+    "name": "layout-grid"
+  },
+  "layout-list": {
+    "file": "assets/svg/layout-list.svg",
+    "name": "layout-list"
+  },
+  "layout-panel-left": {
+    "file": "assets/svg/layout-panel-left.svg",
+    "name": "layout-panel-left"
+  },
+  "layout-panel-top": {
+    "file": "assets/svg/layout-panel-top.svg",
+    "name": "layout-panel-top"
+  },
+  "layout-template": {
+    "file": "assets/svg/layout-template.svg",
+    "name": "layout-template"
+  },
+  "leaf": {
+    "file": "assets/svg/leaf.svg",
+    "name": "leaf"
+  },
+  "leafy-green": {
+    "file": "assets/svg/leafy-green.svg",
+    "name": "leafy-green"
+  },
+  "lectern": {
+    "file": "assets/svg/lectern.svg",
+    "name": "lectern"
+  },
+  "lens-concave": {
+    "file": "assets/svg/lens-concave.svg",
+    "name": "lens-concave"
+  },
+  "lens-convex": {
+    "file": "assets/svg/lens-convex.svg",
+    "name": "lens-convex"
+  },
+  "library-big": {
+    "file": "assets/svg/library-big.svg",
+    "name": "library-big"
+  },
+  "library": {
+    "file": "assets/svg/library.svg",
+    "name": "library"
+  },
+  "life-buoy": {
+    "file": "assets/svg/life-buoy.svg",
+    "name": "life-buoy"
+  },
+  "ligature": {
+    "file": "assets/svg/ligature.svg",
+    "name": "ligature"
+  },
+  "lightbulb-off": {
+    "file": "assets/svg/lightbulb-off.svg",
+    "name": "lightbulb-off"
+  },
+  "lightbulb": {
+    "file": "assets/svg/lightbulb.svg",
+    "name": "lightbulb"
+  },
+  "line-dot-right-horizontal": {
+    "file": "assets/svg/line-dot-right-horizontal.svg",
+    "name": "line-dot-right-horizontal"
+  },
+  "line-squiggle": {
+    "file": "assets/svg/line-squiggle.svg",
+    "name": "line-squiggle"
+  },
+  "line-style": {
+    "file": "assets/svg/line-style.svg",
+    "name": "line-style"
+  },
+  "link-2-off": {
+    "file": "assets/svg/link-2-off.svg",
+    "name": "link-2-off"
+  },
+  "link-2": {
+    "file": "assets/svg/link-2.svg",
+    "name": "link-2"
+  },
+  "link": {
+    "file": "assets/svg/link.svg",
+    "name": "link"
+  },
+  "list-check": {
+    "file": "assets/svg/list-check.svg",
+    "name": "list-check"
+  },
+  "list-checks": {
+    "file": "assets/svg/list-checks.svg",
+    "name": "list-checks"
+  },
+  "list-chevrons-down-up": {
+    "file": "assets/svg/list-chevrons-down-up.svg",
+    "name": "list-chevrons-down-up"
+  },
+  "list-chevrons-up-down": {
+    "file": "assets/svg/list-chevrons-up-down.svg",
+    "name": "list-chevrons-up-down"
+  },
+  "list-clock": {
+    "file": "assets/svg/list-clock.svg",
+    "name": "list-clock"
+  },
+  "list-collapse": {
+    "file": "assets/svg/list-collapse.svg",
+    "name": "list-collapse"
+  },
+  "list-end": {
+    "file": "assets/svg/list-end.svg",
+    "name": "list-end"
+  },
+  "list-filter-plus": {
+    "file": "assets/svg/list-filter-plus.svg",
+    "name": "list-filter-plus"
+  },
+  "list-filter": {
+    "file": "assets/svg/list-filter.svg",
+    "name": "list-filter"
+  },
+  "list-indent-decrease": {
+    "file": "assets/svg/list-indent-decrease.svg",
+    "name": "list-indent-decrease"
+  },
+  "list-indent-increase": {
+    "file": "assets/svg/list-indent-increase.svg",
+    "name": "list-indent-increase"
+  },
+  "list-minus": {
+    "file": "assets/svg/list-minus.svg",
+    "name": "list-minus"
+  },
+  "list-music": {
+    "file": "assets/svg/list-music.svg",
+    "name": "list-music"
+  },
+  "list-ordered": {
+    "file": "assets/svg/list-ordered.svg",
+    "name": "list-ordered"
+  },
+  "list-plus": {
+    "file": "assets/svg/list-plus.svg",
+    "name": "list-plus"
+  },
+  "list-restart": {
+    "file": "assets/svg/list-restart.svg",
+    "name": "list-restart"
+  },
+  "list-sort-ascending": {
+    "file": "assets/svg/list-sort-ascending.svg",
+    "name": "list-sort-ascending"
+  },
+  "list-sort-descending": {
+    "file": "assets/svg/list-sort-descending.svg",
+    "name": "list-sort-descending"
+  },
+  "list-start": {
+    "file": "assets/svg/list-start.svg",
+    "name": "list-start"
+  },
+  "list-todo": {
+    "file": "assets/svg/list-todo.svg",
+    "name": "list-todo"
+  },
+  "list-tree": {
+    "file": "assets/svg/list-tree.svg",
+    "name": "list-tree"
+  },
+  "list-video": {
+    "file": "assets/svg/list-video.svg",
+    "name": "list-video"
+  },
+  "list-x": {
+    "file": "assets/svg/list-x.svg",
+    "name": "list-x"
+  },
+  "list": {
+    "file": "assets/svg/list.svg",
+    "name": "list"
+  },
+  "loader-circle": {
+    "file": "assets/svg/loader-circle.svg",
+    "name": "loader-circle"
+  },
+  "loader-pinwheel": {
+    "file": "assets/svg/loader-pinwheel.svg",
+    "name": "loader-pinwheel"
+  },
+  "loader": {
+    "file": "assets/svg/loader.svg",
+    "name": "loader"
+  },
+  "locate-fixed": {
+    "file": "assets/svg/locate-fixed.svg",
+    "name": "locate-fixed"
+  },
+  "locate-off": {
+    "file": "assets/svg/locate-off.svg",
+    "name": "locate-off"
+  },
+  "locate": {
+    "file": "assets/svg/locate.svg",
+    "name": "locate"
+  },
+  "lock-keyhole-open": {
+    "file": "assets/svg/lock-keyhole-open.svg",
+    "name": "lock-keyhole-open"
+  },
+  "lock-keyhole": {
+    "file": "assets/svg/lock-keyhole.svg",
+    "name": "lock-keyhole"
+  },
+  "lock-open": {
+    "file": "assets/svg/lock-open.svg",
+    "name": "lock-open"
+  },
+  "lock": {
+    "file": "assets/svg/lock.svg",
+    "name": "lock"
+  },
+  "log-in": {
+    "file": "assets/svg/log-in.svg",
+    "name": "log-in"
+  },
+  "log-out": {
+    "file": "assets/svg/log-out.svg",
+    "name": "log-out"
+  },
+  "logs": {
+    "file": "assets/svg/logs.svg",
+    "name": "logs"
+  },
+  "lollipop": {
+    "file": "assets/svg/lollipop.svg",
+    "name": "lollipop"
+  },
+  "luggage": {
+    "file": "assets/svg/luggage.svg",
+    "name": "luggage"
+  },
+  "magnet": {
+    "file": "assets/svg/magnet.svg",
+    "name": "magnet"
+  },
+  "mail-badge": {
+    "file": "assets/svg/mail-badge.svg",
+    "name": "mail-badge"
+  },
+  "mail-check": {
+    "file": "assets/svg/mail-check.svg",
+    "name": "mail-check"
+  },
+  "mail-clock": {
+    "file": "assets/svg/mail-clock.svg",
+    "name": "mail-clock"
+  },
+  "mail-minus": {
+    "file": "assets/svg/mail-minus.svg",
+    "name": "mail-minus"
+  },
+  "mail-open": {
+    "file": "assets/svg/mail-open.svg",
+    "name": "mail-open"
+  },
+  "mail-plus": {
+    "file": "assets/svg/mail-plus.svg",
+    "name": "mail-plus"
+  },
+  "mail-question-mark": {
+    "file": "assets/svg/mail-question-mark.svg",
+    "name": "mail-question-mark"
+  },
+  "mail-search": {
+    "file": "assets/svg/mail-search.svg",
+    "name": "mail-search"
+  },
+  "mail-warning": {
+    "file": "assets/svg/mail-warning.svg",
+    "name": "mail-warning"
+  },
+  "mail-x": {
+    "file": "assets/svg/mail-x.svg",
+    "name": "mail-x"
+  },
+  "mail": {
+    "file": "assets/svg/mail.svg",
+    "name": "mail"
+  },
+  "mailbox": {
+    "file": "assets/svg/mailbox.svg",
+    "name": "mailbox"
+  },
+  "mails": {
+    "file": "assets/svg/mails.svg",
+    "name": "mails"
+  },
+  "map-minus": {
+    "file": "assets/svg/map-minus.svg",
+    "name": "map-minus"
+  },
+  "map-pin-check-inside": {
+    "file": "assets/svg/map-pin-check-inside.svg",
+    "name": "map-pin-check-inside"
+  },
+  "map-pin-check": {
+    "file": "assets/svg/map-pin-check.svg",
+    "name": "map-pin-check"
+  },
+  "map-pin-house": {
+    "file": "assets/svg/map-pin-house.svg",
+    "name": "map-pin-house"
+  },
+  "map-pin-minus-inside": {
+    "file": "assets/svg/map-pin-minus-inside.svg",
+    "name": "map-pin-minus-inside"
+  },
+  "map-pin-minus": {
+    "file": "assets/svg/map-pin-minus.svg",
+    "name": "map-pin-minus"
+  },
+  "map-pin-off": {
+    "file": "assets/svg/map-pin-off.svg",
+    "name": "map-pin-off"
+  },
+  "map-pin-pen": {
+    "file": "assets/svg/map-pin-pen.svg",
+    "name": "map-pin-pen"
+  },
+  "map-pin-plus-inside": {
+    "file": "assets/svg/map-pin-plus-inside.svg",
+    "name": "map-pin-plus-inside"
+  },
+  "map-pin-plus": {
+    "file": "assets/svg/map-pin-plus.svg",
+    "name": "map-pin-plus"
+  },
+  "map-pin-search": {
+    "file": "assets/svg/map-pin-search.svg",
+    "name": "map-pin-search"
+  },
+  "map-pin-x-inside": {
+    "file": "assets/svg/map-pin-x-inside.svg",
+    "name": "map-pin-x-inside"
+  },
+  "map-pin-x": {
+    "file": "assets/svg/map-pin-x.svg",
+    "name": "map-pin-x"
+  },
+  "map-pin": {
+    "file": "assets/svg/map-pin.svg",
+    "name": "map-pin"
+  },
+  "map-pinned": {
+    "file": "assets/svg/map-pinned.svg",
+    "name": "map-pinned"
+  },
+  "map-plus": {
+    "file": "assets/svg/map-plus.svg",
+    "name": "map-plus"
+  },
+  "map": {
+    "file": "assets/svg/map.svg",
+    "name": "map"
+  },
+  "mars-stroke": {
+    "file": "assets/svg/mars-stroke.svg",
+    "name": "mars-stroke"
+  },
+  "mars": {
+    "file": "assets/svg/mars.svg",
+    "name": "mars"
+  },
+  "martini": {
+    "file": "assets/svg/martini.svg",
+    "name": "martini"
+  },
+  "maximize-2": {
+    "file": "assets/svg/maximize-2.svg",
+    "name": "maximize-2"
+  },
+  "maximize": {
+    "file": "assets/svg/maximize.svg",
+    "name": "maximize"
+  },
+  "medal": {
+    "file": "assets/svg/medal.svg",
+    "name": "medal"
+  },
+  "megaphone-off": {
+    "file": "assets/svg/megaphone-off.svg",
+    "name": "megaphone-off"
+  },
+  "megaphone": {
+    "file": "assets/svg/megaphone.svg",
+    "name": "megaphone"
+  },
+  "memory-stick": {
+    "file": "assets/svg/memory-stick.svg",
+    "name": "memory-stick"
+  },
+  "menu": {
+    "file": "assets/svg/menu.svg",
+    "name": "menu"
+  },
+  "merge": {
+    "file": "assets/svg/merge.svg",
+    "name": "merge"
+  },
+  "message-circle-check": {
+    "file": "assets/svg/message-circle-check.svg",
+    "name": "message-circle-check"
+  },
+  "message-circle-code": {
+    "file": "assets/svg/message-circle-code.svg",
+    "name": "message-circle-code"
+  },
+  "message-circle-dashed-check": {
+    "file": "assets/svg/message-circle-dashed-check.svg",
+    "name": "message-circle-dashed-check"
+  },
+  "message-circle-dashed": {
+    "file": "assets/svg/message-circle-dashed.svg",
+    "name": "message-circle-dashed"
+  },
+  "message-circle-heart": {
+    "file": "assets/svg/message-circle-heart.svg",
+    "name": "message-circle-heart"
+  },
+  "message-circle-more": {
+    "file": "assets/svg/message-circle-more.svg",
+    "name": "message-circle-more"
+  },
+  "message-circle-off": {
+    "file": "assets/svg/message-circle-off.svg",
+    "name": "message-circle-off"
+  },
+  "message-circle-plus": {
+    "file": "assets/svg/message-circle-plus.svg",
+    "name": "message-circle-plus"
+  },
+  "message-circle-question-mark": {
+    "file": "assets/svg/message-circle-question-mark.svg",
+    "name": "message-circle-question-mark"
+  },
+  "message-circle-reply": {
+    "file": "assets/svg/message-circle-reply.svg",
+    "name": "message-circle-reply"
+  },
+  "message-circle-warning": {
+    "file": "assets/svg/message-circle-warning.svg",
+    "name": "message-circle-warning"
+  },
+  "message-circle-x": {
+    "file": "assets/svg/message-circle-x.svg",
+    "name": "message-circle-x"
+  },
+  "message-circle": {
+    "file": "assets/svg/message-circle.svg",
+    "name": "message-circle"
+  },
+  "message-square-check": {
+    "file": "assets/svg/message-square-check.svg",
+    "name": "message-square-check"
+  },
+  "message-square-code": {
+    "file": "assets/svg/message-square-code.svg",
+    "name": "message-square-code"
+  },
+  "message-square-dashed": {
+    "file": "assets/svg/message-square-dashed.svg",
+    "name": "message-square-dashed"
+  },
+  "message-square-diff": {
+    "file": "assets/svg/message-square-diff.svg",
+    "name": "message-square-diff"
+  },
+  "message-square-dot": {
+    "file": "assets/svg/message-square-dot.svg",
+    "name": "message-square-dot"
+  },
+  "message-square-heart": {
+    "file": "assets/svg/message-square-heart.svg",
+    "name": "message-square-heart"
+  },
+  "message-square-lock": {
+    "file": "assets/svg/message-square-lock.svg",
+    "name": "message-square-lock"
+  },
+  "message-square-more": {
+    "file": "assets/svg/message-square-more.svg",
+    "name": "message-square-more"
+  },
+  "message-square-off": {
+    "file": "assets/svg/message-square-off.svg",
+    "name": "message-square-off"
+  },
+  "message-square-plus": {
+    "file": "assets/svg/message-square-plus.svg",
+    "name": "message-square-plus"
+  },
+  "message-square-quote": {
+    "file": "assets/svg/message-square-quote.svg",
+    "name": "message-square-quote"
+  },
+  "message-square-reply": {
+    "file": "assets/svg/message-square-reply.svg",
+    "name": "message-square-reply"
+  },
+  "message-square-share": {
+    "file": "assets/svg/message-square-share.svg",
+    "name": "message-square-share"
+  },
+  "message-square-text": {
+    "file": "assets/svg/message-square-text.svg",
+    "name": "message-square-text"
+  },
+  "message-square-warning": {
+    "file": "assets/svg/message-square-warning.svg",
+    "name": "message-square-warning"
+  },
+  "message-square-x": {
+    "file": "assets/svg/message-square-x.svg",
+    "name": "message-square-x"
+  },
+  "message-square": {
+    "file": "assets/svg/message-square.svg",
+    "name": "message-square"
+  },
+  "messages-square": {
+    "file": "assets/svg/messages-square.svg",
+    "name": "messages-square"
+  },
+  "metronome": {
+    "file": "assets/svg/metronome.svg",
+    "name": "metronome"
+  },
+  "mic-audio-lines": {
+    "file": "assets/svg/mic-audio-lines.svg",
+    "name": "mic-audio-lines"
+  },
+  "mic-off": {
+    "file": "assets/svg/mic-off.svg",
+    "name": "mic-off"
+  },
+  "mic-signal": {
+    "file": "assets/svg/mic-signal.svg",
+    "name": "mic-signal"
+  },
+  "mic-vocal": {
+    "file": "assets/svg/mic-vocal.svg",
+    "name": "mic-vocal"
+  },
+  "mic": {
+    "file": "assets/svg/mic.svg",
+    "name": "mic"
+  },
+  "microchip": {
+    "file": "assets/svg/microchip.svg",
+    "name": "microchip"
+  },
+  "microscope": {
+    "file": "assets/svg/microscope.svg",
+    "name": "microscope"
+  },
+  "microwave": {
+    "file": "assets/svg/microwave.svg",
+    "name": "microwave"
+  },
+  "midi-port": {
+    "file": "assets/svg/midi-port.svg",
+    "name": "midi-port"
+  },
+  "milestone": {
+    "file": "assets/svg/milestone.svg",
+    "name": "milestone"
+  },
+  "milk-off": {
+    "file": "assets/svg/milk-off.svg",
+    "name": "milk-off"
+  },
+  "milk": {
+    "file": "assets/svg/milk.svg",
+    "name": "milk"
+  },
+  "minimize-2": {
+    "file": "assets/svg/minimize-2.svg",
+    "name": "minimize-2"
+  },
+  "minimize": {
+    "file": "assets/svg/minimize.svg",
+    "name": "minimize"
+  },
+  "minus": {
+    "file": "assets/svg/minus.svg",
+    "name": "minus"
+  },
+  "mirror-rectangular": {
+    "file": "assets/svg/mirror-rectangular.svg",
+    "name": "mirror-rectangular"
+  },
+  "mirror-round": {
+    "file": "assets/svg/mirror-round.svg",
+    "name": "mirror-round"
+  },
+  "monitor-check": {
+    "file": "assets/svg/monitor-check.svg",
+    "name": "monitor-check"
+  },
+  "monitor-cloud": {
+    "file": "assets/svg/monitor-cloud.svg",
+    "name": "monitor-cloud"
+  },
+  "monitor-cog": {
+    "file": "assets/svg/monitor-cog.svg",
+    "name": "monitor-cog"
+  },
+  "monitor-dot": {
+    "file": "assets/svg/monitor-dot.svg",
+    "name": "monitor-dot"
+  },
+  "monitor-down": {
+    "file": "assets/svg/monitor-down.svg",
+    "name": "monitor-down"
+  },
+  "monitor-off": {
+    "file": "assets/svg/monitor-off.svg",
+    "name": "monitor-off"
+  },
+  "monitor-pause": {
+    "file": "assets/svg/monitor-pause.svg",
+    "name": "monitor-pause"
+  },
+  "monitor-play": {
+    "file": "assets/svg/monitor-play.svg",
+    "name": "monitor-play"
+  },
+  "monitor-smartphone": {
+    "file": "assets/svg/monitor-smartphone.svg",
+    "name": "monitor-smartphone"
+  },
+  "monitor-speaker": {
+    "file": "assets/svg/monitor-speaker.svg",
+    "name": "monitor-speaker"
+  },
+  "monitor-stop": {
+    "file": "assets/svg/monitor-stop.svg",
+    "name": "monitor-stop"
+  },
+  "monitor-up": {
+    "file": "assets/svg/monitor-up.svg",
+    "name": "monitor-up"
+  },
+  "monitor-x": {
+    "file": "assets/svg/monitor-x.svg",
+    "name": "monitor-x"
+  },
+  "monitor": {
+    "file": "assets/svg/monitor.svg",
+    "name": "monitor"
+  },
+  "moon-star": {
+    "file": "assets/svg/moon-star.svg",
+    "name": "moon-star"
+  },
+  "moon": {
+    "file": "assets/svg/moon.svg",
+    "name": "moon"
+  },
+  "mop-sparkles": {
+    "file": "assets/svg/mop-sparkles.svg",
+    "name": "mop-sparkles"
+  },
+  "mop": {
+    "file": "assets/svg/mop.svg",
+    "name": "mop"
+  },
+  "mosque": {
+    "file": "assets/svg/mosque.svg",
+    "name": "mosque"
+  },
+  "motorbike": {
+    "file": "assets/svg/motorbike.svg",
+    "name": "motorbike"
+  },
+  "mountain-snow": {
+    "file": "assets/svg/mountain-snow.svg",
+    "name": "mountain-snow"
+  },
+  "mountain": {
+    "file": "assets/svg/mountain.svg",
+    "name": "mountain"
+  },
+  "mouse-left": {
+    "file": "assets/svg/mouse-left.svg",
+    "name": "mouse-left"
+  },
+  "mouse-off": {
+    "file": "assets/svg/mouse-off.svg",
+    "name": "mouse-off"
+  },
+  "mouse-pointer-2-off": {
+    "file": "assets/svg/mouse-pointer-2-off.svg",
+    "name": "mouse-pointer-2-off"
+  },
+  "mouse-pointer-2": {
+    "file": "assets/svg/mouse-pointer-2.svg",
+    "name": "mouse-pointer-2"
+  },
+  "mouse-pointer-ban": {
+    "file": "assets/svg/mouse-pointer-ban.svg",
+    "name": "mouse-pointer-ban"
+  },
+  "mouse-pointer-click": {
+    "file": "assets/svg/mouse-pointer-click.svg",
+    "name": "mouse-pointer-click"
+  },
+  "mouse-pointer": {
+    "file": "assets/svg/mouse-pointer.svg",
+    "name": "mouse-pointer"
+  },
+  "mouse-right": {
+    "file": "assets/svg/mouse-right.svg",
+    "name": "mouse-right"
+  },
+  "mouse": {
+    "file": "assets/svg/mouse.svg",
+    "name": "mouse"
+  },
+  "move-3d": {
+    "file": "assets/svg/move-3d.svg",
+    "name": "move-3d"
+  },
+  "move-diagonal-2": {
+    "file": "assets/svg/move-diagonal-2.svg",
+    "name": "move-diagonal-2"
+  },
+  "move-diagonal": {
+    "file": "assets/svg/move-diagonal.svg",
+    "name": "move-diagonal"
+  },
+  "move-down-left": {
+    "file": "assets/svg/move-down-left.svg",
+    "name": "move-down-left"
+  },
+  "move-down-right": {
+    "file": "assets/svg/move-down-right.svg",
+    "name": "move-down-right"
+  },
+  "move-down": {
+    "file": "assets/svg/move-down.svg",
+    "name": "move-down"
+  },
+  "move-horizontal": {
+    "file": "assets/svg/move-horizontal.svg",
+    "name": "move-horizontal"
+  },
+  "move-left": {
+    "file": "assets/svg/move-left.svg",
+    "name": "move-left"
+  },
+  "move-right": {
+    "file": "assets/svg/move-right.svg",
+    "name": "move-right"
+  },
+  "move-up-left": {
+    "file": "assets/svg/move-up-left.svg",
+    "name": "move-up-left"
+  },
+  "move-up-right": {
+    "file": "assets/svg/move-up-right.svg",
+    "name": "move-up-right"
+  },
+  "move-up": {
+    "file": "assets/svg/move-up.svg",
+    "name": "move-up"
+  },
+  "move-vertical": {
+    "file": "assets/svg/move-vertical.svg",
+    "name": "move-vertical"
+  },
+  "move": {
+    "file": "assets/svg/move.svg",
+    "name": "move"
+  },
+  "music-2": {
+    "file": "assets/svg/music-2.svg",
+    "name": "music-2"
+  },
+  "music-3": {
+    "file": "assets/svg/music-3.svg",
+    "name": "music-3"
+  },
+  "music-4": {
+    "file": "assets/svg/music-4.svg",
+    "name": "music-4"
+  },
+  "music": {
+    "file": "assets/svg/music.svg",
+    "name": "music"
+  },
+  "navigation-2-off": {
+    "file": "assets/svg/navigation-2-off.svg",
+    "name": "navigation-2-off"
+  },
+  "navigation-2": {
+    "file": "assets/svg/navigation-2.svg",
+    "name": "navigation-2"
+  },
+  "navigation-off": {
+    "file": "assets/svg/navigation-off.svg",
+    "name": "navigation-off"
+  },
+  "navigation": {
+    "file": "assets/svg/navigation.svg",
+    "name": "navigation"
+  },
+  "network": {
+    "file": "assets/svg/network.svg",
+    "name": "network"
+  },
+  "newspaper": {
+    "file": "assets/svg/newspaper.svg",
+    "name": "newspaper"
+  },
+  "nfc": {
+    "file": "assets/svg/nfc.svg",
+    "name": "nfc"
+  },
+  "non-binary": {
+    "file": "assets/svg/non-binary.svg",
+    "name": "non-binary"
+  },
+  "notebook-pen": {
+    "file": "assets/svg/notebook-pen.svg",
+    "name": "notebook-pen"
+  },
+  "notebook-tabs": {
+    "file": "assets/svg/notebook-tabs.svg",
+    "name": "notebook-tabs"
+  },
+  "notebook-text": {
+    "file": "assets/svg/notebook-text.svg",
+    "name": "notebook-text"
+  },
+  "notebook": {
+    "file": "assets/svg/notebook.svg",
+    "name": "notebook"
+  },
+  "notepad-text-dashed": {
+    "file": "assets/svg/notepad-text-dashed.svg",
+    "name": "notepad-text-dashed"
+  },
+  "notepad-text": {
+    "file": "assets/svg/notepad-text.svg",
+    "name": "notepad-text"
+  },
+  "nut-off": {
+    "file": "assets/svg/nut-off.svg",
+    "name": "nut-off"
+  },
+  "nut": {
+    "file": "assets/svg/nut.svg",
+    "name": "nut"
+  },
+  "octagon-alert": {
+    "file": "assets/svg/octagon-alert.svg",
+    "name": "octagon-alert"
+  },
+  "octagon-minus": {
+    "file": "assets/svg/octagon-minus.svg",
+    "name": "octagon-minus"
+  },
+  "octagon-pause": {
+    "file": "assets/svg/octagon-pause.svg",
+    "name": "octagon-pause"
+  },
+  "octagon-x": {
+    "file": "assets/svg/octagon-x.svg",
+    "name": "octagon-x"
+  },
+  "octagon": {
+    "file": "assets/svg/octagon.svg",
+    "name": "octagon"
+  },
+  "omega": {
+    "file": "assets/svg/omega.svg",
+    "name": "omega"
+  },
+  "option": {
+    "file": "assets/svg/option.svg",
+    "name": "option"
+  },
+  "orbit": {
+    "file": "assets/svg/orbit.svg",
+    "name": "orbit"
+  },
+  "origami": {
+    "file": "assets/svg/origami.svg",
+    "name": "origami"
+  },
+  "package-2": {
+    "file": "assets/svg/package-2.svg",
+    "name": "package-2"
+  },
+  "package-check": {
+    "file": "assets/svg/package-check.svg",
+    "name": "package-check"
+  },
+  "package-minus": {
+    "file": "assets/svg/package-minus.svg",
+    "name": "package-minus"
+  },
+  "package-open": {
+    "file": "assets/svg/package-open.svg",
+    "name": "package-open"
+  },
+  "package-plus": {
+    "file": "assets/svg/package-plus.svg",
+    "name": "package-plus"
+  },
+  "package-search": {
+    "file": "assets/svg/package-search.svg",
+    "name": "package-search"
+  },
+  "package-x": {
+    "file": "assets/svg/package-x.svg",
+    "name": "package-x"
+  },
+  "package": {
+    "file": "assets/svg/package.svg",
+    "name": "package"
+  },
+  "paint-bucket": {
+    "file": "assets/svg/paint-bucket.svg",
+    "name": "paint-bucket"
+  },
+  "paint-roller": {
+    "file": "assets/svg/paint-roller.svg",
+    "name": "paint-roller"
+  },
+  "paintbrush-vertical": {
+    "file": "assets/svg/paintbrush-vertical.svg",
+    "name": "paintbrush-vertical"
+  },
+  "paintbrush": {
+    "file": "assets/svg/paintbrush.svg",
+    "name": "paintbrush"
+  },
+  "palette": {
+    "file": "assets/svg/palette.svg",
+    "name": "palette"
+  },
+  "panda": {
+    "file": "assets/svg/panda.svg",
+    "name": "panda"
+  },
+  "panel-bottom-close": {
+    "file": "assets/svg/panel-bottom-close.svg",
+    "name": "panel-bottom-close"
+  },
+  "panel-bottom-dashed": {
+    "file": "assets/svg/panel-bottom-dashed.svg",
+    "name": "panel-bottom-dashed"
+  },
+  "panel-bottom-open": {
+    "file": "assets/svg/panel-bottom-open.svg",
+    "name": "panel-bottom-open"
+  },
+  "panel-bottom": {
+    "file": "assets/svg/panel-bottom.svg",
+    "name": "panel-bottom"
+  },
+  "panel-left-close": {
+    "file": "assets/svg/panel-left-close.svg",
+    "name": "panel-left-close"
+  },
+  "panel-left-dashed": {
+    "file": "assets/svg/panel-left-dashed.svg",
+    "name": "panel-left-dashed"
+  },
+  "panel-left-open": {
+    "file": "assets/svg/panel-left-open.svg",
+    "name": "panel-left-open"
+  },
+  "panel-left-right-dashed": {
+    "file": "assets/svg/panel-left-right-dashed.svg",
+    "name": "panel-left-right-dashed"
+  },
+  "panel-left": {
+    "file": "assets/svg/panel-left.svg",
+    "name": "panel-left"
+  },
+  "panel-right-close": {
+    "file": "assets/svg/panel-right-close.svg",
+    "name": "panel-right-close"
+  },
+  "panel-right-dashed": {
+    "file": "assets/svg/panel-right-dashed.svg",
+    "name": "panel-right-dashed"
+  },
+  "panel-right-open": {
+    "file": "assets/svg/panel-right-open.svg",
+    "name": "panel-right-open"
+  },
+  "panel-right": {
+    "file": "assets/svg/panel-right.svg",
+    "name": "panel-right"
+  },
+  "panel-top-bottom-dashed": {
+    "file": "assets/svg/panel-top-bottom-dashed.svg",
+    "name": "panel-top-bottom-dashed"
+  },
+  "panel-top-close": {
+    "file": "assets/svg/panel-top-close.svg",
+    "name": "panel-top-close"
+  },
+  "panel-top-dashed": {
+    "file": "assets/svg/panel-top-dashed.svg",
+    "name": "panel-top-dashed"
+  },
+  "panel-top-open": {
+    "file": "assets/svg/panel-top-open.svg",
+    "name": "panel-top-open"
+  },
+  "panel-top": {
+    "file": "assets/svg/panel-top.svg",
+    "name": "panel-top"
+  },
+  "panels-left-bottom": {
+    "file": "assets/svg/panels-left-bottom.svg",
+    "name": "panels-left-bottom"
+  },
+  "panels-right-bottom": {
+    "file": "assets/svg/panels-right-bottom.svg",
+    "name": "panels-right-bottom"
+  },
+  "panels-top-left": {
+    "file": "assets/svg/panels-top-left.svg",
+    "name": "panels-top-left"
+  },
+  "paper-bag": {
+    "file": "assets/svg/paper-bag.svg",
+    "name": "paper-bag"
+  },
+  "paperclip": {
+    "file": "assets/svg/paperclip.svg",
+    "name": "paperclip"
+  },
+  "parasol": {
+    "file": "assets/svg/parasol.svg",
+    "name": "parasol"
+  },
+  "parentheses": {
+    "file": "assets/svg/parentheses.svg",
+    "name": "parentheses"
+  },
+  "parking-meter": {
+    "file": "assets/svg/parking-meter.svg",
+    "name": "parking-meter"
+  },
+  "party-popper": {
+    "file": "assets/svg/party-popper.svg",
+    "name": "party-popper"
+  },
+  "pause": {
+    "file": "assets/svg/pause.svg",
+    "name": "pause"
+  },
+  "paw-print": {
+    "file": "assets/svg/paw-print.svg",
+    "name": "paw-print"
+  },
+  "pc-case": {
+    "file": "assets/svg/pc-case.svg",
+    "name": "pc-case"
+  },
+  "pen-line": {
+    "file": "assets/svg/pen-line.svg",
+    "name": "pen-line"
+  },
+  "pen-off": {
+    "file": "assets/svg/pen-off.svg",
+    "name": "pen-off"
+  },
+  "pen-tool": {
+    "file": "assets/svg/pen-tool.svg",
+    "name": "pen-tool"
+  },
+  "pen": {
+    "file": "assets/svg/pen.svg",
+    "name": "pen"
+  },
+  "pencil-line": {
+    "file": "assets/svg/pencil-line.svg",
+    "name": "pencil-line"
+  },
+  "pencil-off": {
+    "file": "assets/svg/pencil-off.svg",
+    "name": "pencil-off"
+  },
+  "pencil-ruler": {
+    "file": "assets/svg/pencil-ruler.svg",
+    "name": "pencil-ruler"
+  },
+  "pencil-sparkles": {
+    "file": "assets/svg/pencil-sparkles.svg",
+    "name": "pencil-sparkles"
+  },
+  "pencil": {
+    "file": "assets/svg/pencil.svg",
+    "name": "pencil"
+  },
+  "pentagon": {
+    "file": "assets/svg/pentagon.svg",
+    "name": "pentagon"
+  },
+  "percent": {
+    "file": "assets/svg/percent.svg",
+    "name": "percent"
+  },
+  "person-standing": {
+    "file": "assets/svg/person-standing.svg",
+    "name": "person-standing"
+  },
+  "phi": {
+    "file": "assets/svg/phi.svg",
+    "name": "phi"
+  },
+  "philippine-peso": {
+    "file": "assets/svg/philippine-peso.svg",
+    "name": "philippine-peso"
+  },
+  "phone-call": {
+    "file": "assets/svg/phone-call.svg",
+    "name": "phone-call"
+  },
+  "phone-forwarded": {
+    "file": "assets/svg/phone-forwarded.svg",
+    "name": "phone-forwarded"
+  },
+  "phone-incoming": {
+    "file": "assets/svg/phone-incoming.svg",
+    "name": "phone-incoming"
+  },
+  "phone-missed": {
+    "file": "assets/svg/phone-missed.svg",
+    "name": "phone-missed"
+  },
+  "phone-off": {
+    "file": "assets/svg/phone-off.svg",
+    "name": "phone-off"
+  },
+  "phone-outgoing": {
+    "file": "assets/svg/phone-outgoing.svg",
+    "name": "phone-outgoing"
+  },
+  "phone": {
+    "file": "assets/svg/phone.svg",
+    "name": "phone"
+  },
+  "pi": {
+    "file": "assets/svg/pi.svg",
+    "name": "pi"
+  },
+  "piano": {
+    "file": "assets/svg/piano.svg",
+    "name": "piano"
+  },
+  "pickaxe": {
+    "file": "assets/svg/pickaxe.svg",
+    "name": "pickaxe"
+  },
+  "picture-in-picture-2": {
+    "file": "assets/svg/picture-in-picture-2.svg",
+    "name": "picture-in-picture-2"
+  },
+  "picture-in-picture": {
+    "file": "assets/svg/picture-in-picture.svg",
+    "name": "picture-in-picture"
+  },
+  "piggy-bank": {
+    "file": "assets/svg/piggy-bank.svg",
+    "name": "piggy-bank"
+  },
+  "pilcrow-left": {
+    "file": "assets/svg/pilcrow-left.svg",
+    "name": "pilcrow-left"
+  },
+  "pilcrow-right": {
+    "file": "assets/svg/pilcrow-right.svg",
+    "name": "pilcrow-right"
+  },
+  "pilcrow": {
+    "file": "assets/svg/pilcrow.svg",
+    "name": "pilcrow"
+  },
+  "pill-bottle": {
+    "file": "assets/svg/pill-bottle.svg",
+    "name": "pill-bottle"
+  },
+  "pill": {
+    "file": "assets/svg/pill.svg",
+    "name": "pill"
+  },
+  "pin-off": {
+    "file": "assets/svg/pin-off.svg",
+    "name": "pin-off"
+  },
+  "pin": {
+    "file": "assets/svg/pin.svg",
+    "name": "pin"
+  },
+  "pipette": {
+    "file": "assets/svg/pipette.svg",
+    "name": "pipette"
+  },
+  "pizza": {
+    "file": "assets/svg/pizza.svg",
+    "name": "pizza"
+  },
+  "plane-landing": {
+    "file": "assets/svg/plane-landing.svg",
+    "name": "plane-landing"
+  },
+  "plane-takeoff": {
+    "file": "assets/svg/plane-takeoff.svg",
+    "name": "plane-takeoff"
+  },
+  "plane": {
+    "file": "assets/svg/plane.svg",
+    "name": "plane"
+  },
+  "play-off": {
+    "file": "assets/svg/play-off.svg",
+    "name": "play-off"
+  },
+  "play": {
+    "file": "assets/svg/play.svg",
+    "name": "play"
+  },
+  "playing-card": {
+    "file": "assets/svg/playing-card.svg",
+    "name": "playing-card"
+  },
+  "playing-cards-fan": {
+    "file": "assets/svg/playing-cards-fan.svg",
+    "name": "playing-cards-fan"
+  },
+  "playing-cards": {
+    "file": "assets/svg/playing-cards.svg",
+    "name": "playing-cards"
+  },
+  "plug-2": {
+    "file": "assets/svg/plug-2.svg",
+    "name": "plug-2"
+  },
+  "plug-zap": {
+    "file": "assets/svg/plug-zap.svg",
+    "name": "plug-zap"
+  },
+  "plug": {
+    "file": "assets/svg/plug.svg",
+    "name": "plug"
+  },
+  "plus": {
+    "file": "assets/svg/plus.svg",
+    "name": "plus"
+  },
+  "pocket-knife": {
+    "file": "assets/svg/pocket-knife.svg",
+    "name": "pocket-knife"
+  },
+  "podium": {
+    "file": "assets/svg/podium.svg",
+    "name": "podium"
+  },
+  "pointer-off": {
+    "file": "assets/svg/pointer-off.svg",
+    "name": "pointer-off"
+  },
+  "pointer": {
+    "file": "assets/svg/pointer.svg",
+    "name": "pointer"
+  },
+  "popcorn": {
+    "file": "assets/svg/popcorn.svg",
+    "name": "popcorn"
+  },
+  "popsicle": {
+    "file": "assets/svg/popsicle.svg",
+    "name": "popsicle"
+  },
+  "pound-sterling": {
+    "file": "assets/svg/pound-sterling.svg",
+    "name": "pound-sterling"
+  },
+  "power-off": {
+    "file": "assets/svg/power-off.svg",
+    "name": "power-off"
+  },
+  "power": {
+    "file": "assets/svg/power.svg",
+    "name": "power"
+  },
+  "presentation": {
+    "file": "assets/svg/presentation.svg",
+    "name": "presentation"
+  },
+  "printer-check": {
+    "file": "assets/svg/printer-check.svg",
+    "name": "printer-check"
+  },
+  "printer-x": {
+    "file": "assets/svg/printer-x.svg",
+    "name": "printer-x"
+  },
+  "printer": {
+    "file": "assets/svg/printer.svg",
+    "name": "printer"
+  },
+  "projector": {
+    "file": "assets/svg/projector.svg",
+    "name": "projector"
+  },
+  "proportions": {
+    "file": "assets/svg/proportions.svg",
+    "name": "proportions"
+  },
+  "puzzle": {
+    "file": "assets/svg/puzzle.svg",
+    "name": "puzzle"
+  },
+  "pyramid": {
+    "file": "assets/svg/pyramid.svg",
+    "name": "pyramid"
+  },
+  "qr-code": {
+    "file": "assets/svg/qr-code.svg",
+    "name": "qr-code"
+  },
+  "quote": {
+    "file": "assets/svg/quote.svg",
+    "name": "quote"
+  },
+  "rabbit": {
+    "file": "assets/svg/rabbit.svg",
+    "name": "rabbit"
+  },
+  "radar": {
+    "file": "assets/svg/radar.svg",
+    "name": "radar"
+  },
+  "radiation": {
+    "file": "assets/svg/radiation.svg",
+    "name": "radiation"
+  },
+  "radical": {
+    "file": "assets/svg/radical.svg",
+    "name": "radical"
+  },
+  "radio-off": {
+    "file": "assets/svg/radio-off.svg",
+    "name": "radio-off"
+  },
+  "radio-receiver": {
+    "file": "assets/svg/radio-receiver.svg",
+    "name": "radio-receiver"
+  },
+  "radio-tower": {
+    "file": "assets/svg/radio-tower.svg",
+    "name": "radio-tower"
+  },
+  "radio": {
+    "file": "assets/svg/radio.svg",
+    "name": "radio"
+  },
+  "radius": {
+    "file": "assets/svg/radius.svg",
+    "name": "radius"
+  },
+  "rainbow": {
+    "file": "assets/svg/rainbow.svg",
+    "name": "rainbow"
+  },
+  "rat": {
+    "file": "assets/svg/rat.svg",
+    "name": "rat"
+  },
+  "ratio": {
+    "file": "assets/svg/ratio.svg",
+    "name": "ratio"
+  },
+  "receipt-cent": {
+    "file": "assets/svg/receipt-cent.svg",
+    "name": "receipt-cent"
+  },
+  "receipt-euro": {
+    "file": "assets/svg/receipt-euro.svg",
+    "name": "receipt-euro"
+  },
+  "receipt-indian-rupee": {
+    "file": "assets/svg/receipt-indian-rupee.svg",
+    "name": "receipt-indian-rupee"
+  },
+  "receipt-japanese-yen": {
+    "file": "assets/svg/receipt-japanese-yen.svg",
+    "name": "receipt-japanese-yen"
+  },
+  "receipt-pound-sterling": {
+    "file": "assets/svg/receipt-pound-sterling.svg",
+    "name": "receipt-pound-sterling"
+  },
+  "receipt-russian-ruble": {
+    "file": "assets/svg/receipt-russian-ruble.svg",
+    "name": "receipt-russian-ruble"
+  },
+  "receipt-swiss-franc": {
+    "file": "assets/svg/receipt-swiss-franc.svg",
+    "name": "receipt-swiss-franc"
+  },
+  "receipt-text": {
+    "file": "assets/svg/receipt-text.svg",
+    "name": "receipt-text"
+  },
+  "receipt-turkish-lira": {
+    "file": "assets/svg/receipt-turkish-lira.svg",
+    "name": "receipt-turkish-lira"
+  },
+  "receipt": {
+    "file": "assets/svg/receipt.svg",
+    "name": "receipt"
+  },
+  "rectangle-circle": {
+    "file": "assets/svg/rectangle-circle.svg",
+    "name": "rectangle-circle"
+  },
+  "rectangle-ellipsis": {
+    "file": "assets/svg/rectangle-ellipsis.svg",
+    "name": "rectangle-ellipsis"
+  },
+  "rectangle-goggles": {
+    "file": "assets/svg/rectangle-goggles.svg",
+    "name": "rectangle-goggles"
+  },
+  "rectangle-horizontal": {
+    "file": "assets/svg/rectangle-horizontal.svg",
+    "name": "rectangle-horizontal"
+  },
+  "rectangle-vertical": {
+    "file": "assets/svg/rectangle-vertical.svg",
+    "name": "rectangle-vertical"
+  },
+  "recycle": {
+    "file": "assets/svg/recycle.svg",
+    "name": "recycle"
+  },
+  "redo-2": {
+    "file": "assets/svg/redo-2.svg",
+    "name": "redo-2"
+  },
+  "redo-dot": {
+    "file": "assets/svg/redo-dot.svg",
+    "name": "redo-dot"
+  },
+  "redo": {
+    "file": "assets/svg/redo.svg",
+    "name": "redo"
+  },
+  "refresh-ccw-dot": {
+    "file": "assets/svg/refresh-ccw-dot.svg",
+    "name": "refresh-ccw-dot"
+  },
+  "refresh-ccw": {
+    "file": "assets/svg/refresh-ccw.svg",
+    "name": "refresh-ccw"
+  },
+  "refresh-cw-off": {
+    "file": "assets/svg/refresh-cw-off.svg",
+    "name": "refresh-cw-off"
+  },
+  "refresh-cw": {
+    "file": "assets/svg/refresh-cw.svg",
+    "name": "refresh-cw"
+  },
+  "refrigerator": {
+    "file": "assets/svg/refrigerator.svg",
+    "name": "refrigerator"
+  },
+  "regex": {
+    "file": "assets/svg/regex.svg",
+    "name": "regex"
+  },
+  "remove-formatting": {
+    "file": "assets/svg/remove-formatting.svg",
+    "name": "remove-formatting"
+  },
+  "repeat-1": {
+    "file": "assets/svg/repeat-1.svg",
+    "name": "repeat-1"
+  },
+  "repeat-2": {
+    "file": "assets/svg/repeat-2.svg",
+    "name": "repeat-2"
+  },
+  "repeat-off": {
+    "file": "assets/svg/repeat-off.svg",
+    "name": "repeat-off"
+  },
+  "repeat": {
+    "file": "assets/svg/repeat.svg",
+    "name": "repeat"
+  },
+  "replace-all": {
+    "file": "assets/svg/replace-all.svg",
+    "name": "replace-all"
+  },
+  "replace": {
+    "file": "assets/svg/replace.svg",
+    "name": "replace"
+  },
+  "reply-all": {
+    "file": "assets/svg/reply-all.svg",
+    "name": "reply-all"
+  },
+  "reply": {
+    "file": "assets/svg/reply.svg",
+    "name": "reply"
+  },
+  "rewind": {
+    "file": "assets/svg/rewind.svg",
+    "name": "rewind"
+  },
+  "ribbon": {
+    "file": "assets/svg/ribbon.svg",
+    "name": "ribbon"
+  },
+  "road": {
+    "file": "assets/svg/road.svg",
+    "name": "road"
+  },
+  "robot-arm": {
+    "file": "assets/svg/robot-arm.svg",
+    "name": "robot-arm"
+  },
+  "robot-vacuum": {
+    "file": "assets/svg/robot-vacuum.svg",
+    "name": "robot-vacuum"
+  },
+  "robot": {
+    "file": "assets/svg/robot.svg",
+    "name": "robot"
+  },
+  "rocket": {
+    "file": "assets/svg/rocket.svg",
+    "name": "rocket"
+  },
+  "rocking-chair": {
+    "file": "assets/svg/rocking-chair.svg",
+    "name": "rocking-chair"
+  },
+  "roller-coaster": {
+    "file": "assets/svg/roller-coaster.svg",
+    "name": "roller-coaster"
+  },
+  "rose": {
+    "file": "assets/svg/rose.svg",
+    "name": "rose"
+  },
+  "rotate-3d": {
+    "file": "assets/svg/rotate-3d.svg",
+    "name": "rotate-3d"
+  },
+  "rotate-ccw-clock": {
+    "file": "assets/svg/rotate-ccw-clock.svg",
+    "name": "rotate-ccw-clock"
+  },
+  "rotate-ccw-key": {
+    "file": "assets/svg/rotate-ccw-key.svg",
+    "name": "rotate-ccw-key"
+  },
+  "rotate-ccw-square": {
+    "file": "assets/svg/rotate-ccw-square.svg",
+    "name": "rotate-ccw-square"
+  },
+  "rotate-ccw": {
+    "file": "assets/svg/rotate-ccw.svg",
+    "name": "rotate-ccw"
+  },
+  "rotate-cw-fading-clock": {
+    "file": "assets/svg/rotate-cw-fading-clock.svg",
+    "name": "rotate-cw-fading-clock"
+  },
+  "rotate-cw-square": {
+    "file": "assets/svg/rotate-cw-square.svg",
+    "name": "rotate-cw-square"
+  },
+  "rotate-cw": {
+    "file": "assets/svg/rotate-cw.svg",
+    "name": "rotate-cw"
+  },
+  "route-off": {
+    "file": "assets/svg/route-off.svg",
+    "name": "route-off"
+  },
+  "route": {
+    "file": "assets/svg/route.svg",
+    "name": "route"
+  },
+  "router": {
+    "file": "assets/svg/router.svg",
+    "name": "router"
+  },
+  "rows-2": {
+    "file": "assets/svg/rows-2.svg",
+    "name": "rows-2"
+  },
+  "rows-3": {
+    "file": "assets/svg/rows-3.svg",
+    "name": "rows-3"
+  },
+  "rows-4": {
+    "file": "assets/svg/rows-4.svg",
+    "name": "rows-4"
+  },
+  "rss": {
+    "file": "assets/svg/rss.svg",
+    "name": "rss"
+  },
+  "ruler-dimension-line": {
+    "file": "assets/svg/ruler-dimension-line.svg",
+    "name": "ruler-dimension-line"
+  },
+  "ruler": {
+    "file": "assets/svg/ruler.svg",
+    "name": "ruler"
+  },
+  "russian-ruble": {
+    "file": "assets/svg/russian-ruble.svg",
+    "name": "russian-ruble"
+  },
+  "sailboat": {
+    "file": "assets/svg/sailboat.svg",
+    "name": "sailboat"
+  },
+  "salad": {
+    "file": "assets/svg/salad.svg",
+    "name": "salad"
+  },
+  "sandwich": {
+    "file": "assets/svg/sandwich.svg",
+    "name": "sandwich"
+  },
+  "satellite-dish": {
+    "file": "assets/svg/satellite-dish.svg",
+    "name": "satellite-dish"
+  },
+  "satellite": {
+    "file": "assets/svg/satellite.svg",
+    "name": "satellite"
+  },
+  "saudi-riyal": {
+    "file": "assets/svg/saudi-riyal.svg",
+    "name": "saudi-riyal"
+  },
+  "save-all": {
+    "file": "assets/svg/save-all.svg",
+    "name": "save-all"
+  },
+  "save-check": {
+    "file": "assets/svg/save-check.svg",
+    "name": "save-check"
+  },
+  "save-off": {
+    "file": "assets/svg/save-off.svg",
+    "name": "save-off"
+  },
+  "save-pen": {
+    "file": "assets/svg/save-pen.svg",
+    "name": "save-pen"
+  },
+  "save-plus": {
+    "file": "assets/svg/save-plus.svg",
+    "name": "save-plus"
+  },
+  "save": {
+    "file": "assets/svg/save.svg",
+    "name": "save"
+  },
+  "scale-3d": {
+    "file": "assets/svg/scale-3d.svg",
+    "name": "scale-3d"
+  },
+  "scale": {
+    "file": "assets/svg/scale.svg",
+    "name": "scale"
+  },
+  "scaling": {
+    "file": "assets/svg/scaling.svg",
+    "name": "scaling"
+  },
+  "scan-barcode": {
+    "file": "assets/svg/scan-barcode.svg",
+    "name": "scan-barcode"
+  },
+  "scan-box": {
+    "file": "assets/svg/scan-box.svg",
+    "name": "scan-box"
+  },
+  "scan-eye": {
+    "file": "assets/svg/scan-eye.svg",
+    "name": "scan-eye"
+  },
+  "scan-face": {
+    "file": "assets/svg/scan-face.svg",
+    "name": "scan-face"
+  },
+  "scan-heart": {
+    "file": "assets/svg/scan-heart.svg",
+    "name": "scan-heart"
+  },
+  "scan-line": {
+    "file": "assets/svg/scan-line.svg",
+    "name": "scan-line"
+  },
+  "scan-qr-code": {
+    "file": "assets/svg/scan-qr-code.svg",
+    "name": "scan-qr-code"
+  },
+  "scan-search": {
+    "file": "assets/svg/scan-search.svg",
+    "name": "scan-search"
+  },
+  "scan-square": {
+    "file": "assets/svg/scan-square.svg",
+    "name": "scan-square"
+  },
+  "scan-text": {
+    "file": "assets/svg/scan-text.svg",
+    "name": "scan-text"
+  },
+  "scan": {
+    "file": "assets/svg/scan.svg",
+    "name": "scan"
+  },
+  "school": {
+    "file": "assets/svg/school.svg",
+    "name": "school"
+  },
+  "scissors-line-dashed": {
+    "file": "assets/svg/scissors-line-dashed.svg",
+    "name": "scissors-line-dashed"
+  },
+  "scissors": {
+    "file": "assets/svg/scissors.svg",
+    "name": "scissors"
+  },
+  "scooter": {
+    "file": "assets/svg/scooter.svg",
+    "name": "scooter"
+  },
+  "screen-share-off": {
+    "file": "assets/svg/screen-share-off.svg",
+    "name": "screen-share-off"
+  },
+  "screen-share": {
+    "file": "assets/svg/screen-share.svg",
+    "name": "screen-share"
+  },
+  "scroll-text": {
+    "file": "assets/svg/scroll-text.svg",
+    "name": "scroll-text"
+  },
+  "scroll": {
+    "file": "assets/svg/scroll.svg",
+    "name": "scroll"
+  },
+  "search-alert": {
+    "file": "assets/svg/search-alert.svg",
+    "name": "search-alert"
+  },
+  "search-check": {
+    "file": "assets/svg/search-check.svg",
+    "name": "search-check"
+  },
+  "search-code": {
+    "file": "assets/svg/search-code.svg",
+    "name": "search-code"
+  },
+  "search-slash": {
+    "file": "assets/svg/search-slash.svg",
+    "name": "search-slash"
+  },
+  "search-x": {
+    "file": "assets/svg/search-x.svg",
+    "name": "search-x"
+  },
+  "search": {
+    "file": "assets/svg/search.svg",
+    "name": "search"
+  },
+  "section": {
+    "file": "assets/svg/section.svg",
+    "name": "section"
+  },
+  "send-horizontal": {
+    "file": "assets/svg/send-horizontal.svg",
+    "name": "send-horizontal"
+  },
+  "send-to-back": {
+    "file": "assets/svg/send-to-back.svg",
+    "name": "send-to-back"
+  },
+  "send": {
+    "file": "assets/svg/send.svg",
+    "name": "send"
+  },
+  "separator-horizontal": {
+    "file": "assets/svg/separator-horizontal.svg",
+    "name": "separator-horizontal"
+  },
+  "separator-vertical": {
+    "file": "assets/svg/separator-vertical.svg",
+    "name": "separator-vertical"
+  },
+  "server-cog": {
+    "file": "assets/svg/server-cog.svg",
+    "name": "server-cog"
+  },
+  "server-crash": {
+    "file": "assets/svg/server-crash.svg",
+    "name": "server-crash"
+  },
+  "server-off": {
+    "file": "assets/svg/server-off.svg",
+    "name": "server-off"
+  },
+  "server-plus": {
+    "file": "assets/svg/server-plus.svg",
+    "name": "server-plus"
+  },
+  "server": {
+    "file": "assets/svg/server.svg",
+    "name": "server"
+  },
+  "settings-2": {
+    "file": "assets/svg/settings-2.svg",
+    "name": "settings-2"
+  },
+  "settings": {
+    "file": "assets/svg/settings.svg",
+    "name": "settings"
+  },
+  "shapes": {
+    "file": "assets/svg/shapes.svg",
+    "name": "shapes"
+  },
+  "share-2": {
+    "file": "assets/svg/share-2.svg",
+    "name": "share-2"
+  },
+  "share": {
+    "file": "assets/svg/share.svg",
+    "name": "share"
+  },
+  "sheet": {
+    "file": "assets/svg/sheet.svg",
+    "name": "sheet"
+  },
+  "shell": {
+    "file": "assets/svg/shell.svg",
+    "name": "shell"
+  },
+  "shelving-unit": {
+    "file": "assets/svg/shelving-unit.svg",
+    "name": "shelving-unit"
+  },
+  "shield-alert": {
+    "file": "assets/svg/shield-alert.svg",
+    "name": "shield-alert"
+  },
+  "shield-ban": {
+    "file": "assets/svg/shield-ban.svg",
+    "name": "shield-ban"
+  },
+  "shield-check": {
+    "file": "assets/svg/shield-check.svg",
+    "name": "shield-check"
+  },
+  "shield-cog-corner": {
+    "file": "assets/svg/shield-cog-corner.svg",
+    "name": "shield-cog-corner"
+  },
+  "shield-cog": {
+    "file": "assets/svg/shield-cog.svg",
+    "name": "shield-cog"
+  },
+  "shield-ellipsis": {
+    "file": "assets/svg/shield-ellipsis.svg",
+    "name": "shield-ellipsis"
+  },
+  "shield-half": {
+    "file": "assets/svg/shield-half.svg",
+    "name": "shield-half"
+  },
+  "shield-keyhole": {
+    "file": "assets/svg/shield-keyhole.svg",
+    "name": "shield-keyhole"
+  },
+  "shield-lock": {
+    "file": "assets/svg/shield-lock.svg",
+    "name": "shield-lock"
+  },
+  "shield-minus": {
+    "file": "assets/svg/shield-minus.svg",
+    "name": "shield-minus"
+  },
+  "shield-off": {
+    "file": "assets/svg/shield-off.svg",
+    "name": "shield-off"
+  },
+  "shield-plus": {
+    "file": "assets/svg/shield-plus.svg",
+    "name": "shield-plus"
+  },
+  "shield-question-mark": {
+    "file": "assets/svg/shield-question-mark.svg",
+    "name": "shield-question-mark"
+  },
+  "shield-user": {
+    "file": "assets/svg/shield-user.svg",
+    "name": "shield-user"
+  },
+  "shield-x": {
+    "file": "assets/svg/shield-x.svg",
+    "name": "shield-x"
+  },
+  "shield": {
+    "file": "assets/svg/shield.svg",
+    "name": "shield"
+  },
+  "ship-cargo": {
+    "file": "assets/svg/ship-cargo.svg",
+    "name": "ship-cargo"
+  },
+  "ship-wheel": {
+    "file": "assets/svg/ship-wheel.svg",
+    "name": "ship-wheel"
+  },
+  "ship": {
+    "file": "assets/svg/ship.svg",
+    "name": "ship"
+  },
+  "shirt": {
+    "file": "assets/svg/shirt.svg",
+    "name": "shirt"
+  },
+  "shopping-bag": {
+    "file": "assets/svg/shopping-bag.svg",
+    "name": "shopping-bag"
+  },
+  "shopping-basket": {
+    "file": "assets/svg/shopping-basket.svg",
+    "name": "shopping-basket"
+  },
+  "shopping-cart": {
+    "file": "assets/svg/shopping-cart.svg",
+    "name": "shopping-cart"
+  },
+  "shovel": {
+    "file": "assets/svg/shovel.svg",
+    "name": "shovel"
+  },
+  "shower-head": {
+    "file": "assets/svg/shower-head.svg",
+    "name": "shower-head"
+  },
+  "shredder": {
+    "file": "assets/svg/shredder.svg",
+    "name": "shredder"
+  },
+  "shrimp": {
+    "file": "assets/svg/shrimp.svg",
+    "name": "shrimp"
+  },
+  "shrink": {
+    "file": "assets/svg/shrink.svg",
+    "name": "shrink"
+  },
+  "shrub": {
+    "file": "assets/svg/shrub.svg",
+    "name": "shrub"
+  },
+  "shuffle": {
+    "file": "assets/svg/shuffle.svg",
+    "name": "shuffle"
+  },
+  "sigma": {
+    "file": "assets/svg/sigma.svg",
+    "name": "sigma"
+  },
+  "signal-high": {
+    "file": "assets/svg/signal-high.svg",
+    "name": "signal-high"
+  },
+  "signal-low": {
+    "file": "assets/svg/signal-low.svg",
+    "name": "signal-low"
+  },
+  "signal-medium": {
+    "file": "assets/svg/signal-medium.svg",
+    "name": "signal-medium"
+  },
+  "signal-zero": {
+    "file": "assets/svg/signal-zero.svg",
+    "name": "signal-zero"
+  },
+  "signal": {
+    "file": "assets/svg/signal.svg",
+    "name": "signal"
+  },
+  "signature": {
+    "file": "assets/svg/signature.svg",
+    "name": "signature"
+  },
+  "signpost-big": {
+    "file": "assets/svg/signpost-big.svg",
+    "name": "signpost-big"
+  },
+  "signpost": {
+    "file": "assets/svg/signpost.svg",
+    "name": "signpost"
+  },
+  "siren": {
+    "file": "assets/svg/siren.svg",
+    "name": "siren"
+  },
+  "skip-back": {
+    "file": "assets/svg/skip-back.svg",
+    "name": "skip-back"
+  },
+  "skip-forward": {
+    "file": "assets/svg/skip-forward.svg",
+    "name": "skip-forward"
+  },
+  "skull": {
+    "file": "assets/svg/skull.svg",
+    "name": "skull"
+  },
+  "slash": {
+    "file": "assets/svg/slash.svg",
+    "name": "slash"
+  },
+  "slice": {
+    "file": "assets/svg/slice.svg",
+    "name": "slice"
+  },
+  "sliders-horizontal": {
+    "file": "assets/svg/sliders-horizontal.svg",
+    "name": "sliders-horizontal"
+  },
+  "sliders-vertical": {
+    "file": "assets/svg/sliders-vertical.svg",
+    "name": "sliders-vertical"
+  },
+  "smartphone-charging": {
+    "file": "assets/svg/smartphone-charging.svg",
+    "name": "smartphone-charging"
+  },
+  "smartphone-nfc": {
+    "file": "assets/svg/smartphone-nfc.svg",
+    "name": "smartphone-nfc"
+  },
+  "smartphone": {
+    "file": "assets/svg/smartphone.svg",
+    "name": "smartphone"
+  },
+  "snail": {
+    "file": "assets/svg/snail.svg",
+    "name": "snail"
+  },
+  "snowflake": {
+    "file": "assets/svg/snowflake.svg",
+    "name": "snowflake"
+  },
+  "soap-dispenser-droplet": {
+    "file": "assets/svg/soap-dispenser-droplet.svg",
+    "name": "soap-dispenser-droplet"
+  },
+  "sofa": {
+    "file": "assets/svg/sofa.svg",
+    "name": "sofa"
+  },
+  "solar-panel": {
+    "file": "assets/svg/solar-panel.svg",
+    "name": "solar-panel"
+  },
+  "soup": {
+    "file": "assets/svg/soup.svg",
+    "name": "soup"
+  },
+  "space": {
+    "file": "assets/svg/space.svg",
+    "name": "space"
+  },
+  "spade": {
+    "file": "assets/svg/spade.svg",
+    "name": "spade"
+  },
+  "sparkle": {
+    "file": "assets/svg/sparkle.svg",
+    "name": "sparkle"
+  },
+  "sparkles": {
+    "file": "assets/svg/sparkles.svg",
+    "name": "sparkles"
+  },
+  "speaker": {
+    "file": "assets/svg/speaker.svg",
+    "name": "speaker"
+  },
+  "speech": {
+    "file": "assets/svg/speech.svg",
+    "name": "speech"
+  },
+  "spell-check-2": {
+    "file": "assets/svg/spell-check-2.svg",
+    "name": "spell-check-2"
+  },
+  "spell-check": {
+    "file": "assets/svg/spell-check.svg",
+    "name": "spell-check"
+  },
+  "spline-pointer": {
+    "file": "assets/svg/spline-pointer.svg",
+    "name": "spline-pointer"
+  },
+  "spline": {
+    "file": "assets/svg/spline.svg",
+    "name": "spline"
+  },
+  "split": {
+    "file": "assets/svg/split.svg",
+    "name": "split"
+  },
+  "spool": {
+    "file": "assets/svg/spool.svg",
+    "name": "spool"
+  },
+  "sport-shoe": {
+    "file": "assets/svg/sport-shoe.svg",
+    "name": "sport-shoe"
+  },
+  "spotlight": {
+    "file": "assets/svg/spotlight.svg",
+    "name": "spotlight"
+  },
+  "spray-can": {
+    "file": "assets/svg/spray-can.svg",
+    "name": "spray-can"
+  },
+  "sprout": {
+    "file": "assets/svg/sprout.svg",
+    "name": "sprout"
+  },
+  "square-activity": {
+    "file": "assets/svg/square-activity.svg",
+    "name": "square-activity"
+  },
+  "square-arrow-down-left": {
+    "file": "assets/svg/square-arrow-down-left.svg",
+    "name": "square-arrow-down-left"
+  },
+  "square-arrow-down-right": {
+    "file": "assets/svg/square-arrow-down-right.svg",
+    "name": "square-arrow-down-right"
+  },
+  "square-arrow-down": {
+    "file": "assets/svg/square-arrow-down.svg",
+    "name": "square-arrow-down"
+  },
+  "square-arrow-left": {
+    "file": "assets/svg/square-arrow-left.svg",
+    "name": "square-arrow-left"
+  },
+  "square-arrow-out-down-left": {
+    "file": "assets/svg/square-arrow-out-down-left.svg",
+    "name": "square-arrow-out-down-left"
+  },
+  "square-arrow-out-down-right": {
+    "file": "assets/svg/square-arrow-out-down-right.svg",
+    "name": "square-arrow-out-down-right"
+  },
+  "square-arrow-out-up-left": {
+    "file": "assets/svg/square-arrow-out-up-left.svg",
+    "name": "square-arrow-out-up-left"
+  },
+  "square-arrow-out-up-right": {
+    "file": "assets/svg/square-arrow-out-up-right.svg",
+    "name": "square-arrow-out-up-right"
+  },
+  "square-arrow-right-enter": {
+    "file": "assets/svg/square-arrow-right-enter.svg",
+    "name": "square-arrow-right-enter"
+  },
+  "square-arrow-right-exit": {
+    "file": "assets/svg/square-arrow-right-exit.svg",
+    "name": "square-arrow-right-exit"
+  },
+  "square-arrow-right": {
+    "file": "assets/svg/square-arrow-right.svg",
+    "name": "square-arrow-right"
+  },
+  "square-arrow-up-left": {
+    "file": "assets/svg/square-arrow-up-left.svg",
+    "name": "square-arrow-up-left"
+  },
+  "square-arrow-up-right": {
+    "file": "assets/svg/square-arrow-up-right.svg",
+    "name": "square-arrow-up-right"
+  },
+  "square-arrow-up": {
+    "file": "assets/svg/square-arrow-up.svg",
+    "name": "square-arrow-up"
+  },
+  "square-asterisk": {
+    "file": "assets/svg/square-asterisk.svg",
+    "name": "square-asterisk"
+  },
+  "square-bottom-dashed-scissors": {
+    "file": "assets/svg/square-bottom-dashed-scissors.svg",
+    "name": "square-bottom-dashed-scissors"
+  },
+  "square-centerline-dashed-horizontal": {
+    "file": "assets/svg/square-centerline-dashed-horizontal.svg",
+    "name": "square-centerline-dashed-horizontal"
+  },
+  "square-centerline-dashed-vertical": {
+    "file": "assets/svg/square-centerline-dashed-vertical.svg",
+    "name": "square-centerline-dashed-vertical"
+  },
+  "square-chart-gantt": {
+    "file": "assets/svg/square-chart-gantt.svg",
+    "name": "square-chart-gantt"
+  },
+  "square-check-big": {
+    "file": "assets/svg/square-check-big.svg",
+    "name": "square-check-big"
+  },
+  "square-check": {
+    "file": "assets/svg/square-check.svg",
+    "name": "square-check"
+  },
+  "square-chevron-down": {
+    "file": "assets/svg/square-chevron-down.svg",
+    "name": "square-chevron-down"
+  },
+  "square-chevron-left": {
+    "file": "assets/svg/square-chevron-left.svg",
+    "name": "square-chevron-left"
+  },
+  "square-chevron-right": {
+    "file": "assets/svg/square-chevron-right.svg",
+    "name": "square-chevron-right"
+  },
+  "square-chevron-up": {
+    "file": "assets/svg/square-chevron-up.svg",
+    "name": "square-chevron-up"
+  },
+  "square-code": {
+    "file": "assets/svg/square-code.svg",
+    "name": "square-code"
+  },
+  "square-dashed-bottom-code": {
+    "file": "assets/svg/square-dashed-bottom-code.svg",
+    "name": "square-dashed-bottom-code"
+  },
+  "square-dashed-bottom": {
+    "file": "assets/svg/square-dashed-bottom.svg",
+    "name": "square-dashed-bottom"
+  },
+  "square-dashed-kanban": {
+    "file": "assets/svg/square-dashed-kanban.svg",
+    "name": "square-dashed-kanban"
+  },
+  "square-dashed-mouse-pointer": {
+    "file": "assets/svg/square-dashed-mouse-pointer.svg",
+    "name": "square-dashed-mouse-pointer"
+  },
+  "square-dashed-text": {
+    "file": "assets/svg/square-dashed-text.svg",
+    "name": "square-dashed-text"
+  },
+  "square-dashed-top-solid": {
+    "file": "assets/svg/square-dashed-top-solid.svg",
+    "name": "square-dashed-top-solid"
+  },
+  "square-dashed": {
+    "file": "assets/svg/square-dashed.svg",
+    "name": "square-dashed"
+  },
+  "square-dimensions": {
+    "file": "assets/svg/square-dimensions.svg",
+    "name": "square-dimensions"
+  },
+  "square-divide": {
+    "file": "assets/svg/square-divide.svg",
+    "name": "square-divide"
+  },
+  "square-dot": {
+    "file": "assets/svg/square-dot.svg",
+    "name": "square-dot"
+  },
+  "square-equal": {
+    "file": "assets/svg/square-equal.svg",
+    "name": "square-equal"
+  },
+  "square-function": {
+    "file": "assets/svg/square-function.svg",
+    "name": "square-function"
+  },
+  "square-kanban": {
+    "file": "assets/svg/square-kanban.svg",
+    "name": "square-kanban"
+  },
+  "square-library": {
+    "file": "assets/svg/square-library.svg",
+    "name": "square-library"
+  },
+  "square-m": {
+    "file": "assets/svg/square-m.svg",
+    "name": "square-m"
+  },
+  "square-menu": {
+    "file": "assets/svg/square-menu.svg",
+    "name": "square-menu"
+  },
+  "square-minus": {
+    "file": "assets/svg/square-minus.svg",
+    "name": "square-minus"
+  },
+  "square-mouse-pointer": {
+    "file": "assets/svg/square-mouse-pointer.svg",
+    "name": "square-mouse-pointer"
+  },
+  "square-off": {
+    "file": "assets/svg/square-off.svg",
+    "name": "square-off"
+  },
+  "square-parking-off": {
+    "file": "assets/svg/square-parking-off.svg",
+    "name": "square-parking-off"
+  },
+  "square-parking": {
+    "file": "assets/svg/square-parking.svg",
+    "name": "square-parking"
+  },
+  "square-pause": {
+    "file": "assets/svg/square-pause.svg",
+    "name": "square-pause"
+  },
+  "square-pen": {
+    "file": "assets/svg/square-pen.svg",
+    "name": "square-pen"
+  },
+  "square-percent": {
+    "file": "assets/svg/square-percent.svg",
+    "name": "square-percent"
+  },
+  "square-pi": {
+    "file": "assets/svg/square-pi.svg",
+    "name": "square-pi"
+  },
+  "square-pilcrow": {
+    "file": "assets/svg/square-pilcrow.svg",
+    "name": "square-pilcrow"
+  },
+  "square-play": {
+    "file": "assets/svg/square-play.svg",
+    "name": "square-play"
+  },
+  "square-plus": {
+    "file": "assets/svg/square-plus.svg",
+    "name": "square-plus"
+  },
+  "square-power": {
+    "file": "assets/svg/square-power.svg",
+    "name": "square-power"
+  },
+  "square-radical": {
+    "file": "assets/svg/square-radical.svg",
+    "name": "square-radical"
+  },
+  "square-round-corner": {
+    "file": "assets/svg/square-round-corner.svg",
+    "name": "square-round-corner"
+  },
+  "square-scissors": {
+    "file": "assets/svg/square-scissors.svg",
+    "name": "square-scissors"
+  },
+  "square-sigma": {
+    "file": "assets/svg/square-sigma.svg",
+    "name": "square-sigma"
+  },
+  "square-slash": {
+    "file": "assets/svg/square-slash.svg",
+    "name": "square-slash"
+  },
+  "square-split-horizontal": {
+    "file": "assets/svg/square-split-horizontal.svg",
+    "name": "square-split-horizontal"
+  },
+  "square-split-vertical": {
+    "file": "assets/svg/square-split-vertical.svg",
+    "name": "square-split-vertical"
+  },
+  "square-square": {
+    "file": "assets/svg/square-square.svg",
+    "name": "square-square"
+  },
+  "square-stack": {
+    "file": "assets/svg/square-stack.svg",
+    "name": "square-stack"
+  },
+  "square-star": {
+    "file": "assets/svg/square-star.svg",
+    "name": "square-star"
+  },
+  "square-stop": {
+    "file": "assets/svg/square-stop.svg",
+    "name": "square-stop"
+  },
+  "square-terminal": {
+    "file": "assets/svg/square-terminal.svg",
+    "name": "square-terminal"
+  },
+  "square-text": {
+    "file": "assets/svg/square-text.svg",
+    "name": "square-text"
+  },
+  "square-user-round": {
+    "file": "assets/svg/square-user-round.svg",
+    "name": "square-user-round"
+  },
+  "square-user": {
+    "file": "assets/svg/square-user.svg",
+    "name": "square-user"
+  },
+  "square-x": {
+    "file": "assets/svg/square-x.svg",
+    "name": "square-x"
+  },
+  "square": {
+    "file": "assets/svg/square.svg",
+    "name": "square"
+  },
+  "squares-exclude": {
+    "file": "assets/svg/squares-exclude.svg",
+    "name": "squares-exclude"
+  },
+  "squares-intersect": {
+    "file": "assets/svg/squares-intersect.svg",
+    "name": "squares-intersect"
+  },
+  "squares-subtract": {
+    "file": "assets/svg/squares-subtract.svg",
+    "name": "squares-subtract"
+  },
+  "squares-unite": {
+    "file": "assets/svg/squares-unite.svg",
+    "name": "squares-unite"
+  },
+  "squircle-dashed": {
+    "file": "assets/svg/squircle-dashed.svg",
+    "name": "squircle-dashed"
+  },
+  "squircle": {
+    "file": "assets/svg/squircle.svg",
+    "name": "squircle"
+  },
+  "squirrel": {
+    "file": "assets/svg/squirrel.svg",
+    "name": "squirrel"
+  },
+  "stamp": {
+    "file": "assets/svg/stamp.svg",
+    "name": "stamp"
+  },
+  "star-check": {
+    "file": "assets/svg/star-check.svg",
+    "name": "star-check"
+  },
+  "star-half": {
+    "file": "assets/svg/star-half.svg",
+    "name": "star-half"
+  },
+  "star-minus": {
+    "file": "assets/svg/star-minus.svg",
+    "name": "star-minus"
+  },
+  "star-off": {
+    "file": "assets/svg/star-off.svg",
+    "name": "star-off"
+  },
+  "star-plus": {
+    "file": "assets/svg/star-plus.svg",
+    "name": "star-plus"
+  },
+  "star-x": {
+    "file": "assets/svg/star-x.svg",
+    "name": "star-x"
+  },
+  "star": {
+    "file": "assets/svg/star.svg",
+    "name": "star"
+  },
+  "step-back": {
+    "file": "assets/svg/step-back.svg",
+    "name": "step-back"
+  },
+  "step-forward": {
+    "file": "assets/svg/step-forward.svg",
+    "name": "step-forward"
+  },
+  "stethoscope": {
+    "file": "assets/svg/stethoscope.svg",
+    "name": "stethoscope"
+  },
+  "sticker": {
+    "file": "assets/svg/sticker.svg",
+    "name": "sticker"
+  },
+  "sticky-note-check": {
+    "file": "assets/svg/sticky-note-check.svg",
+    "name": "sticky-note-check"
+  },
+  "sticky-note-minus": {
+    "file": "assets/svg/sticky-note-minus.svg",
+    "name": "sticky-note-minus"
+  },
+  "sticky-note-off": {
+    "file": "assets/svg/sticky-note-off.svg",
+    "name": "sticky-note-off"
+  },
+  "sticky-note-plus": {
+    "file": "assets/svg/sticky-note-plus.svg",
+    "name": "sticky-note-plus"
+  },
+  "sticky-note-x": {
+    "file": "assets/svg/sticky-note-x.svg",
+    "name": "sticky-note-x"
+  },
+  "sticky-note": {
+    "file": "assets/svg/sticky-note.svg",
+    "name": "sticky-note"
+  },
+  "sticky-notes": {
+    "file": "assets/svg/sticky-notes.svg",
+    "name": "sticky-notes"
+  },
+  "stone": {
+    "file": "assets/svg/stone.svg",
+    "name": "stone"
+  },
+  "store": {
+    "file": "assets/svg/store.svg",
+    "name": "store"
+  },
+  "stretch-horizontal": {
+    "file": "assets/svg/stretch-horizontal.svg",
+    "name": "stretch-horizontal"
+  },
+  "stretch-vertical": {
+    "file": "assets/svg/stretch-vertical.svg",
+    "name": "stretch-vertical"
+  },
+  "strikethrough": {
+    "file": "assets/svg/strikethrough.svg",
+    "name": "strikethrough"
+  },
+  "subscript": {
+    "file": "assets/svg/subscript.svg",
+    "name": "subscript"
+  },
+  "summary": {
+    "file": "assets/svg/summary.svg",
+    "name": "summary"
+  },
+  "sun-dim": {
+    "file": "assets/svg/sun-dim.svg",
+    "name": "sun-dim"
+  },
+  "sun-medium": {
+    "file": "assets/svg/sun-medium.svg",
+    "name": "sun-medium"
+  },
+  "sun-moon": {
+    "file": "assets/svg/sun-moon.svg",
+    "name": "sun-moon"
+  },
+  "sun-snow": {
+    "file": "assets/svg/sun-snow.svg",
+    "name": "sun-snow"
+  },
+  "sun": {
+    "file": "assets/svg/sun.svg",
+    "name": "sun"
+  },
+  "sunrise": {
+    "file": "assets/svg/sunrise.svg",
+    "name": "sunrise"
+  },
+  "sunset": {
+    "file": "assets/svg/sunset.svg",
+    "name": "sunset"
+  },
+  "superscript": {
+    "file": "assets/svg/superscript.svg",
+    "name": "superscript"
+  },
+  "swatch-book": {
+    "file": "assets/svg/swatch-book.svg",
+    "name": "swatch-book"
+  },
+  "swiss-franc": {
+    "file": "assets/svg/swiss-franc.svg",
+    "name": "swiss-franc"
+  },
+  "switch-camera": {
+    "file": "assets/svg/switch-camera.svg",
+    "name": "switch-camera"
+  },
+  "sword": {
+    "file": "assets/svg/sword.svg",
+    "name": "sword"
+  },
+  "swords": {
+    "file": "assets/svg/swords.svg",
+    "name": "swords"
+  },
+  "syringe": {
+    "file": "assets/svg/syringe.svg",
+    "name": "syringe"
+  },
+  "table-2": {
+    "file": "assets/svg/table-2.svg",
+    "name": "table-2"
+  },
+  "table-cells-merge": {
+    "file": "assets/svg/table-cells-merge.svg",
+    "name": "table-cells-merge"
+  },
+  "table-cells-split": {
+    "file": "assets/svg/table-cells-split.svg",
+    "name": "table-cells-split"
+  },
+  "table-columns-split": {
+    "file": "assets/svg/table-columns-split.svg",
+    "name": "table-columns-split"
+  },
+  "table-of-contents": {
+    "file": "assets/svg/table-of-contents.svg",
+    "name": "table-of-contents"
+  },
+  "table-properties": {
+    "file": "assets/svg/table-properties.svg",
+    "name": "table-properties"
+  },
+  "table-rows-split": {
+    "file": "assets/svg/table-rows-split.svg",
+    "name": "table-rows-split"
+  },
+  "table": {
+    "file": "assets/svg/table.svg",
+    "name": "table"
+  },
+  "tablet-smartphone": {
+    "file": "assets/svg/tablet-smartphone.svg",
+    "name": "tablet-smartphone"
+  },
+  "tablet": {
+    "file": "assets/svg/tablet.svg",
+    "name": "tablet"
+  },
+  "tablets": {
+    "file": "assets/svg/tablets.svg",
+    "name": "tablets"
+  },
+  "tag-plus": {
+    "file": "assets/svg/tag-plus.svg",
+    "name": "tag-plus"
+  },
+  "tag-x": {
+    "file": "assets/svg/tag-x.svg",
+    "name": "tag-x"
+  },
+  "tag": {
+    "file": "assets/svg/tag.svg",
+    "name": "tag"
+  },
+  "tags": {
+    "file": "assets/svg/tags.svg",
+    "name": "tags"
+  },
+  "tally-1": {
+    "file": "assets/svg/tally-1.svg",
+    "name": "tally-1"
+  },
+  "tally-2": {
+    "file": "assets/svg/tally-2.svg",
+    "name": "tally-2"
+  },
+  "tally-3": {
+    "file": "assets/svg/tally-3.svg",
+    "name": "tally-3"
+  },
+  "tally-4": {
+    "file": "assets/svg/tally-4.svg",
+    "name": "tally-4"
+  },
+  "tally-5": {
+    "file": "assets/svg/tally-5.svg",
+    "name": "tally-5"
+  },
+  "tangent": {
+    "file": "assets/svg/tangent.svg",
+    "name": "tangent"
+  },
+  "target": {
+    "file": "assets/svg/target.svg",
+    "name": "target"
+  },
+  "telescope": {
+    "file": "assets/svg/telescope.svg",
+    "name": "telescope"
+  },
+  "tent-tree": {
+    "file": "assets/svg/tent-tree.svg",
+    "name": "tent-tree"
+  },
+  "tent": {
+    "file": "assets/svg/tent.svg",
+    "name": "tent"
+  },
+  "terminal": {
+    "file": "assets/svg/terminal.svg",
+    "name": "terminal"
+  },
+  "test-tube-diagonal": {
+    "file": "assets/svg/test-tube-diagonal.svg",
+    "name": "test-tube-diagonal"
+  },
+  "test-tube": {
+    "file": "assets/svg/test-tube.svg",
+    "name": "test-tube"
+  },
+  "test-tubes": {
+    "file": "assets/svg/test-tubes.svg",
+    "name": "test-tubes"
+  },
+  "text-align-center": {
+    "file": "assets/svg/text-align-center.svg",
+    "name": "text-align-center"
+  },
+  "text-align-end": {
+    "file": "assets/svg/text-align-end.svg",
+    "name": "text-align-end"
+  },
+  "text-align-justify": {
+    "file": "assets/svg/text-align-justify.svg",
+    "name": "text-align-justify"
+  },
+  "text-align-start": {
+    "file": "assets/svg/text-align-start.svg",
+    "name": "text-align-start"
+  },
+  "text-cursor-input": {
+    "file": "assets/svg/text-cursor-input.svg",
+    "name": "text-cursor-input"
+  },
+  "text-cursor": {
+    "file": "assets/svg/text-cursor.svg",
+    "name": "text-cursor"
+  },
+  "text-initial": {
+    "file": "assets/svg/text-initial.svg",
+    "name": "text-initial"
+  },
+  "text-quote": {
+    "file": "assets/svg/text-quote.svg",
+    "name": "text-quote"
+  },
+  "text-search": {
+    "file": "assets/svg/text-search.svg",
+    "name": "text-search"
+  },
+  "text-wrap": {
+    "file": "assets/svg/text-wrap.svg",
+    "name": "text-wrap"
+  },
+  "theater": {
+    "file": "assets/svg/theater.svg",
+    "name": "theater"
+  },
+  "thermometer-snowflake": {
+    "file": "assets/svg/thermometer-snowflake.svg",
+    "name": "thermometer-snowflake"
+  },
+  "thermometer-sun": {
+    "file": "assets/svg/thermometer-sun.svg",
+    "name": "thermometer-sun"
+  },
+  "thermometer": {
+    "file": "assets/svg/thermometer.svg",
+    "name": "thermometer"
+  },
+  "thumbs-down": {
+    "file": "assets/svg/thumbs-down.svg",
+    "name": "thumbs-down"
+  },
+  "thumbs-up": {
+    "file": "assets/svg/thumbs-up.svg",
+    "name": "thumbs-up"
+  },
+  "ticket-check": {
+    "file": "assets/svg/ticket-check.svg",
+    "name": "ticket-check"
+  },
+  "ticket-minus": {
+    "file": "assets/svg/ticket-minus.svg",
+    "name": "ticket-minus"
+  },
+  "ticket-percent": {
+    "file": "assets/svg/ticket-percent.svg",
+    "name": "ticket-percent"
+  },
+  "ticket-plus": {
+    "file": "assets/svg/ticket-plus.svg",
+    "name": "ticket-plus"
+  },
+  "ticket-slash": {
+    "file": "assets/svg/ticket-slash.svg",
+    "name": "ticket-slash"
+  },
+  "ticket-x": {
+    "file": "assets/svg/ticket-x.svg",
+    "name": "ticket-x"
+  },
+  "ticket": {
+    "file": "assets/svg/ticket.svg",
+    "name": "ticket"
+  },
+  "tickets-plane": {
+    "file": "assets/svg/tickets-plane.svg",
+    "name": "tickets-plane"
+  },
+  "tickets": {
+    "file": "assets/svg/tickets.svg",
+    "name": "tickets"
+  },
+  "timeline": {
+    "file": "assets/svg/timeline.svg",
+    "name": "timeline"
+  },
+  "timer-off": {
+    "file": "assets/svg/timer-off.svg",
+    "name": "timer-off"
+  },
+  "timer-reset": {
+    "file": "assets/svg/timer-reset.svg",
+    "name": "timer-reset"
+  },
+  "timer": {
+    "file": "assets/svg/timer.svg",
+    "name": "timer"
+  },
+  "toggle-left": {
+    "file": "assets/svg/toggle-left.svg",
+    "name": "toggle-left"
+  },
+  "toggle-right": {
+    "file": "assets/svg/toggle-right.svg",
+    "name": "toggle-right"
+  },
+  "toilet": {
+    "file": "assets/svg/toilet.svg",
+    "name": "toilet"
+  },
+  "tool-case": {
+    "file": "assets/svg/tool-case.svg",
+    "name": "tool-case"
+  },
+  "toolbox": {
+    "file": "assets/svg/toolbox.svg",
+    "name": "toolbox"
+  },
+  "tornado": {
+    "file": "assets/svg/tornado.svg",
+    "name": "tornado"
+  },
+  "torus": {
+    "file": "assets/svg/torus.svg",
+    "name": "torus"
+  },
+  "touchpad-off": {
+    "file": "assets/svg/touchpad-off.svg",
+    "name": "touchpad-off"
+  },
+  "touchpad": {
+    "file": "assets/svg/touchpad.svg",
+    "name": "touchpad"
+  },
+  "towel-rack": {
+    "file": "assets/svg/towel-rack.svg",
+    "name": "towel-rack"
+  },
+  "tower-control": {
+    "file": "assets/svg/tower-control.svg",
+    "name": "tower-control"
+  },
+  "toy-brick": {
+    "file": "assets/svg/toy-brick.svg",
+    "name": "toy-brick"
+  },
+  "tractor": {
+    "file": "assets/svg/tractor.svg",
+    "name": "tractor"
+  },
+  "traffic-cone": {
+    "file": "assets/svg/traffic-cone.svg",
+    "name": "traffic-cone"
+  },
+  "trailer": {
+    "file": "assets/svg/trailer.svg",
+    "name": "trailer"
+  },
+  "train-front-tunnel": {
+    "file": "assets/svg/train-front-tunnel.svg",
+    "name": "train-front-tunnel"
+  },
+  "train-front": {
+    "file": "assets/svg/train-front.svg",
+    "name": "train-front"
+  },
+  "train-track": {
+    "file": "assets/svg/train-track.svg",
+    "name": "train-track"
+  },
+  "tram-front": {
+    "file": "assets/svg/tram-front.svg",
+    "name": "tram-front"
+  },
+  "transgender": {
+    "file": "assets/svg/transgender.svg",
+    "name": "transgender"
+  },
+  "trash-2": {
+    "file": "assets/svg/trash-2.svg",
+    "name": "trash-2"
+  },
+  "trash": {
+    "file": "assets/svg/trash.svg",
+    "name": "trash"
+  },
+  "tree-deciduous": {
+    "file": "assets/svg/tree-deciduous.svg",
+    "name": "tree-deciduous"
+  },
+  "tree-palm": {
+    "file": "assets/svg/tree-palm.svg",
+    "name": "tree-palm"
+  },
+  "tree-pine": {
+    "file": "assets/svg/tree-pine.svg",
+    "name": "tree-pine"
+  },
+  "trees": {
+    "file": "assets/svg/trees.svg",
+    "name": "trees"
+  },
+  "trending-down": {
+    "file": "assets/svg/trending-down.svg",
+    "name": "trending-down"
+  },
+  "trending-up-down": {
+    "file": "assets/svg/trending-up-down.svg",
+    "name": "trending-up-down"
+  },
+  "trending-up": {
+    "file": "assets/svg/trending-up.svg",
+    "name": "trending-up"
+  },
+  "triangle-alert": {
+    "file": "assets/svg/triangle-alert.svg",
+    "name": "triangle-alert"
+  },
+  "triangle-dashed": {
+    "file": "assets/svg/triangle-dashed.svg",
+    "name": "triangle-dashed"
+  },
+  "triangle-right": {
+    "file": "assets/svg/triangle-right.svg",
+    "name": "triangle-right"
+  },
+  "triangle": {
+    "file": "assets/svg/triangle.svg",
+    "name": "triangle"
+  },
+  "trophy": {
+    "file": "assets/svg/trophy.svg",
+    "name": "trophy"
+  },
+  "truck-electric": {
+    "file": "assets/svg/truck-electric.svg",
+    "name": "truck-electric"
+  },
+  "truck": {
+    "file": "assets/svg/truck.svg",
+    "name": "truck"
+  },
+  "turkish-lira": {
+    "file": "assets/svg/turkish-lira.svg",
+    "name": "turkish-lira"
+  },
+  "turntable": {
+    "file": "assets/svg/turntable.svg",
+    "name": "turntable"
+  },
+  "turtle": {
+    "file": "assets/svg/turtle.svg",
+    "name": "turtle"
+  },
+  "tv-minimal-play": {
+    "file": "assets/svg/tv-minimal-play.svg",
+    "name": "tv-minimal-play"
+  },
+  "tv-minimal": {
+    "file": "assets/svg/tv-minimal.svg",
+    "name": "tv-minimal"
+  },
+  "tv": {
+    "file": "assets/svg/tv.svg",
+    "name": "tv"
+  },
+  "type-outline": {
+    "file": "assets/svg/type-outline.svg",
+    "name": "type-outline"
+  },
+  "type": {
+    "file": "assets/svg/type.svg",
+    "name": "type"
+  },
+  "umbrella-off": {
+    "file": "assets/svg/umbrella-off.svg",
+    "name": "umbrella-off"
+  },
+  "umbrella": {
+    "file": "assets/svg/umbrella.svg",
+    "name": "umbrella"
+  },
+  "underline": {
+    "file": "assets/svg/underline.svg",
+    "name": "underline"
+  },
+  "undo-2": {
+    "file": "assets/svg/undo-2.svg",
+    "name": "undo-2"
+  },
+  "undo-dot": {
+    "file": "assets/svg/undo-dot.svg",
+    "name": "undo-dot"
+  },
+  "undo": {
+    "file": "assets/svg/undo.svg",
+    "name": "undo"
+  },
+  "unfold-horizontal": {
+    "file": "assets/svg/unfold-horizontal.svg",
+    "name": "unfold-horizontal"
+  },
+  "unfold-vertical": {
+    "file": "assets/svg/unfold-vertical.svg",
+    "name": "unfold-vertical"
+  },
+  "ungroup": {
+    "file": "assets/svg/ungroup.svg",
+    "name": "ungroup"
+  },
+  "university": {
+    "file": "assets/svg/university.svg",
+    "name": "university"
+  },
+  "unlink-2": {
+    "file": "assets/svg/unlink-2.svg",
+    "name": "unlink-2"
+  },
+  "unlink": {
+    "file": "assets/svg/unlink.svg",
+    "name": "unlink"
+  },
+  "unplug": {
+    "file": "assets/svg/unplug.svg",
+    "name": "unplug"
+  },
+  "upload": {
+    "file": "assets/svg/upload.svg",
+    "name": "upload"
+  },
+  "usb-c-port": {
+    "file": "assets/svg/usb-c-port.svg",
+    "name": "usb-c-port"
+  },
+  "usb": {
+    "file": "assets/svg/usb.svg",
+    "name": "usb"
+  },
+  "user-check": {
+    "file": "assets/svg/user-check.svg",
+    "name": "user-check"
+  },
+  "user-cog": {
+    "file": "assets/svg/user-cog.svg",
+    "name": "user-cog"
+  },
+  "user-key": {
+    "file": "assets/svg/user-key.svg",
+    "name": "user-key"
+  },
+  "user-lock": {
+    "file": "assets/svg/user-lock.svg",
+    "name": "user-lock"
+  },
+  "user-minus": {
+    "file": "assets/svg/user-minus.svg",
+    "name": "user-minus"
+  },
+  "user-pen": {
+    "file": "assets/svg/user-pen.svg",
+    "name": "user-pen"
+  },
+  "user-plus": {
+    "file": "assets/svg/user-plus.svg",
+    "name": "user-plus"
+  },
+  "user-round-arrow-left": {
+    "file": "assets/svg/user-round-arrow-left.svg",
+    "name": "user-round-arrow-left"
+  },
+  "user-round-check": {
+    "file": "assets/svg/user-round-check.svg",
+    "name": "user-round-check"
+  },
+  "user-round-cog": {
+    "file": "assets/svg/user-round-cog.svg",
+    "name": "user-round-cog"
+  },
+  "user-round-key": {
+    "file": "assets/svg/user-round-key.svg",
+    "name": "user-round-key"
+  },
+  "user-round-minus": {
+    "file": "assets/svg/user-round-minus.svg",
+    "name": "user-round-minus"
+  },
+  "user-round-pen": {
+    "file": "assets/svg/user-round-pen.svg",
+    "name": "user-round-pen"
+  },
+  "user-round-plus": {
+    "file": "assets/svg/user-round-plus.svg",
+    "name": "user-round-plus"
+  },
+  "user-round-search": {
+    "file": "assets/svg/user-round-search.svg",
+    "name": "user-round-search"
+  },
+  "user-round-x": {
+    "file": "assets/svg/user-round-x.svg",
+    "name": "user-round-x"
+  },
+  "user-round": {
+    "file": "assets/svg/user-round.svg",
+    "name": "user-round"
+  },
+  "user-search": {
+    "file": "assets/svg/user-search.svg",
+    "name": "user-search"
+  },
+  "user-shield": {
+    "file": "assets/svg/user-shield.svg",
+    "name": "user-shield"
+  },
+  "user-star": {
+    "file": "assets/svg/user-star.svg",
+    "name": "user-star"
+  },
+  "user-x": {
+    "file": "assets/svg/user-x.svg",
+    "name": "user-x"
+  },
+  "user": {
+    "file": "assets/svg/user.svg",
+    "name": "user"
+  },
+  "users-round": {
+    "file": "assets/svg/users-round.svg",
+    "name": "users-round"
+  },
+  "users": {
+    "file": "assets/svg/users.svg",
+    "name": "users"
+  },
+  "utensils-crossed": {
+    "file": "assets/svg/utensils-crossed.svg",
+    "name": "utensils-crossed"
+  },
+  "utensils": {
+    "file": "assets/svg/utensils.svg",
+    "name": "utensils"
+  },
+  "utility-pole": {
+    "file": "assets/svg/utility-pole.svg",
+    "name": "utility-pole"
+  },
+  "van": {
+    "file": "assets/svg/van.svg",
+    "name": "van"
+  },
+  "variable": {
+    "file": "assets/svg/variable.svg",
+    "name": "variable"
+  },
+  "vault": {
+    "file": "assets/svg/vault.svg",
+    "name": "vault"
+  },
+  "vector-polygon": {
+    "file": "assets/svg/vector-polygon.svg",
+    "name": "vector-polygon"
+  },
+  "vector-square": {
+    "file": "assets/svg/vector-square.svg",
+    "name": "vector-square"
+  },
+  "vegan": {
+    "file": "assets/svg/vegan.svg",
+    "name": "vegan"
+  },
+  "venetian-mask": {
+    "file": "assets/svg/venetian-mask.svg",
+    "name": "venetian-mask"
+  },
+  "venus-and-mars": {
+    "file": "assets/svg/venus-and-mars.svg",
+    "name": "venus-and-mars"
+  },
+  "venus": {
+    "file": "assets/svg/venus.svg",
+    "name": "venus"
+  },
+  "vibrate-off": {
+    "file": "assets/svg/vibrate-off.svg",
+    "name": "vibrate-off"
+  },
+  "vibrate": {
+    "file": "assets/svg/vibrate.svg",
+    "name": "vibrate"
+  },
+  "video-off": {
+    "file": "assets/svg/video-off.svg",
+    "name": "video-off"
+  },
+  "video": {
+    "file": "assets/svg/video.svg",
+    "name": "video"
+  },
+  "videotape": {
+    "file": "assets/svg/videotape.svg",
+    "name": "videotape"
+  },
+  "view": {
+    "file": "assets/svg/view.svg",
+    "name": "view"
+  },
+  "voicemail": {
+    "file": "assets/svg/voicemail.svg",
+    "name": "voicemail"
+  },
+  "volleyball": {
+    "file": "assets/svg/volleyball.svg",
+    "name": "volleyball"
+  },
+  "volume-1": {
+    "file": "assets/svg/volume-1.svg",
+    "name": "volume-1"
+  },
+  "volume-2": {
+    "file": "assets/svg/volume-2.svg",
+    "name": "volume-2"
+  },
+  "volume-off": {
+    "file": "assets/svg/volume-off.svg",
+    "name": "volume-off"
+  },
+  "volume-x": {
+    "file": "assets/svg/volume-x.svg",
+    "name": "volume-x"
+  },
+  "volume": {
+    "file": "assets/svg/volume.svg",
+    "name": "volume"
+  },
+  "vote": {
+    "file": "assets/svg/vote.svg",
+    "name": "vote"
+  },
+  "wallet-cards": {
+    "file": "assets/svg/wallet-cards.svg",
+    "name": "wallet-cards"
+  },
+  "wallet-minimal": {
+    "file": "assets/svg/wallet-minimal.svg",
+    "name": "wallet-minimal"
+  },
+  "wallet": {
+    "file": "assets/svg/wallet.svg",
+    "name": "wallet"
+  },
+  "wallpaper": {
+    "file": "assets/svg/wallpaper.svg",
+    "name": "wallpaper"
+  },
+  "wand-sparkles": {
+    "file": "assets/svg/wand-sparkles.svg",
+    "name": "wand-sparkles"
+  },
+  "wand": {
+    "file": "assets/svg/wand.svg",
+    "name": "wand"
+  },
+  "warehouse": {
+    "file": "assets/svg/warehouse.svg",
+    "name": "warehouse"
+  },
+  "washing-machine": {
+    "file": "assets/svg/washing-machine.svg",
+    "name": "washing-machine"
+  },
+  "watch": {
+    "file": "assets/svg/watch.svg",
+    "name": "watch"
+  },
+  "waves-arrow-down": {
+    "file": "assets/svg/waves-arrow-down.svg",
+    "name": "waves-arrow-down"
+  },
+  "waves-arrow-up": {
+    "file": "assets/svg/waves-arrow-up.svg",
+    "name": "waves-arrow-up"
+  },
+  "waves-horizontal": {
+    "file": "assets/svg/waves-horizontal.svg",
+    "name": "waves-horizontal"
+  },
+  "waves-ladder": {
+    "file": "assets/svg/waves-ladder.svg",
+    "name": "waves-ladder"
+  },
+  "waves-vertical": {
+    "file": "assets/svg/waves-vertical.svg",
+    "name": "waves-vertical"
+  },
+  "waypoints": {
+    "file": "assets/svg/waypoints.svg",
+    "name": "waypoints"
+  },
+  "webcam-off": {
+    "file": "assets/svg/webcam-off.svg",
+    "name": "webcam-off"
+  },
+  "webcam": {
+    "file": "assets/svg/webcam.svg",
+    "name": "webcam"
+  },
+  "webhook-off": {
+    "file": "assets/svg/webhook-off.svg",
+    "name": "webhook-off"
+  },
+  "webhook": {
+    "file": "assets/svg/webhook.svg",
+    "name": "webhook"
+  },
+  "weight-tilde": {
+    "file": "assets/svg/weight-tilde.svg",
+    "name": "weight-tilde"
+  },
+  "weight": {
+    "file": "assets/svg/weight.svg",
+    "name": "weight"
+  },
+  "wheat-off": {
+    "file": "assets/svg/wheat-off.svg",
+    "name": "wheat-off"
+  },
+  "wheat": {
+    "file": "assets/svg/wheat.svg",
+    "name": "wheat"
+  },
+  "whole-word": {
+    "file": "assets/svg/whole-word.svg",
+    "name": "whole-word"
+  },
+  "wifi-cog": {
+    "file": "assets/svg/wifi-cog.svg",
+    "name": "wifi-cog"
+  },
+  "wifi-high": {
+    "file": "assets/svg/wifi-high.svg",
+    "name": "wifi-high"
+  },
+  "wifi-low": {
+    "file": "assets/svg/wifi-low.svg",
+    "name": "wifi-low"
+  },
+  "wifi-off": {
+    "file": "assets/svg/wifi-off.svg",
+    "name": "wifi-off"
+  },
+  "wifi-pen": {
+    "file": "assets/svg/wifi-pen.svg",
+    "name": "wifi-pen"
+  },
+  "wifi-sync": {
+    "file": "assets/svg/wifi-sync.svg",
+    "name": "wifi-sync"
+  },
+  "wifi-zero": {
+    "file": "assets/svg/wifi-zero.svg",
+    "name": "wifi-zero"
+  },
+  "wifi": {
+    "file": "assets/svg/wifi.svg",
+    "name": "wifi"
+  },
+  "wind-arrow-down": {
+    "file": "assets/svg/wind-arrow-down.svg",
+    "name": "wind-arrow-down"
+  },
+  "wind": {
+    "file": "assets/svg/wind.svg",
+    "name": "wind"
+  },
+  "wine-off": {
+    "file": "assets/svg/wine-off.svg",
+    "name": "wine-off"
+  },
+  "wine": {
+    "file": "assets/svg/wine.svg",
+    "name": "wine"
+  },
+  "workflow": {
+    "file": "assets/svg/workflow.svg",
+    "name": "workflow"
+  },
+  "worm": {
+    "file": "assets/svg/worm.svg",
+    "name": "worm"
+  },
+  "wrench-off": {
+    "file": "assets/svg/wrench-off.svg",
+    "name": "wrench-off"
+  },
+  "wrench": {
+    "file": "assets/svg/wrench.svg",
+    "name": "wrench"
+  },
+  "x-line-top": {
+    "file": "assets/svg/x-line-top.svg",
+    "name": "x-line-top"
+  },
+  "x": {
+    "file": "assets/svg/x.svg",
+    "name": "x"
+  },
+  "zap-off": {
+    "file": "assets/svg/zap-off.svg",
+    "name": "zap-off"
+  },
+  "zap": {
+    "file": "assets/svg/zap.svg",
+    "name": "zap"
+  },
+  "zodiac-aquarius": {
+    "file": "assets/svg/zodiac-aquarius.svg",
+    "name": "zodiac-aquarius"
+  },
+  "zodiac-aries": {
+    "file": "assets/svg/zodiac-aries.svg",
+    "name": "zodiac-aries"
+  },
+  "zodiac-cancer": {
+    "file": "assets/svg/zodiac-cancer.svg",
+    "name": "zodiac-cancer"
+  },
+  "zodiac-capricorn": {
+    "file": "assets/svg/zodiac-capricorn.svg",
+    "name": "zodiac-capricorn"
+  },
+  "zodiac-gemini": {
+    "file": "assets/svg/zodiac-gemini.svg",
+    "name": "zodiac-gemini"
+  },
+  "zodiac-leo": {
+    "file": "assets/svg/zodiac-leo.svg",
+    "name": "zodiac-leo"
+  },
+  "zodiac-libra": {
+    "file": "assets/svg/zodiac-libra.svg",
+    "name": "zodiac-libra"
+  },
+  "zodiac-ophiuchus": {
+    "file": "assets/svg/zodiac-ophiuchus.svg",
+    "name": "zodiac-ophiuchus"
+  },
+  "zodiac-pisces": {
+    "file": "assets/svg/zodiac-pisces.svg",
+    "name": "zodiac-pisces"
+  },
+  "zodiac-sagittarius": {
+    "file": "assets/svg/zodiac-sagittarius.svg",
+    "name": "zodiac-sagittarius"
+  },
+  "zodiac-scorpio": {
+    "file": "assets/svg/zodiac-scorpio.svg",
+    "name": "zodiac-scorpio"
+  },
+  "zodiac-taurus": {
+    "file": "assets/svg/zodiac-taurus.svg",
+    "name": "zodiac-taurus"
+  },
+  "zodiac-virgo": {
+    "file": "assets/svg/zodiac-virgo.svg",
+    "name": "zodiac-virgo"
+  },
+  "zoom-in": {
+    "file": "assets/svg/zoom-in.svg",
+    "name": "zoom-in"
+  },
+  "zoom-out": {
+    "file": "assets/svg/zoom-out.svg",
+    "name": "zoom-out"
+  }
+}

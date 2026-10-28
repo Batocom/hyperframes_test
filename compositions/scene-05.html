@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Fira+Code:wght@400;600;700&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .section-badge { position: absolute; top: 40px; left: 50%; transform: translateX(-50%); background: linear-gradient(135deg, rgba(139,92,246,0.2), rgba(109,40,217,0.1)); border: 2px solid #8b5cf6; border-radius: 20px; padding: 12px 32px; opacity: 0; }
+    .section-badge .num { font-size: 14px; color: #a78bfa; text-transform: uppercase; letter-spacing: 3px; }
+    .section-badge .name { font-size: 28px; font-weight: 900; color: #a78bfa; margin-top: 2px; }
+    .analogy { position: absolute; top: 160px; left: 50%; transform: translateX(-50%); font-size: 22px; color: #94a3b8; opacity: 0; text-align: center; width: 80%; }
+    .boxes { position: absolute; top: 250px; left: 50%; transform: translateX(-50%); display: flex; gap: 40px; opacity: 0; }
+    .box { width: 240px; height: 180px; border-radius: 16px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; }
+    .box svg { width: 48px; height: 48px; }
+    .box .label { font-size: 16px; font-weight: 700; }
+    .b1 { background: linear-gradient(145deg, rgba(59,130,246,0.15), rgba(29,78,216,0.1)); border: 2px solid rgba(59,130,246,0.3); }
+    .b1 svg { fill: #3b82f6; }
+    .b1 .label { color: #60a5fa; }
+    .b2 { background: linear-gradient(145deg, rgba(16,185,129,0.15), rgba(5,150,105,0.1)); border: 2px solid rgba(16,185,129,0.3); }
+    .b2 svg { fill: #10b981; }
+    .b2 .label { color: #34d399; }
+    .b3 { background: linear-gradient(145deg, rgba(245,158,11,0.15), rgba(217,119,6,0.1)); border: 2px solid rgba(245,158,11,0.3); }
+    .b3 svg { fill: #f59e0b; }
+    .b3 .label { color: #fbbf24; }
+    .door { position: absolute; top: 500px; left: 50%; transform: translateX(-50%); width: 120px; height: 60px; border: 3px solid #8b5cf6; border-radius: 8px 8px 0 0; opacity: 0; display: flex; align-items: center; justify-content: center; }
+    .door-label { font-family: 'Fira Code', monospace; font-size: 14px; color: #a78bfa; }
+    .detail { position: absolute; bottom: 80px; left: 50%; transform: translateX(-50%); font-size: 20px; color: #64748b; opacity: 0; text-align: center; width: 80%; }
+  </style>
+  <div data-hf-id="hf-s5-root" id="root" data-composition-id="scene-05" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s5-badge" id="s5-badge" class="section-badge">
+      <div class="num">GOAL 2</div>
+      <div class="name">MODULAR</div>
+    </div>
+    <div data-hf-id="hf-s5-analogy" id="s5-analogy" class="analogy" data-hf-word="The">The database, business logic, and screens never touch each other directly.</div>
+    <div data-hf-id="hf-s5-boxes" id="s5-boxes" class="boxes">
+      <div class="box b1">
+        <svg viewBox="0 0 24 24"><path d="M2 20h20v-4H2v4zm2-3h2v2H4v-2zM2 4v4h20V4H2zm4 3H4V5h2v2zm-4 7h20v-4H2v4zm2-3h2v2H4v-2z"/></svg>
+        <div class="label">DATABASE</div>
+      </div>
+      <div class="box b2">
+        <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>
+        <div class="label">LOGIC</div>
+      </div>
+      <div class="box b3">
+        <svg viewBox="0 0 24 24"><path d="M21 3H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h7v2H8v2h8v-2h-2v-2h7c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 14H3V5h18v12z"/></svg>
+        <div class="label">SCREENS</div>
+      </div>
+    </div>
+    <div data-hf-id="hf-s5-door" id="s5-door" class="door"><div class="door-label">DOORWAY</div></div>
+    <div data-hf-id="hf-s5-detail" id="s5-detail" class="detail">they only talk through one designated doorway</div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s5-badge', { autoAlpha: 0, y: -20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 0.5);
+    tl.fromTo('#s5-analogy', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 1.0);
+    tl.fromTo('#s5-boxes', { autoAlpha: 0, y: 30 }, { autoAlpha: 1, y: 0, duration: 0.5 }, 2.0);
+    tl.fromTo('#s5-door', { autoAlpha: 0, scaleY: 0 }, { autoAlpha: 1, scaleY: 1, duration: 0.4, transformOrigin: 'bottom' }, 4.0);
+    tl.fromTo('#s5-detail', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 5.0);
+    tl.to('#s5-boxes', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 7 }, 3);
+    tl.to('#s5-door', { scale: 1.05, duration: 1.2, ease: 'sine.inOut', yoyo: true, repeat: 7 }, 4.5);
+    tl.to('#s5-detail', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 6 }, 6);
+    tl.to('#s5-badge', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 7 }, 2);
+    window.__timelines["scene-05"] = tl;
+  </script>
+</template>
+</body>
+</html>

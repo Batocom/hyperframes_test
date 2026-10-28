@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .num { position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); font-size: 140px; font-weight: 900; color: #00d4ff; opacity: 0; }
+    .label { position: absolute; top: 55%; left: 50%; transform: translateX(-50%); font-size: 36px; font-weight: 700; opacity: 0; white-space: nowrap; }
+    .sub { position: absolute; top: 65%; left: 50%; transform: translateX(-50%); font-size: 22px; color: #64748b; opacity: 0; white-space: nowrap; }
+  </style>
+  <div data-hf-id="hf-s2-root" id="root" data-composition-id="scene-02" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s2-num" id="s2-num" class="num" data-hf-word="roughly">40</div>
+    <div data-hf-id="hf-s2-label" id="s2-label" class="label">SMALL RULES</div>
+    <div data-hf-id="hf-s2-sub" id="s2-sub" class="sub">serving four goals</div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s2-num', { autoAlpha: 0, scale: 3 }, { autoAlpha: 1, scale: 1, duration: 0.6, ease: 'power4.out' }, 0.5);
+    tl.fromTo('#s2-label', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 1.2);
+    tl.fromTo('#s2-sub', { autoAlpha: 0 }, { autoAlpha: 1, duration: 0.4 }, 2.0);
+    tl.to('#s2-num', { scale: 1.05, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 2);
+    tl.to('#s2-label', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 2.5);
+    tl.to('#s2-sub', { y: -3, duration: 1.2, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 3);
+    window.__timelines["scene-02"] = tl;
+  </script>
+</template>
+</body>
+</html>

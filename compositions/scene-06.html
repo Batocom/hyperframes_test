@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Fira+Code:wght@400;600;700&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .section-badge { position: absolute; top: 40px; left: 50%; transform: translateX(-50%); background: linear-gradient(135deg, rgba(16,185,129,0.2), rgba(5,150,105,0.1)); border: 2px solid #10b981; border-radius: 20px; padding: 12px 32px; opacity: 0; }
+    .section-badge .num { font-size: 14px; color: #34d399; text-transform: uppercase; letter-spacing: 3px; }
+    .section-badge .name { font-size: 28px; font-weight: 900; color: #34d399; margin-top: 2px; }
+    .analogy { position: absolute; top: 160px; left: 50%; transform: translateX(-50%); font-size: 22px; color: #94a3b8; opacity: 0; text-align: center; width: 80%; }
+    .log { position: absolute; top: 260px; left: 50%; transform: translateX(-50%); width: 600px; opacity: 0; }
+    .log-entry { display: flex; align-items: center; gap: 12px; padding: 12px 16px; margin-bottom: 8px; border-radius: 8px; background: rgba(16,185,129,0.08); border: 1px solid rgba(16,185,129,0.2); font-family: 'Fira Code', monospace; font-size: 14px; opacity: 0; }
+    .log-entry .time { color: #64748b; min-width: 80px; }
+    .log-entry .event { color: #34d399; }
+    .log-icon { width: 28px; height: 28px; border-radius: 6px; background: linear-gradient(135deg, #10b981, #059669); display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .log-icon svg { width: 16px; height: 16px; fill: #fff; }
+    .detail { position: absolute; bottom: 80px; left: 50%; transform: translateX(-50%); font-size: 20px; color: #64748b; opacity: 0; text-align: center; width: 80%; }
+  </style>
+  <div data-hf-id="hf-s6-root" id="root" data-composition-id="scene-06" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s6-badge" id="s6-badge" class="section-badge">
+      <div class="num">GOAL 3</div>
+      <div class="name">SCALABLE</div>
+    </div>
+    <div data-hf-id="hf-s6-analogy" id="s6-analogy" class="analogy" data-hf-word="every">Every change to the database gets logged automatically.</div>
+    <div data-hf-id="hf-s6-log" id="s6-log" class="log">
+      <div data-hf-id="hf-s6-e1" id="s6-e1" class="log-entry"><div class="log-icon"><svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg></div><div class="time">14:32:01</div><div class="event">CREATE TABLE orders</div></div>
+      <div data-hf-id="hf-s6-e2" id="s6-e2" class="log-entry"><div class="log-icon"><svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg></div><div class="time">14:33:15</div><div class="event">ALTER TABLE orders ADD column</div></div>
+      <div data-hf-id="hf-s6-e3" id="s6-e3" class="log-entry"><div class="log-icon"><svg viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg></div><div class="time">15:01:42</div><div class="event">DROP INDEX idx_old</div></div>
+    </div>
+    <div data-hf-id="hf-s6-detail" id="s6-detail" class="detail">so if something breaks six months from now, you can see exactly what happened</div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s6-badge', { autoAlpha: 0, y: -20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 0.5);
+    tl.fromTo('#s6-analogy', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 1.0);
+    tl.fromTo('#s6-log', { autoAlpha: 0, y: 30 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 2.0);
+    tl.fromTo('#s6-e1', { autoAlpha: 0, x: -20 }, { autoAlpha: 1, x: 0, duration: 0.3 }, 3.0);
+    tl.fromTo('#s6-e2', { autoAlpha: 0, x: -20 }, { autoAlpha: 1, x: 0, duration: 0.3 }, 4.5);
+    tl.fromTo('#s6-e3', { autoAlpha: 0, x: -20 }, { autoAlpha: 1, x: 0, duration: 0.3 }, 6.0);
+    tl.fromTo('#s6-detail', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 8.0);
+    tl.to('#s6-log', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 3);
+    tl.to('#s6-detail', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 4 }, 9);
+    tl.to('#s6-badge', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 2);
+    window.__timelines["scene-06"] = tl;
+  </script>
+</template>
+</body>
+</html>

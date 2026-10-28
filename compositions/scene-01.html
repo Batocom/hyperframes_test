@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Fira+Code:wght@400;600;700&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .title { position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); font-size: 64px; font-weight: 900; text-align: center; opacity: 0; }
+    .sub { position: absolute; top: 58%; left: 50%; transform: translateX(-50%); font-size: 24px; color: #64748b; opacity: 0; white-space: nowrap; }
+  </style>
+  <div data-hf-id="hf-s1-root" id="root" data-composition-id="scene-01" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s1-t1" id="s1-t1" class="title" data-hf-word="Now">UNDER THE HOOD</div>
+    <div data-hf-id="hf-s1-t2" id="s1-t2" class="sub">a quick look at what's inside</div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s1-t1', { autoAlpha: 0, scale: 0.5 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: 'back.out(1.7)' }, 0.1);
+    tl.fromTo('#s1-t2', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 1.0);
+    tl.to('#s1-t1', { scale: 1.03, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 3 }, 1);
+    tl.to('#s1-t2', { y: -3, duration: 1.2, ease: 'sine.inOut', yoyo: true, repeat: 3 }, 1.5);
+    window.__timelines["scene-01"] = tl;
+  </script>
+</template>
+</body>
+</html>

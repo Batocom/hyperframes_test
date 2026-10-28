@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .goal { position: absolute; width: 340px; height: 100px; border-radius: 16px; display: flex; align-items: center; gap: 16px; padding: 0 24px; opacity: 0; box-shadow: 0 15px 30px -8px rgba(0,0,0,0.4); }
+    .goal .icon { width: 48px; height: 48px; border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; }
+    .goal .icon svg { width: 28px; height: 28px; }
+    .goal .text .name { font-weight: 700; font-size: 20px; }
+    .goal .text .desc { font-size: 13px; color: #94a3b8; margin-top: 2px; }
+    .g1 { background: linear-gradient(145deg, rgba(59,130,246,0.15), rgba(29,78,216,0.1)); border: 2px solid rgba(59,130,246,0.3); top: 200px; left: 50%; transform: translateX(-50%); }
+    .g1 .icon { background: linear-gradient(135deg, #3b82f6, #1d4ed8); }
+    .g1 .icon svg { fill: #fff; }
+    .g2 { background: linear-gradient(145deg, rgba(139,92,246,0.15), rgba(109,40,217,0.1)); border: 2px solid rgba(139,92,246,0.3); top: 330px; left: 50%; transform: translateX(-50%); }
+    .g2 .icon { background: linear-gradient(135deg, #8b5cf6, #6d28d9); }
+    .g2 .icon svg { fill: #fff; }
+    .g3 { background: linear-gradient(145deg, rgba(16,185,129,0.15), rgba(5,150,105,0.1)); border: 2px solid rgba(16,185,129,0.3); top: 460px; left: 50%; transform: translateX(-50%); }
+    .g3 .icon { background: linear-gradient(135deg, #10b981, #059669); }
+    .g3 .icon svg { fill: #fff; }
+    .g4 { background: linear-gradient(145deg, rgba(245,158,11,0.15), rgba(217,119,6,0.1)); border: 2px solid rgba(245,158,11,0.3); top: 590px; left: 50%; transform: translateX(-50%); }
+    .g4 .icon { background: linear-gradient(135deg, #f59e0b, #d97706); }
+    .g4 .icon svg { fill: #fff; }
+  </style>
+  <div data-hf-id="hf-s3-root" id="root" data-composition-id="scene-03" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s3-g1" id="s3-g1" class="goal g1" style="top:200px;">
+      <div class="icon"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg></div>
+      <div class="text"><div class="name" style="color:#60a5fa;">PREDICTABLE</div><div class="desc">Same output shape, every time</div></div>
+    </div>
+    <div data-hf-id="hf-s3-g2" id="s3-g2" class="goal g2" style="top:330px;">
+      <div class="icon"><svg viewBox="0 0 24 24"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg></div>
+      <div class="text"><div class="name" style="color:#a78bfa;">MODULAR</div><div class="desc">Parts talk through doorways</div></div>
+    </div>
+    <div data-hf-id="hf-s3-g3" id="s3-g3" class="goal g3" style="top:460px;">
+      <div class="icon"><svg viewBox="0 0 24 24"><path d="M16 6l2.29 2.29-4.88 4.88-4-4L2 16.59 3.41 18l6-6 4 4 6.3-6.29L22 12V6z"/></svg></div>
+      <div class="text"><div class="name" style="color:#34d399;">SCALABLE</div><div class="desc">Changes logged automatically</div></div>
+    </div>
+    <div data-hf-id="hf-s3-g4" id="s3-g4" class="goal g4" style="top:590px;">
+      <div class="icon"><svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4z"/></svg></div>
+      <div class="text"><div class="name" style="color:#fbbf24;">CONSISTENT</div><div class="desc">Same header in every file</div></div>
+    </div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s3-g1', { autoAlpha: 0, y: 30 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 3.0);
+    tl.fromTo('#s3-g2', { autoAlpha: 0, y: 30 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 4.0);
+    tl.fromTo('#s3-g3', { autoAlpha: 0, y: 30 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 5.0);
+    tl.fromTo('#s3-g4', { autoAlpha: 0, y: 30 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 6.0);
+    tl.to('#s3-g1', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 4);
+    tl.to('#s3-g2', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 4.5);
+    tl.to('#s3-g3', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 5);
+    tl.to('#s3-g4', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 5.5);
+    window.__timelines["scene-03"] = tl;
+  </script>
+</template>
+</body>
+</html>

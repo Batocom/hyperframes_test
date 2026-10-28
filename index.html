@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1920, height=1080">
+  <title>A Quick Look Under the Hood</title>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Fira+Code:wght@400;600;700&display=swap');
+    body { margin: 0; background: #0a0e17; color: #fff; font-family: 'Inter', sans-serif; overflow: hidden; }
+    #root { position: relative; width: 1920px; height: 1080px; overflow: hidden; }
+    .clip { position: absolute; inset: 0; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 80px 60px; box-sizing: border-box; }
+    .scene-bg { position: absolute; inset: 0; z-index: 0; background-size: cover; background-position: center; }
+    .scene-overlay { position: absolute; inset: 0; z-index: 1; background: rgba(10, 14, 23, 0.75); }
+    .scene-content { position: relative; z-index: 2; text-align: center; width: 100%; }
+    .title-text { font-size: 64px; font-weight: 900; line-height: 1.2; margin: 0; }
+    .subtitle-text { font-size: 24px; font-weight: 400; line-height: 1.5; color: #94a3b8; margin: 20px 0 0 0; }
+    .phrase-text { font-size: 36px; font-weight: 600; line-height: 1.4; margin: 10px 0; opacity: 0; }
+    .accent { color: #00d4ff; }
+    .highlight { color: #f59e0b; }
+    .divider { width: 120px; height: 4px; background: linear-gradient(90deg, #00d4ff, #f59e0b); margin: 30px auto; border-radius: 2px; transform: scaleX(0); }
+    .number-big { font-size: 140px; font-weight: 900; color: #00d4ff; opacity: 0; }
+    .badge { display: inline-block; padding: 12px 32px; border-radius:20px; font-size: 14px; text-transform: uppercase; letter-spacing: 3px; font-weight: 700; opacity: 0; }
+    .badge-blue { background: rgba(59,130,246,0.2); border: 2px solid #3b82f6; color: #93b8fc; }
+    .badge-purple { background: rgba(139,92,246,0.2); border: 2px solid #8b5cf6; color: #a78bfa; }
+    .badge-green { background: rgba(16,185,129,0.2); border: 2px solid #10b981; color: #6ee7b7; }
+    .badge-amber { background: rgba(245,158,11,0.2); border: 2px solid #f59e0b; color: #fcd34d; }
+    .visual-element { position: absolute; opacity: 0; z-index: 1; }
+    .icon-large { font-size: 80px; }
+    .floating-image { position: absolute; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.4); opacity: 0; }
+  </style>
+</head>
+<body>
+<div data-hf-id="hf-root" id="root" data-composition-id="under-the-hood" data-width="1920" data-height="1080" data-duration="111.1">
+
+  <!-- Scene 1: Intro (0-4.312s) -->
+  <section data-hf-id="hf-s1" class="clip" data-start="0" data-duration="4.312" data-track-index="0">
+    <div data-hf-id="hf-wvn4" class="scene-bg" style="background-image: url('assets/images/engine-hood.jpg');"></div>
+    <div data-hf-id="hf-cekv" class="scene-overlay"></div>
+    <div data-hf-id="hf-cn5c" class="scene-content">
+      <p data-hf-id="hf-jprv" class="title-text accent" id="s1-title">UNDER THE HOOD</p>
+      <div data-hf-id="hf-wdu1" class="divider" id="s1-divider"></div>
+      <p data-hf-id="hf-spme" class="subtitle-text" id="s1-sub">a quick look at what's inside</p>
+    </div>
+  </section>
+
+  <!-- Scene 2: 40 Rules (4.312-14.312s) -->
+  <section data-hf-id="hf-s2" class="clip" data-start="4.312" data-duration="10" data-track-index="0">
+    <div data-hf-id="hf-pnjw" class="scene-bg" style="background-image: url('assets/images/dark-tech-bg.jpg');"></div>
+    <div data-hf-id="hf-fp4f" class="scene-overlay"></div>
+    <div data-hf-id="hf-o0eg" class="scene-content">
+      <p data-hf-id="hf-80wg" class="phrase-text" id="s2-phrase1" style="font-size:36px;">While building the POS system</p>
+      <p data-hf-id="hf-7cn2" class="phrase-text" id="s2-phrase1b" style="font-size:28px; color:#94a3b8;">I ended up writing down roughly</p>
+      <p data-hf-id="hf-1rb2" class="number-big" id="s2-number">40</p>
+      <p data-hf-id="hf-mq6r" class="phrase-text" id="s2-phrase2" style="font-size:42px;">SMALL RULES</p>
+      <p data-hf-id="hf-y81q" class="phrase-text" id="s2-phrase3" style="font-size:28px; color:#94a3b8;">like the ones in RULES.md</p>
+      <p data-hf-id="hf-4cvw" class="phrase-text" id="s2-phrase4" style="font-size:28px;">They're not random, they all serve one of four goals</p>
+    </div>
+    <img data-hf-id="hf-dben" class="floating-image" id="s2-img1" src="assets/images/rule-book.jpg" style="width:300px; top:100px; left:100px;">
+    <img data-hf-id="hf-ovdf" class="floating-image" id="s2-img2" src="assets/images/checklist.jpg" style="width:250px; bottom:100px; right:100px;">
+  </section>
+
+  <!-- Scene 3: Four Goals (14.312-24.312s) -->
+  <section data-hf-id="hf-s3" class="clip" data-start="14.312" data-duration="10" data-track-index="0">
+    <div data-hf-id="hf-3bod" class="scene-bg" style="background-image: url('assets/images/architecture Blueprint.jpg');"></div>
+    <div data-hf-id="hf-fate" class="scene-overlay"></div>
+    <div data-hf-id="hf-mthd" class="scene-content">
+      <p data-hf-id="hf-on7d" class="phrase-text" id="s3-phrase1" style="font-size:32px;">things stay predictable... the code stays modular...</p>
+      <p data-hf-id="hf-mn0m" class="phrase-text" id="s3-phrase2" style="font-size:28px;">the system can scale... and everything stays consistent</p>
+      <div data-hf-id="hf-o8pl" style="display:flex; justify-content:center; gap:40px; flex-wrap:wrap; margin-top:30px;">
+        <div data-hf-id="hf-dbdd" class="badge badge-blue" id="s3-goal1">PREDICTABLE</div>
+        <div data-hf-id="hf-ubil" class="badge badge-purple" id="s3-goal2">MODULAR</div>
+        <div data-hf-id="hf-d2je" class="badge badge-green" id="s3-goal3">SCALABLE</div>
+        <div data-hf-id="hf-ntsa" class="badge badge-amber" id="s3-goal4">CONSISTENT</div>
+      </div>
+      <p data-hf-id="hf-til2" class="phrase-text" id="s3-phrase3" style="font-size:24px; color:#94a3b8; margin-top:30px;">I'm not going to read you all forty</p>
+    </div>
+  </section>
+
+  <!-- Scene 4: Predictable (24.312-38.312s) -->
+  <section data-hf-id="hf-s4" class="clip" data-start="24.312" data-duration="14" data-track-index="0">
+    <div data-hf-id="hf-fqzt" class="scene-bg" style="background-image: url('assets/images/consistent-output.jpg');"></div>
+    <div data-hf-id="hf-ewid" class="scene-overlay"></div>
+    <div data-hf-id="hf-n7se" class="scene-content">
+      <p data-hf-id="hf-jkwh" class="phrase-text" id="s4-p0" style="font-size:28px;">the whole point of writing them down</p>
+      <p data-hf-id="hf-y3b3" class="phrase-text" id="s4-p1" style="font-size:28px;">so nobody has to memorize them</p>
+      <p data-hf-id="hf-rx2n" class="phrase-text" id="s4-p2" style="font-size:24px; color:#94a3b8;">But here's one example from each group</p>
+      <div data-hf-id="hf-fo20" class="badge badge-blue" id="s4-badge">GOAL 1</div>
+      <p data-hf-id="hf-2aty" class="title-text accent" id="s4-title" style="font-size:48px;">PREDICTABLE</p>
+      <div data-hf-id="hf-pr0s" class="divider" id="s4-divider"></div>
+      <p data-hf-id="hf-xuld" class="phrase-text" id="s4-p3" style="font-size:28px;">every function hands back its answer</p>
+      <p data-hf-id="hf-4xji" class="phrase-text" id="s4-p4" style="font-size:28px;">in the exact same shape, every time</p>
+    </div>
+  </section>
+
+  <!-- Scene 5: Modular (38.312-52.0s) - ends when "Scalable" is spoken -->
+  <section data-hf-id="hf-s5" class="clip" data-start="38.312" data-duration="13.688" data-track-index="0">
+    <div data-hf-id="hf-xns8" class="scene-bg" style="background-image: url('assets/images/modular-components.jpg');"></div>
+    <div data-hf-id="hf-honk" class="scene-overlay"></div>
+    <div data-hf-id="hf-m0vb" class="scene-content">
+      <p data-hf-id="hf-i2wf" class="phrase-text" id="s5-p0" style="font-size:28px;">like every order coming out on the same size plate</p>
+      <p data-hf-id="hf-javt" class="phrase-text" id="s5-p0b" style="font-size:24px; color:#94a3b8;">no matter what you ordered</p>
+      <div data-hf-id="hf-wyky" class="badge badge-purple" id="s5-badge">GOAL 2</div>
+      <p data-hf-id="hf-cw92" class="title-text" id="s5-title" style="color:#a78bfa; font-size:48px;">MODULAR</p>
+      <div data-hf-id="hf-sywd" class="divider" id="s5-divider"></div>
+      <p data-hf-id="hf-8dex" class="phrase-text" id="s5-p1" style="font-size:28px;">the database code, the business logic, and the screens</p>
+      <p data-hf-id="hf-5mwx" class="phrase-text" id="s5-p2" style="font-size:28px;">never touch each other directly</p>
+      <p data-hf-id="hf-q6z0" class="phrase-text" id="s5-p3" style="font-size:28px;">they only talk through one designated doorway</p>
+    </div>
+    <img data-hf-id="hf-d8y4" class="floating-image" id="s5-img" src="assets/images/doorway-passageway.jpg" style="width:400px; right:100px; top:200px; border-radius:16px;">
+  </section>
+
+  <!-- Scene 6: Scalable (52.0-60.8s) - starts when "Scalable" is spoken -->
+  <section data-hf-id="hf-s6" class="clip" data-start="52.0" data-duration="8.8" data-track-index="0">
+    <div data-hf-id="hf-9lok" class="scene-bg" style="background-image: url('assets/images/database-logging.jpg');"></div>
+    <div data-hf-id="hf-hacj" class="scene-overlay"></div>
+    <div data-hf-id="hf-mf6c" class="scene-content">
+      <div data-hf-id="hf-yq8z" class="badge badge-green" id="s6-badge">GOAL 3</div>
+      <p data-hf-id="hf-qjv1" class="title-text" id="s6-title" style="color:#34d399; font-size:48px;">SCALABLE</p>
+      <div data-hf-id="hf-g6cm" class="divider" id="s6-divider"></div>
+      <p data-hf-id="hf-sjth" class="phrase-text" id="s6-p1" style="font-size:28px;">every change to the database gets logged automatically</p>
+      <p data-hf-id="hf-xoia" class="phrase-text" id="s6-p2" style="font-size:28px;">so if something breaks six months from now</p>
+      <p data-hf-id="hf-tn81" class="phrase-text" id="s6-p3" style="font-size:28px;">you can see exactly what happened and when</p>
+    </div>
+    <img data-hf-id="hf-ppss" class="floating-image" id="s6-img" src="assets/images/growth-chart.jpg" style="width:350px; left:100px; bottom:150px;">
+  </section>
+
+  <!-- Scene 7: Consistent (60.8-76.2s) - starts when "Consistent" is spoken -->
+  <section data-hf-id="hf-s7" class="clip" data-start="60.8" data-duration="15.4" data-track-index="0">
+    <div data-hf-id="hf-017v" class="scene-bg" style="background-image: url('assets/images/file-header.jpg');"></div>
+    <div data-hf-id="hf-gw1i" class="scene-overlay"></div>
+    <div data-hf-id="hf-l899" class="scene-content">
+      <div data-hf-id="hf-gker" class="badge badge-amber" id="s7-badge">GOAL 4</div>
+      <p data-hf-id="hf-jv2r" class="title-text" id="s7-title" style="color:#fbbf24; font-size:48px;">CONSISTENT</p>
+      <div data-hf-id="hf-xdz3" class="divider" id="s7-divider"></div>
+      <p data-hf-id="hf-as07" class="phrase-text" id="s7-p1" style="font-size:28px;">every file starts with the same short header block</p>
+      <p data-hf-id="hf-b967" class="phrase-text" id="s7-p2" style="font-size:24px; color:#94a3b8;">so opening any file feels familiar</p>
+      <p data-hf-id="hf-wflg" class="phrase-text" id="s7-p3" style="font-size:28px;">of like starting from zero</p>
+      <p data-hf-id="hf-7fjd" class="phrase-text" id="s7-p4" style="font-size:24px; color:#94a3b8;">That's four ideas echoed about ten times each</p>
+      <p data-hf-id="hf-7qs9" class="phrase-text" id="s7-p5" style="font-size:24px; color:#94a3b8;">across different corners of the project</p>
+    </div>
+    <img data-hf-id="hf-r67f" class="floating-image" id="s7-img" src="assets/images/organized-files.jpg" style="width:350px; right:100px; bottom:150px;">
+  </section>
+
+  <!-- Scene 8: Same Pattern (76.2-90.3s) - starts when "Same pattern" is spoken -->
+  <section data-hf-id="hf-s8" class="clip" data-start="76.2" data-duration="14.1" data-track-index="0">
+    <div data-hf-id="hf-hdu5" class="scene-bg" style="background-image: url('assets/images/repeating-pattern.jpg');"></div>
+    <div data-hf-id="hf-ghqh" class="scene-overlay"></div>
+    <div data-hf-id="hf-lmka" class="scene-content">
+      <p data-hf-id="hf-ivr6" class="title-text accent" id="s8-title" style="font-size:56px;">SAME PATTERN</p>
+      <div data-hf-id="hf-ub1s" class="divider" id="s8-divider"></div>
+      <p data-hf-id="hf-9830" class="phrase-text" id="s8-p1" style="font-size:28px;">applied everywhere it's needed</p>
+      <p data-hf-id="hf-ob3s" class="phrase-text" id="s8-p2" style="font-size:28px;">Once the idea clicks</p>
+      <p data-hf-id="hf-s960" class="phrase-text" id="s8-p3" style="font-size:28px;">the other thirty-six are just the same four thoughts wearing different outfits</p>
+      <p data-hf-id="hf-61oa" class="phrase-text" id="s8-p4" style="font-size:24px; color:#fca5a5; margin-top:20px;">One honest note on when this is worth doing at all</p>
+    </div>
+  </section>
+
+  <!-- Scene 9: Worth It (90.3-111.1s) - starts when "something" is spoken -->
+  <section data-hf-id="hf-s9" class="clip" data-start="90.3" data-duration="20.8" data-track-index="0">
+    <div data-hf-id="hf-5e8e" class="scene-bg" style="background-image: url('assets/images/roi-return.jpg');"></div>
+    <div data-hf-id="hf-cwz8" class="scene-overlay"></div>
+    <div data-hf-id="hf-qsjn" class="scene-content">
+      <p data-hf-id="hf-sg1t" class="phrase-text" id="s9-p1" style="color:#fca5a5; font-size:32px;">something you'll run twice and forget — skip all of this</p>
+      <p data-hf-id="hf-4k1x" class="phrase-text" id="s9-p2" style="font-size:28px;">Open the editor and write</p>
+      <p data-hf-id="hf-z168" class="phrase-text" id="s9-p3" style="font-size:28px;">The blueprint would cost more than the script is worth</p>
+      <div data-hf-id="hf-kikx" class="divider" id="s9-divider"></div>
+      <p data-hf-id="hf-s866" class="phrase-text" id="s9-p4" style="color:#22c55e; font-size:32px; font-weight:700;">This is for projects that stick around for months</p>
+      <p data-hf-id="hf-b89s" class="phrase-text" id="s9-p5" style="font-size:24px; color:#94a3b8;">things you'll keep extending, maintaining, and handing off</p>
+      <p data-hf-id="hf-n2my" class="number-big" id="s9-number" style="font-size:96px; margin-top:20px;">100x ROI</p>
+      <p data-hf-id="hf-que4" class="phrase-text" id="s9-p6" style="font-size:24px; color:#94a3b8;">two hours of planning pays for itself a hundred times</p>
+    </div>
+  </section>
+
+  <audio data-hf-id="hf-audio" id="narration" src="assets/narration.mp3" data-start="0" data-track-index="20" data-volume="1"></audio>
+</div>
+
+<script>
+  const tl = gsap.timeline({ paused: true });
+
+  // =====================================================
+  // SCENE 1: INTRO (0.0s - 4.312s)
+  // =====================================================
+  tl.fromTo("#s1-title", { y: 40, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, ease: "power3.out" }, 0.1);
+  tl.fromTo("#s1-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3, ease: "power2.out" }, 0.5);
+  tl.fromTo("#s1-sub", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4, ease: "power2.out" }, 0.8);
+
+  // =====================================================
+  // SCENE 2: 40 RULES (4.312s - 14.312s)
+  // =====================================================
+  tl.fromTo("#s2-phrase1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 4.3);
+  tl.fromTo("#s2-phrase1b", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 6.2);
+  tl.fromTo("#s2-number", { scale: 3, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "power4.out" }, 7.7);
+  tl.fromTo("#s2-phrase2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 8.1);
+  tl.fromTo("#s2-phrase3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 8.9);
+  tl.fromTo("#s2-img1", { x: -50, opacity: 0 }, { x: 0, opacity: 0.7, duration: 0.5 }, 9.5);
+  tl.fromTo("#s2-phrase4", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 11.7);
+  tl.fromTo("#s2-img2", { x: 50, opacity: 0 }, { x: 0, opacity: 0.7, duration: 0.5 }, 12.5);
+
+  // =====================================================
+  // SCENE 3: FOUR GOALS (14.312s - 24.312s)
+  // =====================================================
+  tl.fromTo("#s3-phrase1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 14.6);
+  tl.fromTo("#s3-goal1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 15.2);
+  tl.fromTo("#s3-goal2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 16.8);
+  tl.fromTo("#s3-phrase2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 17.5);
+  tl.fromTo("#s3-goal3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 18.1);
+  tl.fromTo("#s3-goal4", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 19.7);
+  tl.fromTo("#s3-phrase3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 21.2);
+
+  // =====================================================
+  // SCENE 4: PREDICTABLE (24.312s - 38.312s)
+  // =====================================================
+  tl.fromTo("#s4-p0", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 24.3);
+  tl.fromTo("#s4-p1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 26.1);
+  tl.fromTo("#s4-p2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 28.8);
+  tl.fromTo("#s4-badge", { y: -20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 33.6);
+  tl.fromTo("#s4-title", { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 33.8);
+  tl.fromTo("#s4-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3 }, 34.2);
+  tl.fromTo("#s4-p3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 34.5);
+  tl.fromTo("#s4-p4", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 36.2);
+
+  // =====================================================
+  // SCENE 5: MODULAR (38.312s - 52.0s)
+  // =====================================================
+  tl.fromTo("#s5-p0", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 38.5);
+  tl.fromTo("#s5-p0b", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 41.1);
+  tl.fromTo("#s5-badge", { y: -20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 43.3);
+  tl.fromTo("#s5-title", { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 43.5);
+  tl.fromTo("#s5-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3 }, 44.0);
+  tl.fromTo("#s5-p1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 44.1);
+  tl.fromTo("#s5-p2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 47.1);
+  tl.fromTo("#s5-p3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 48.8);
+  tl.fromTo("#s5-img", { x: 50, opacity: 0 }, { x: 0, opacity: 0.8, duration: 0.5 }, 45.0);
+
+  // =====================================================
+  // SCENE 6: SCALABLE (52.0s - 60.8s)
+  // =====================================================
+  tl.fromTo("#s6-badge", { y: -20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 52.0);
+  tl.fromTo("#s6-title", { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 52.2);
+  tl.fromTo("#s6-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3 }, 52.8);
+  tl.fromTo("#s6-p1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 52.9);
+  tl.fromTo("#s6-p2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 54.4);
+  tl.fromTo("#s6-img", { x: -50, opacity: 0 }, { x: 0, opacity: 0.8, duration: 0.5 }, 55.0);
+  tl.fromTo("#s6-p3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 58.0);
+
+  // =====================================================
+  // SCENE 7: CONSISTENT (60.8s - 76.2s)
+  // =====================================================
+  tl.fromTo("#s7-badge", { y: -20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.3 }, 60.8);
+  tl.fromTo("#s7-title", { y: 30, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 61.0);
+  tl.fromTo("#s7-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3 }, 61.5);
+  tl.fromTo("#s7-p1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 62.8);
+  tl.fromTo("#s7-img", { x: 50, opacity: 0 }, { x: 0, opacity: 0.8, duration: 0.5 }, 64.0);
+  tl.fromTo("#s7-p2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 67.4);
+  tl.fromTo("#s7-p3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 68.9);
+  tl.fromTo("#s7-p4", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 71.2);
+  tl.fromTo("#s7-p5", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 73.5);
+
+  // =====================================================
+  // SCENE 8: SAME PATTERN (76.2s - 90.3s)
+  // =====================================================
+  tl.fromTo("#s8-title", { scale: 0.8, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.5, ease: "back.out(1.5)" }, 76.2);
+  tl.fromTo("#s8-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3 }, 76.7);
+  tl.fromTo("#s8-p1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 77.5);
+  tl.fromTo("#s8-p2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 80.3);
+  tl.fromTo("#s8-p3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 82.0);
+  tl.fromTo("#s8-p4", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 85.5);
+
+  // =====================================================
+  // SCENE 9: WORTH IT (90.3s - 111.1s)
+  // =====================================================
+  tl.fromTo("#s9-p1", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 90.3);
+  tl.fromTo("#s9-p2", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 94.1);
+  tl.fromTo("#s9-p3", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 96.4);
+  tl.fromTo("#s9-divider", { scaleX: 0 }, { scaleX: 1, duration: 0.3 }, 99.5);
+  tl.fromTo("#s9-p4", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 99.7);
+  tl.fromTo("#s9-p5", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 102.2);
+  tl.fromTo("#s9-number", { scale: 0.5, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.6, ease: "back.out(1.7)" }, 108.0);
+  tl.fromTo("#s9-p6", { y: 20, opacity: 0 }, { y: 0, opacity: 1, duration: 0.4 }, 108.4);
+
+  window.__timelines["under-the-hood"] = tl;
+</script>
+</body>
+</html>

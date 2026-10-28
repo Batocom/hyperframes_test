@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&family=Fira+Code:wght@400;600;700&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .section-badge { position: absolute; top: 40px; left: 50%; transform: translateX(-50%); background: linear-gradient(135deg, rgba(59,130,246,0.2), rgba(29,78,216,0.1)); border: 2px solid #3b82f6; border-radius: 20px; padding: 12px 32px; opacity: 0; }
+    .section-badge .num { font-size: 14px; color: #60a5fa; text-transform: uppercase; letter-spacing: 3px; }
+    .section-badge .name { font-size: 28px; font-weight: 900; color: #60a5fa; margin-top: 2px; }
+    .analogy { position: absolute; top: 160px; left: 50%; transform: translateX(-50%); font-size: 22px; color: #94a3b8; opacity: 0; text-align: center; width: 80%; }
+    .plate { position: absolute; top: 250px; left: 50%; transform: translateX(-50%); width: 600px; height: 300px; opacity: 0; }
+    .plate-circle { width: 200px; height: 200px; border-radius: 50%; border: 3px solid #3b82f6; position: absolute; left: 50%; transform: translateX(-50%); top: 20px; display: flex; align-items: center; justify-content: center; }
+    .plate-circle svg { width: 80px; height: 80px; fill: #3b82f6; opacity: 0.5; }
+    .plate-label { position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); font-family: 'Fira Code', monospace; font-size: 16px; color: #60a5fa; white-space: nowrap; }
+    .detail { position: absolute; bottom: 80px; left: 50%; transform: translateX(-50%); font-size: 20px; color: #64748b; opacity: 0; text-align: center; width: 80%; }
+  </style>
+  <div data-hf-id="hf-s4-root" id="root" data-composition-id="scene-04" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s4-badge" id="s4-badge" class="section-badge">
+      <div class="num">GOAL 1</div>
+      <div class="name">PREDICTABLE</div>
+    </div>
+    <div data-hf-id="hf-s4-analogy" id="s4-analogy" class="analogy" data-hf-word="every">Every function hands back its answer in the exact same shape, every time.</div>
+    <div data-hf-id="hf-s4-plate" id="s4-plate" class="plate">
+      <div class="plate-circle"><svg viewBox="0 0 24 24"><path d="M8.1 13.34l2.83-2.83L3.91 3.5a4.008 4.008 0 000 5.66l4.19 4.18zm6.78-1.81c1.53.71 3.68.21 5.27-1.38 1.91-1.91 2.28-4.65.81-6.12-1.46-1.46-4.2-1.1-6.12.81-1.59 1.59-2.09 3.74-1.38 5.27L3.7 19.87l1.41 1.41L12 14.41l6.88 6.88 1.41-1.41L13.41 13l1.47-1.47z"/></svg></div>
+      <div class="plate-label">same plate, every order</div>
+    </div>
+    <div data-hf-id="hf-s4-detail" id="s4-detail" class="detail">like every order coming out on the same size plate, no matter what you ordered</div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s4-badge', { autoAlpha: 0, y: -20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 0.5);
+    tl.fromTo('#s4-analogy', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 1.0);
+    tl.fromTo('#s4-plate', { autoAlpha: 0, scale: 0.8 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: 'back.out(1.7)' }, 2.0);
+    tl.fromTo('#s4-detail', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 4.5);
+    tl.to('#s4-plate', { rotation: 3, duration: 2, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 3);
+    tl.to('#s4-badge', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 2);
+    tl.to('#s4-detail', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 4 }, 5);
+    window.__timelines["scene-04"] = tl;
+  </script>
+</template>
+</body>
+</html>

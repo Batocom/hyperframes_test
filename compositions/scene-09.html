@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"></head>
+<body>
+<template>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;900&display=swap');
+    #root { position: absolute; inset: 0; background: linear-gradient(135deg, #0a0e17, #1a1a2e); font-family: "Inter", sans-serif; color: #fff; overflow: hidden; }
+    .skip { position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); font-size: 28px; color: #ef4444; opacity: 0; text-align: center; width: 80%; }
+    .skip-list { position: absolute; top: 42%; left: 50%; transform: translateX(-50%); display: flex; gap: 20px; opacity: 0; }
+    .skip-item { padding: 12px 24px; border-radius: 12px; background: rgba(239,68,68,0.1); border: 1px solid rgba(239,68,68,0.2); font-size: 16px; color: #fca5a5; }
+    .worth { position: absolute; top: 58%; left: 50%; transform: translate(-50%, -50%); font-size: 28px; color: #22c55e; opacity: 0; text-align: center; width: 80%; }
+    .roi { position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%); font-size: 48px; font-weight: 900; color: #00d4ff; opacity: 0; }
+    .roi-sub { position: absolute; top: 80%; left: 50%; transform: translateX(-50%); font-size: 20px; color: #64748b; opacity: 0; white-space: nowrap; }
+  </style>
+  <div data-hf-id="hf-s9-root" id="root" data-composition-id="scene-09" data-width="1920" data-height="1080">
+    <div data-hf-id="hf-s9-skip" id="s9-skip" class="skip" data-hf-word="if">If it's a weekend script, a one-off — skip all of this.</div>
+    <div data-hf-id="hf-s9-skip-list" id="s9-skip-list" class="skip-list">
+      <div class="skip-item">weekend script</div>
+      <div class="skip-item">one-off</div>
+      <div class="skip-item">run twice and forget</div>
+    </div>
+    <div data-hf-id="hf-s9-worth" id="s9-worth" class="worth" data-hf-word="This">This is for projects that stick around for months.</div>
+    <div data-hf-id="hf-s9-roi" id="s9-roi" class="roi">100x ROI</div>
+    <div data-hf-id="hf-s9-roi-sub" id="s9-roi-sub" class="roi-sub">two hours of planning pays for itself a hundred times over</div>
+  </div>
+  <script>
+    var tl = gsap.timeline({ paused: true });
+    tl.fromTo('#s9-skip', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 0.5);
+    tl.fromTo('#s9-skip-list', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 1.5);
+    tl.to('#s9-skip', { autoAlpha: 0, duration: 0.3 }, 6.0);
+    tl.to('#s9-skip-list', { autoAlpha: 0, duration: 0.3 }, 6.0);
+    tl.fromTo('#s9-worth', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 7.0);
+    tl.fromTo('#s9-roi', { autoAlpha: 0, scale: 0.5 }, { autoAlpha: 1, scale: 1, duration: 0.5, ease: 'back.out(1.7)' }, 9.0);
+    tl.fromTo('#s9-roi-sub', { autoAlpha: 0, y: 20 }, { autoAlpha: 1, y: 0, duration: 0.4 }, 10.0);
+    tl.to('#s9-worth', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 6 }, 8);
+    tl.to('#s9-roi', { scale: 1.05, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 6 }, 10);
+    tl.to('#s9-roi-sub', { y: -3, duration: 1.5, ease: 'sine.inOut', yoyo: true, repeat: 5 }, 11);
+    window.__timelines["scene-09"] = tl;
+  </script>
+</template>
+</body>
+</html>
